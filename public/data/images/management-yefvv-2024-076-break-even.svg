@@ -1,0 +1,101 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 560" role="img" aria-labelledby="title desc">
+  <title id="title">Графік беззбитковості для визначення цільового прибутку</title>
+  <desc id="desc">Лінія валового доходу перетинає лінію валових витрат при обсязі продажу 500 одиниць і значенні 50 тисяч гривень.</desc>
+  <rect width="900" height="560" fill="#ffffff"/>
+  <style>
+    text { font-family: Arial, sans-serif; fill: #17211b; }
+    .axis { stroke: #17211b; stroke-width: 2; }
+    .grid { stroke: #d9dedb; stroke-width: 1; }
+    .dash { stroke: #5c6860; stroke-width: 1.5; stroke-dasharray: 7 6; }
+    .revenue { stroke: #2d6f9f; stroke-width: 4; fill: none; }
+    .cost { stroke: #222; stroke-width: 3; fill: none; }
+    .fixed { stroke: #222; stroke-width: 3; fill: none; }
+    .point { fill: #2d6f9f; stroke: #ffffff; stroke-width: 2; }
+    .label { font-size: 22px; }
+    .tick { font-size: 18px; }
+    .caption { font-size: 20px; font-weight: 700; }
+  </style>
+
+  <g transform="translate(105 55)">
+    <rect x="0" y="0" width="680" height="380" fill="#fbfbfb" stroke="#d9dedb"/>
+
+    <g>
+      <line class="grid" x1="0" y1="380" x2="680" y2="380"/>
+      <line class="grid" x1="0" y1="332.5" x2="680" y2="332.5"/>
+      <line class="grid" x1="0" y1="285" x2="680" y2="285"/>
+      <line class="grid" x1="0" y1="237.5" x2="680" y2="237.5"/>
+      <line class="grid" x1="0" y1="190" x2="680" y2="190"/>
+      <line class="grid" x1="0" y1="142.5" x2="680" y2="142.5"/>
+      <line class="grid" x1="0" y1="95" x2="680" y2="95"/>
+      <line class="grid" x1="0" y1="47.5" x2="680" y2="47.5"/>
+      <line class="grid" x1="0" y1="0" x2="680" y2="0"/>
+
+      <line class="grid" x1="0" y1="0" x2="0" y2="380"/>
+      <line class="grid" x1="85" y1="0" x2="85" y2="380"/>
+      <line class="grid" x1="170" y1="0" x2="170" y2="380"/>
+      <line class="grid" x1="255" y1="0" x2="255" y2="380"/>
+      <line class="grid" x1="340" y1="0" x2="340" y2="380"/>
+      <line class="grid" x1="425" y1="0" x2="425" y2="380"/>
+      <line class="grid" x1="510" y1="0" x2="510" y2="380"/>
+      <line class="grid" x1="595" y1="0" x2="595" y2="380"/>
+      <line class="grid" x1="680" y1="0" x2="680" y2="380"/>
+    </g>
+
+    <line class="axis" x1="0" y1="380" x2="700" y2="380"/>
+    <line class="axis" x1="0" y1="380" x2="0" y2="-12"/>
+
+    <text class="label" x="-92" y="10">Тис.грн.</text>
+    <text class="label" x="450" y="455">Обсяг продажу, штук</text>
+
+    <g text-anchor="end">
+      <text class="tick" x="-15" y="386">0</text>
+      <text class="tick" x="-15" y="339">10</text>
+      <text class="tick" x="-15" y="291">20</text>
+      <text class="tick" x="-15" y="244">30</text>
+      <text class="tick" x="-15" y="196">40</text>
+      <text class="tick" x="-15" y="149">50</text>
+      <text class="tick" x="-15" y="101">60</text>
+      <text class="tick" x="-15" y="54">70</text>
+      <text class="tick" x="-15" y="6">80</text>
+    </g>
+
+    <g text-anchor="middle">
+      <text class="tick" x="0" y="410">0</text>
+      <text class="tick" x="85" y="410">100</text>
+      <text class="tick" x="170" y="410">200</text>
+      <text class="tick" x="255" y="410">300</text>
+      <text class="tick" x="340" y="410">400</text>
+      <text class="tick" x="425" y="410">500</text>
+      <text class="tick" x="510" y="410">600</text>
+      <text class="tick" x="595" y="410">700</text>
+      <text class="tick" x="680" y="410">800</text>
+    </g>
+
+    <path class="revenue" d="M0 380 L595 47.5"/>
+    <path class="cost" d="M0 261.25 L595 95"/>
+    <path class="fixed" d="M0 261.25 L595 261.25"/>
+
+    <line class="dash" x1="0" y1="142.5" x2="510" y2="142.5"/>
+    <line class="dash" x1="510" y1="142.5" x2="510" y2="380"/>
+    <line class="dash" x1="0" y1="95" x2="595" y2="95"/>
+    <line class="dash" x1="595" y1="47.5" x2="595" y2="380"/>
+    <line class="dash" x1="0" y1="142.5" x2="425" y2="142.5"/>
+    <line class="dash" x1="425" y1="142.5" x2="425" y2="380"/>
+
+    <circle class="point" cx="0" cy="380" r="5"/>
+    <circle class="point" cx="85" cy="332.5" r="5"/>
+    <circle class="point" cx="170" cy="285" r="5"/>
+    <circle class="point" cx="255" cy="237.5" r="5"/>
+    <circle class="point" cx="340" cy="190" r="5"/>
+    <circle class="point" cx="425" cy="142.5" r="6"/>
+    <circle class="point" cx="510" cy="95" r="5"/>
+    <circle class="point" cx="595" cy="47.5" r="5"/>
+
+    <text class="tick" x="700" y="52">Валовий дохід</text>
+    <text class="tick" x="700" y="100">Валові витрати</text>
+    <text class="tick" x="700" y="266">Постійні витрати</text>
+    <text class="tick" x="8" y="135">55</text>
+  </g>
+
+  <text class="caption" x="450" y="525" text-anchor="middle">Графік беззбитковості для визначення цільового прибутку</text>
+</svg>

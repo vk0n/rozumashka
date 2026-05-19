@@ -1,0 +1,50 @@
+[
+  {
+    "id": "tznk",
+    "title": "ТЗНК",
+    "fullTitle": "Тест загальної навчальної компетентності",
+    "description": "Логіка, аналітичне мислення, робота з текстом і базові кількісні міркування.",
+    "questionFile": "data/questions/tznk.json",
+    "recommendedQuestionCount": 8,
+    "examQuestionCount": 30,
+    "defaultDurationMinutes": 30,
+    "examDurationMinutes": 75,
+    "accent": "#315c4f"
+  },
+  {
+    "id": "english",
+    "title": "Англійська мова",
+    "fullTitle": "ЄВІ з англійської мови",
+    "description": "Лексика, граматика, читання та розуміння коротких академічних текстів.",
+    "questionFile": "data/questions/english.json",
+    "recommendedQuestionCount": 8,
+    "examQuestionCount": 30,
+    "defaultDurationMinutes": 30,
+    "examDurationMinutes": 75,
+    "accent": "#b7653b"
+  },
+  {
+    "id": "management",
+    "title": "Управління та адміністрування",
+    "fullTitle": "Фаховий іспит з управління та адміністрування",
+    "description": "Менеджмент, маркетинг, фінанси, організаційна поведінка та публічне адміністрування.",
+    "questionFile": "data/questions/management.json",
+    "recommendedQuestionCount": 8,
+    "examQuestionCount": 140,
+    "defaultDurationMinutes": 35,
+    "examDurationMinutes": 180,
+    "accent": "#f0b84d"
+  },
+  {
+    "id": "psychology-sociology",
+    "title": "Психологія та соціологія",
+    "fullTitle": "Фаховий іспит з психології та соціології",
+    "description": "Базові поняття психології, соціальні інститути, методи дослідження та теорії особистості.",
+    "questionFile": "data/questions/psychology-sociology.json",
+    "recommendedQuestionCount": 8,
+    "examQuestionCount": 140,
+    "defaultDurationMinutes": 35,
+    "examDurationMinutes": 180,
+    "accent": "#6f7fcb"
+  }
+]

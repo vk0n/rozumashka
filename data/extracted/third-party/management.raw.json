@@ -1,0 +1,2722 @@
+[
+  {
+    "rawQuestionText": "Яка з ознак зовнішнього середовища характеризує кількість і розмаїття чинників, на які організація зобов'язана реагувати?",
+    "rawPassage": null,
+    "rawOptions": [
+      "Взаємоповʼязаність.",
+      "Складність.",
+      "Рухомість.",
+      "Невизначеність."
+    ],
+    "rawCorrectAnswer": 1,
+    "rawExplanation": null,
+    "sourceUrl": "https://zno.osvita.ua/master/upravlinnja/list.html",
+    "sourceFile": "data/raw/third-party/management/zno-osvita-upravlinnja-0000.html",
+    "pageNumber": null,
+    "confidence": "high",
+    "extractionNotes": "Extracted from ZNO Освіта task 32781; q[tip]=1."
+  },
+  {
+    "rawQuestionText": "Який з товарів належить до споживчих товарів особливого попиту?",
+    "rawPassage": null,
+    "rawOptions": [
+      "Локшина швидкого приготування «Мівіна».",
+      "Фотокамера Canon.",
+      "Годинник Rolex.",
+      "Моторна олива Mobil."
+    ],
+    "rawCorrectAnswer": 2,
+    "rawExplanation": null,
+    "sourceUrl": "https://zno.osvita.ua/master/upravlinnja/list.html",
+    "sourceFile": "data/raw/third-party/management/zno-osvita-upravlinnja-0000.html",
+    "pageNumber": null,
+    "confidence": "high",
+    "extractionNotes": "Extracted from ZNO Освіта task 32780; q[tip]=1."
+  },
+  {
+    "rawQuestionText": "Який спосіб охоплення ринку обрала компанія, якщо вона постачає кілька видів товарів декільком цільовим сегментам ринку?",
+    "rawPassage": null,
+    "rawOptions": [
+      "Орієнтація на споживчу потребу.",
+      "Орієнтація на групу споживачів.",
+      "Вибіркова спеціалізація.",
+      "Повне охоплення."
+    ],
+    "rawCorrectAnswer": 2,
+    "rawExplanation": null,
+    "sourceUrl": "https://zno.osvita.ua/master/upravlinnja/list.html",
+    "sourceFile": "data/raw/third-party/management/zno-osvita-upravlinnja-0000.html",
+    "pageNumber": null,
+    "confidence": "high",
+    "extractionNotes": "Extracted from ZNO Освіта task 32779; q[tip]=1."
+  },
+  {
+    "rawQuestionText": "Керівник приймає рішення щодо виходу на новий ринок, оскільки йому подобається культурна спадщина цього регіону. До якого типу належить таке управлінське рішення?",
+    "rawPassage": null,
+    "rawOptions": [
+      "Запрограмоване.",
+      "Інтуїтивне.",
+      "Засноване на судженнях.",
+      "Раціональне."
+    ],
+    "rawCorrectAnswer": 1,
+    "rawExplanation": null,
+    "sourceUrl": "https://zno.osvita.ua/master/upravlinnja/list.html",
+    "sourceFile": "data/raw/third-party/management/zno-osvita-upravlinnja-0000.html",
+    "pageNumber": null,
+    "confidence": "high",
+    "extractionNotes": "Extracted from ZNO Освіта task 32778; q[tip]=1."
+  },
+  {
+    "rawQuestionText": "Оберіть ключові кроки реалізації проєкту.",
+    "rawPassage": null,
+    "rawOptions": [
+      "Визначення цілей і завдань.",
+      "Планування й оцінювання.",
+      "Розподіл ресурсів і формування команди.",
+      "Моніторинг та оцінювання результатів."
+    ],
+    "rawCorrectAnswer": 1,
+    "rawExplanation": null,
+    "sourceUrl": "https://zno.osvita.ua/master/upravlinnja/list.html",
+    "sourceFile": "data/raw/third-party/management/zno-osvita-upravlinnja-0000.html",
+    "pageNumber": null,
+    "confidence": "high",
+    "extractionNotes": "Extracted from ZNO Освіта task 32777; q[tip]=1."
+  },
+  {
+    "rawQuestionText": "У чому полягає функція мотивування в організації?",
+    "rawPassage": null,
+    "rawOptions": [
+      "Доведенні окремих завдань до персоналу з метою реалізації цілей організації.",
+      "Формуванні організаційної культури для ефективної роботи.",
+      "Спонуканні себе та інших до діяльності для досягнення особистих цілей або цілей організації.",
+      "Розробленні ефективних механізмів впливу на персонал організації."
+    ],
+    "rawCorrectAnswer": 2,
+    "rawExplanation": null,
+    "sourceUrl": "https://zno.osvita.ua/master/upravlinnja/list.html",
+    "sourceFile": "data/raw/third-party/management/zno-osvita-upravlinnja-0000.html",
+    "pageNumber": null,
+    "confidence": "high",
+    "extractionNotes": "Extracted from ZNO Освіта task 32776; q[tip]=1."
+  },
+  {
+    "rawQuestionText": "Керівник делегує підлеглому виконання завдання, що є критичним для завершення поточного проєкту. Якими видами влади він користується?",
+    "rawPassage": null,
+    "rawOptions": [
+      "Заснованою на винагороді та законною (традиційною).",
+      "Експертною та еталонною.",
+      "Законною (традиційною) та експертною.",
+      "Заснованою на примусі та еталонною владою."
+    ],
+    "rawCorrectAnswer": 2,
+    "rawExplanation": null,
+    "sourceUrl": "https://zno.osvita.ua/master/upravlinnja/list.html",
+    "sourceFile": "data/raw/third-party/management/zno-osvita-upravlinnja-0000.html",
+    "pageNumber": null,
+    "confidence": "high",
+    "extractionNotes": "Extracted from ZNO Освіта task 32775; q[tip]=1."
+  },
+  {
+    "rawQuestionText": "Який розмір річного доходу має бути у малого підприємства відповідно до класифікації за розмірами?",
+    "rawPassage": null,
+    "rawOptions": [
+      "Не перевищує 10 мільйонів євро.",
+      "У межах 12-15 мільйонів євро.",
+      "Більше ніж 50 мільйонів євро.",
+      "Більше ніж 15 мільйонів євро."
+    ],
+    "rawCorrectAnswer": 0,
+    "rawExplanation": null,
+    "sourceUrl": "https://zno.osvita.ua/master/upravlinnja/list.html",
+    "sourceFile": "data/raw/third-party/management/zno-osvita-upravlinnja-0000.html",
+    "pageNumber": null,
+    "confidence": "high",
+    "extractionNotes": "Extracted from ZNO Освіта task 32774; q[tip]=1."
+  },
+  {
+    "rawQuestionText": "Розшифруйте абревіатуру CAGR у бізнес-плануванні.",
+    "rawPassage": null,
+    "rawOptions": [
+      "Постійний обсяг виробництва.",
+      "Зростання середньорічної рентабельності.",
+      "Загальний обсяг капіталу.",
+      "Сукупний середньорічний темп зростання."
+    ],
+    "rawCorrectAnswer": 3,
+    "rawExplanation": null,
+    "sourceUrl": "https://zno.osvita.ua/master/upravlinnja/list.html",
+    "sourceFile": "data/raw/third-party/management/zno-osvita-upravlinnja-0000.html",
+    "pageNumber": null,
+    "confidence": "high",
+    "extractionNotes": "Extracted from ZNO Освіта task 32773; q[tip]=1."
+  },
+  {
+    "rawQuestionText": "Який елемент комплексу маркетингових комунікацій вважають найбільш значимим під час просування споживчих товарів?",
+    "rawPassage": null,
+    "rawOptions": [
+      "Реклама.",
+      "Особистий продаж.",
+      "Стимулювання збуту.",
+      "Зв’язки з громадськістю."
+    ],
+    "rawCorrectAnswer": 0,
+    "rawExplanation": null,
+    "sourceUrl": "https://zno.osvita.ua/master/upravlinnja/list.html",
+    "sourceFile": "data/raw/third-party/management/zno-osvita-upravlinnja-0000.html",
+    "pageNumber": null,
+    "confidence": "high",
+    "extractionNotes": "Extracted from ZNO Освіта task 32772; q[tip]=1."
+  },
+  {
+    "rawQuestionText": "Який комунікаційний канал варто обрати маркетологу під час продажу товарів високого цінового рівня, обтяжених ризиком?",
+    "rawPassage": null,
+    "rawOptions": [
+      "Засоби масової інформації.",
+      "Особистої комунікації.",
+      "Засоби друкованої реклами.",
+      "Неособистої комунікації."
+    ],
+    "rawCorrectAnswer": 1,
+    "rawExplanation": null,
+    "sourceUrl": "https://zno.osvita.ua/master/upravlinnja/list.html",
+    "sourceFile": "data/raw/third-party/management/zno-osvita-upravlinnja-0000.html",
+    "pageNumber": null,
+    "confidence": "high",
+    "extractionNotes": "Extracted from ZNO Освіта task 32771; q[tip]=1."
+  },
+  {
+    "rawQuestionText": "Що являє собою довжина каналу розподілу в маркетингу?",
+    "rawPassage": null,
+    "rawOptions": [
+      "Кількість посередників на одному рівні каналу розподілу.",
+      "Кількість посередників у каналі розподілу на різних географічних ринках.",
+      "Кількість посередників на всіх цільових ринках підприємства.",
+      "Кількість проміжних рівнів у каналі розподілу."
+    ],
+    "rawCorrectAnswer": 3,
+    "rawExplanation": null,
+    "sourceUrl": "https://zno.osvita.ua/master/upravlinnja/list.html",
+    "sourceFile": "data/raw/third-party/management/zno-osvita-upravlinnja-0000.html",
+    "pageNumber": null,
+    "confidence": "high",
+    "extractionNotes": "Extracted from ZNO Освіта task 32770; q[tip]=1."
+  },
+  {
+    "rawQuestionText": "Що таке &laquo;товарний франчайзинг&raquo;?",
+    "rawPassage": null,
+    "rawOptions": [
+      "Співпраця між відділами підприємства для просування бренду.",
+      "Право на реалізацію бренду.",
+      "Передавання товарів на інші ринки.",
+      "Виробництво товарів великими обсягами."
+    ],
+    "rawCorrectAnswer": 1,
+    "rawExplanation": null,
+    "sourceUrl": "https://zno.osvita.ua/master/upravlinnja/list.html",
+    "sourceFile": "data/raw/third-party/management/zno-osvita-upravlinnja-0000.html",
+    "pageNumber": null,
+    "confidence": "high",
+    "extractionNotes": "Extracted from ZNO Освіта task 32769; q[tip]=1."
+  },
+  {
+    "rawQuestionText": "Яке визначення характеризує товар ринкової новизни?",
+    "rawPassage": null,
+    "rawOptions": [
+      "Принципово новий.",
+      "Під час виробництва якого використано нові товари.",
+      "Є на інших ринках, але новий для цього.",
+      "З деяким вдосконаленням."
+    ],
+    "rawCorrectAnswer": 2,
+    "rawExplanation": null,
+    "sourceUrl": "https://zno.osvita.ua/master/upravlinnja/list.html",
+    "sourceFile": "data/raw/third-party/management/zno-osvita-upravlinnja-0000.html",
+    "pageNumber": null,
+    "confidence": "high",
+    "extractionNotes": "Extracted from ZNO Освіта task 32768; q[tip]=1."
+  },
+  {
+    "rawQuestionText": "Яке твердження поняття &laquo;винагорода&raquo; правильне?",
+    "rawPassage": null,
+    "rawOptions": [
+      "Цінність (зовнішня і/або внутрішня), яку отримує працівник як результат виконаної роботи.",
+      "Елемент структури системи управління, на який спрямовано вплив функції управління.",
+      "Вплив на працівників через делегування повноважень.",
+      "Задоволення первинних і вторинних потреб людини."
+    ],
+    "rawCorrectAnswer": 0,
+    "rawExplanation": null,
+    "sourceUrl": "https://zno.osvita.ua/master/upravlinnja/list.html",
+    "sourceFile": "data/raw/third-party/management/zno-osvita-upravlinnja-0000.html",
+    "pageNumber": null,
+    "confidence": "high",
+    "extractionNotes": "Extracted from ZNO Освіта task 32767; q[tip]=1."
+  },
+  {
+    "rawQuestionText": "Який засіб застосовують для попереднього контролю?",
+    "rawPassage": null,
+    "rawOptions": [
+      "Встановлення підготовчих процедур.",
+      "Розроблення стратегічних планів.",
+      "Впровадження критеріїв оцінювання.",
+      "Використання мотиваційних винагород."
+    ],
+    "rawCorrectAnswer": 0,
+    "rawExplanation": null,
+    "sourceUrl": "https://zno.osvita.ua/master/upravlinnja/all/15/",
+    "sourceFile": "data/raw/third-party/management/zno-osvita-upravlinnja-0015.html",
+    "pageNumber": null,
+    "confidence": "high",
+    "extractionNotes": "Extracted from ZNO Освіта task 32766; q[tip]=1."
+  },
+  {
+    "rawQuestionText": "До якого наслідку можуть призвести шуми у комунікаціях?",
+    "rawPassage": null,
+    "rawOptions": [
+      "Розголошення інформації.",
+      "Втрата інформації.",
+      "Спотворення інформації.",
+      "Несанкціонований доступ до інформації."
+    ],
+    "rawCorrectAnswer": 2,
+    "rawExplanation": null,
+    "sourceUrl": "https://zno.osvita.ua/master/upravlinnja/all/15/",
+    "sourceFile": "data/raw/third-party/management/zno-osvita-upravlinnja-0015.html",
+    "pageNumber": null,
+    "confidence": "high",
+    "extractionNotes": "Extracted from ZNO Освіта task 32765; q[tip]=1."
+  },
+  {
+    "rawQuestionText": "Що є вихідним етапом процесу маркетингового ціноутворення?",
+    "rawPassage": null,
+    "rawOptions": [
+      "Розрахунок витрат на виробництво та реалізацію продукції.",
+      "Визначення цілей ціноутворення.",
+      "Аналіз цін і товарів конкурентів.",
+      "Дослідження ринкової кон’юнктури."
+    ],
+    "rawCorrectAnswer": 1,
+    "rawExplanation": null,
+    "sourceUrl": "https://zno.osvita.ua/master/upravlinnja/all/15/",
+    "sourceFile": "data/raw/third-party/management/zno-osvita-upravlinnja-0015.html",
+    "pageNumber": null,
+    "confidence": "high",
+    "extractionNotes": "Extracted from ZNO Освіта task 32764; q[tip]=1."
+  },
+  {
+    "rawQuestionText": "Що характерно для стратегії інтенсивного маркетингу у разі виведення на ринок нового товару?",
+    "rawPassage": null,
+    "rawOptions": [
+      "Високі ціни і великі витрати на стимулювання збуту.",
+      "Високі ціни і низькі витрати на стимулювання збуту.",
+      "Низькі ціни і великі витрати на стимулювання збуту.",
+      "Низькі ціни і низькі витрати на стимулювання збуту."
+    ],
+    "rawCorrectAnswer": 0,
+    "rawExplanation": null,
+    "sourceUrl": "https://zno.osvita.ua/master/upravlinnja/all/15/",
+    "sourceFile": "data/raw/third-party/management/zno-osvita-upravlinnja-0015.html",
+    "pageNumber": null,
+    "confidence": "high",
+    "extractionNotes": "Extracted from ZNO Освіта task 32763; q[tip]=1."
+  },
+  {
+    "rawQuestionText": "Дослідження якої міжнародної консалтингової компанії з &laquo;великої трійки&raquo; може бути джерелом інформації для виконання завдань стратегічного управління під час розробки бізнес-плану?",
+    "rawPassage": null,
+    "rawOptions": [
+      "McKinsey & Company.",
+      "Genisis.",
+      "Statista.",
+      "Google Trends."
+    ],
+    "rawCorrectAnswer": 0,
+    "rawExplanation": null,
+    "sourceUrl": "https://zno.osvita.ua/master/upravlinnja/all/15/",
+    "sourceFile": "data/raw/third-party/management/zno-osvita-upravlinnja-0015.html",
+    "pageNumber": null,
+    "confidence": "high",
+    "extractionNotes": "Extracted from ZNO Освіта task 32762; q[tip]=1."
+  },
+  {
+    "rawQuestionText": "Який різновид маркетингу за типом попиту використовують, якщо на упаковках цигарок друкується повідомлення про шкідливість здоров'ю?",
+    "rawPassage": null,
+    "rawOptions": [
+      "Демаркетинг.",
+      "Протидіючий.",
+      "Конверсійний.",
+      "Синхромаркетинг."
+    ],
+    "rawCorrectAnswer": 1,
+    "rawExplanation": null,
+    "sourceUrl": "https://zno.osvita.ua/master/upravlinnja/all/15/",
+    "sourceFile": "data/raw/third-party/management/zno-osvita-upravlinnja-0015.html",
+    "pageNumber": null,
+    "confidence": "high",
+    "extractionNotes": "Extracted from ZNO Освіта task 32761; q[tip]=1."
+  },
+  {
+    "rawQuestionText": "Керівник під час презентації проєкту використовував вузькоспеціалізовані технічні терміни. Як результат, члени команди відчували стрес через неспроможність зрозуміти важливу інформацію, що спричинило затримку реалізації проєкту. На якому етапі комунікаційного процесу відбувся збій?",
+    "rawPassage": null,
+    "rawOptions": [
+      "Формулювання повідомлення відправником.",
+      "Кодування повідомлення.",
+      "Вибір каналу комунікації.",
+      "Декодування інформації одержувачами."
+    ],
+    "rawCorrectAnswer": 3,
+    "rawExplanation": null,
+    "sourceUrl": "https://zno.osvita.ua/master/upravlinnja/all/15/",
+    "sourceFile": "data/raw/third-party/management/zno-osvita-upravlinnja-0015.html",
+    "pageNumber": null,
+    "confidence": "high",
+    "extractionNotes": "Extracted from ZNO Освіта task 32760; q[tip]=1."
+  },
+  {
+    "rawQuestionText": "Яке завдання в організації можна виконати за допомогою планування?",
+    "rawPassage": null,
+    "rawOptions": [
+      "Окреслювати цілі організації та забезпечувати єдиний напрям зусиль персоналу для їх досягнення.",
+      "Постійно координувати роботу персоналу для досягнення цілей організації.",
+      "Вчасно коригувати робочі процеси для досягнення цілей організації.",
+      "Забезпечувати ефективне мотивування персоналу для реалізації цілей організації."
+    ],
+    "rawCorrectAnswer": 0,
+    "rawExplanation": null,
+    "sourceUrl": "https://zno.osvita.ua/master/upravlinnja/all/15/",
+    "sourceFile": "data/raw/third-party/management/zno-osvita-upravlinnja-0015.html",
+    "pageNumber": null,
+    "confidence": "high",
+    "extractionNotes": "Extracted from ZNO Освіта task 32759; q[tip]=1."
+  },
+  {
+    "rawQuestionText": "Яке рішення доцільно ухвалити, якщо в процесі контролю виявилося, що цех може випустити на 15% більше продукції, ніж було заплановано у стандарті на першому етапі контролювання, при цьому попит на ринку перевищує пропозицію?",
+    "rawPassage": null,
+    "rawOptions": [
+      "Залишити стандарт таким самим, адже, прийнятий один раз, він не змінюється.",
+      "Підвищити рівень стандарту до можливого рівня.",
+      "Підвищити рівень стандарту набагато більше. Недосяжний рівень мотивує співробітників працювати ще краще.",
+      "Зменшити рівень стандарту. Плани мають якомога більше перевиконуватися."
+    ],
+    "rawCorrectAnswer": 1,
+    "rawExplanation": null,
+    "sourceUrl": "https://zno.osvita.ua/master/upravlinnja/all/15/",
+    "sourceFile": "data/raw/third-party/management/zno-osvita-upravlinnja-0015.html",
+    "pageNumber": null,
+    "confidence": "high",
+    "extractionNotes": "Extracted from ZNO Освіта task 32758; q[tip]=1."
+  },
+  {
+    "rawQuestionText": "Що з переліченого НЕ є етапом проєктування організаційної структури?",
+    "rawPassage": null,
+    "rawOptions": [
+      "Поділ організації на блоки на горизонтальному рівні.",
+      "Визначення співвідношення повноважень різних посад.",
+      "Розроблення органіграми організаційної структури управління.",
+      "Визначення посадових обов'язків."
+    ],
+    "rawCorrectAnswer": 2,
+    "rawExplanation": null,
+    "sourceUrl": "https://zno.osvita.ua/master/upravlinnja/all/15/",
+    "sourceFile": "data/raw/third-party/management/zno-osvita-upravlinnja-0015.html",
+    "pageNumber": null,
+    "confidence": "high",
+    "extractionNotes": "Extracted from ZNO Освіта task 32757; q[tip]=1."
+  },
+  {
+    "rawQuestionText": "За яким критерієм підприємства поділяють на приватні, колективні, комунальні, державні та засновані на змішаній формі власності?",
+    "rawPassage": null,
+    "rawOptions": [
+      "Кількість засновників.",
+      "Національна належність капіталу.",
+      "Принцип розподілу прибутку.",
+      "Форма власності майна."
+    ],
+    "rawCorrectAnswer": 3,
+    "rawExplanation": null,
+    "sourceUrl": "https://zno.osvita.ua/master/upravlinnja/all/15/",
+    "sourceFile": "data/raw/third-party/management/zno-osvita-upravlinnja-0015.html",
+    "pageNumber": null,
+    "confidence": "high",
+    "extractionNotes": "Extracted from ZNO Освіта task 32756; q[tip]=1."
+  },
+  {
+    "rawQuestionText": "На які види розподіляється управлінська відповідальність з позиції делегування повноважень?",
+    "rawPassage": null,
+    "rawOptions": [
+      "Загальна та часткова.",
+      "Організаційна та індивідуальна.",
+      "Визначена та невизначена.",
+      "Колективна та персональна."
+    ],
+    "rawCorrectAnswer": 0,
+    "rawExplanation": null,
+    "sourceUrl": "https://zno.osvita.ua/master/upravlinnja/all/15/",
+    "sourceFile": "data/raw/third-party/management/zno-osvita-upravlinnja-0015.html",
+    "pageNumber": null,
+    "confidence": "high",
+    "extractionNotes": "Extracted from ZNO Освіта task 32755; q[tip]=1."
+  },
+  {
+    "rawQuestionText": "Яка основна мета створення Єдиного державного реєстру юридичних осіб, фізичних осіб-підприємців і громадських формувань?",
+    "rawPassage": null,
+    "rawOptions": [
+      "Ведення податкового обліку юридичних і фізичних осіб.",
+      "Збір, накопичення, обробка, захист, облік та надання інформації про юридичних і фізичних осіб.",
+      "Ведення управлінського та фінансового обліку юридичних і фізичних осіб.",
+      "Врегулювання відносин між суб’єктами господарювання."
+    ],
+    "rawCorrectAnswer": 1,
+    "rawExplanation": null,
+    "sourceUrl": "https://zno.osvita.ua/master/upravlinnja/all/15/",
+    "sourceFile": "data/raw/third-party/management/zno-osvita-upravlinnja-0015.html",
+    "pageNumber": null,
+    "confidence": "high",
+    "extractionNotes": "Extracted from ZNO Освіта task 32754; q[tip]=1."
+  },
+  {
+    "rawQuestionText": "У межах якої функції менеджменту директор приймає і реалізує рішення щодо реорганізації відділу маркетингу в організації?",
+    "rawPassage": null,
+    "rawOptions": [
+      "Планування.",
+      "Організування.",
+      "Мотивування.",
+      "Контролювання."
+    ],
+    "rawCorrectAnswer": 1,
+    "rawExplanation": null,
+    "sourceUrl": "https://zno.osvita.ua/master/upravlinnja/all/15/",
+    "sourceFile": "data/raw/third-party/management/zno-osvita-upravlinnja-0015.html",
+    "pageNumber": null,
+    "confidence": "high",
+    "extractionNotes": "Extracted from ZNO Освіта task 32753; q[tip]=1."
+  },
+  {
+    "rawQuestionText": "Яке з тверджень описує показник рентабельності інвестицій Return of Investment (ROI)?",
+    "rawPassage": null,
+    "rawOptions": [
+      "Вартість сукупних інвестицій у проєкт.",
+      "Відношення прибутку до суми інвестицій.",
+      "Період окупності проєкту.",
+      "Ризик неповернення інвестицій."
+    ],
+    "rawCorrectAnswer": 1,
+    "rawExplanation": null,
+    "sourceUrl": "https://zno.osvita.ua/master/upravlinnja/all/15/",
+    "sourceFile": "data/raw/third-party/management/zno-osvita-upravlinnja-0015.html",
+    "pageNumber": null,
+    "confidence": "high",
+    "extractionNotes": "Extracted from ZNO Освіта task 32752; q[tip]=1."
+  },
+  {
+    "rawQuestionText": "Оберіть визначення сутності стратегічного планування.",
+    "rawPassage": null,
+    "rawOptions": [
+      "Розроблення ефективних стратегій організації, зокрема короткострокових стратегій, а також планування ресурсів для їх реалізації.",
+      "Процес вибору цілей організації та рішення про те, що потрібно виконати працівникам організації для їх досягнення.",
+      "Планування реалізації стратегії організації, зокрема розроблення бюджету стратегії.",
+      "Встановлення стратегічних цілей, розроблення стратегій їх досягнення та застосування способів ефективної реалізації стратегій."
+    ],
+    "rawCorrectAnswer": 1,
+    "rawExplanation": null,
+    "sourceUrl": "https://zno.osvita.ua/master/upravlinnja/all/30/",
+    "sourceFile": "data/raw/third-party/management/zno-osvita-upravlinnja-0030.html",
+    "pageNumber": null,
+    "confidence": "high",
+    "extractionNotes": "Extracted from ZNO Освіта task 32751; q[tip]=1."
+  },
+  {
+    "rawQuestionText": "Що з переліченого НЕ належить до основних засобів?",
+    "rawPassage": null,
+    "rawOptions": [
+      "Плодоносні рослини.",
+      "Бібліотечні фонди.",
+      "Трудові ресурси.",
+      "Предмети прокату."
+    ],
+    "rawCorrectAnswer": 2,
+    "rawExplanation": null,
+    "sourceUrl": "https://zno.osvita.ua/master/upravlinnja/all/30/",
+    "sourceFile": "data/raw/third-party/management/zno-osvita-upravlinnja-0030.html",
+    "pageNumber": null,
+    "confidence": "high",
+    "extractionNotes": "Extracted from ZNO Освіта task 32750; q[tip]=1."
+  },
+  {
+    "rawQuestionText": "До якої категорії персоналу за характером виконуваних функцій належить адміністратор підприємства?",
+    "rawPassage": null,
+    "rawOptions": [
+      "Професіонал.",
+      "Фахівець.",
+      "Службовець.",
+      "Менеджер."
+    ],
+    "rawCorrectAnswer": 1,
+    "rawExplanation": null,
+    "sourceUrl": "https://zno.osvita.ua/master/upravlinnja/all/30/",
+    "sourceFile": "data/raw/third-party/management/zno-osvita-upravlinnja-0030.html",
+    "pageNumber": null,
+    "confidence": "high",
+    "extractionNotes": "Extracted from ZNO Освіта task 32749; q[tip]=1."
+  },
+  {
+    "rawQuestionText": "Які показники є основними для розрахунку чистого прибутку підприємства?",
+    "rawPassage": null,
+    "rawOptions": [
+      "Валовий прибуток, собівартість продукції, податок на прибуток.",
+      "Чистий грошовий потік, ціна продукції (послуг), основні засоби.",
+      "Статутний капітал, фінансові інвестиції, виробничі витрати.",
+      "Залишки продукції, зобов’язання, податок на додану вартість."
+    ],
+    "rawCorrectAnswer": 0,
+    "rawExplanation": null,
+    "sourceUrl": "https://zno.osvita.ua/master/upravlinnja/all/30/",
+    "sourceFile": "data/raw/third-party/management/zno-osvita-upravlinnja-0030.html",
+    "pageNumber": null,
+    "confidence": "high",
+    "extractionNotes": "Extracted from ZNO Освіта task 32748; q[tip]=1."
+  },
+  {
+    "rawQuestionText": "Який вид виробничого підприємництва характеризується виробництвом товарів у невеликих обсягах та часто на замовлення?",
+    "rawPassage": null,
+    "rawOptions": [
+      "Серійний.",
+      "Масовий.",
+      "Спеціалізований.",
+      "Ексклюзивний."
+    ],
+    "rawCorrectAnswer": 2,
+    "rawExplanation": null,
+    "sourceUrl": "https://zno.osvita.ua/master/upravlinnja/all/30/",
+    "sourceFile": "data/raw/third-party/management/zno-osvita-upravlinnja-0030.html",
+    "pageNumber": null,
+    "confidence": "high",
+    "extractionNotes": "Extracted from ZNO Освіта task 32747; q[tip]=1."
+  },
+  {
+    "rawQuestionText": "Що означає поняття &laquo;ROI&raquo; в контексті планування бізнесу?",
+    "rawPassage": null,
+    "rawOptions": [
+      "Рентабельність інвестицій.",
+      "Рентабельність операцій.",
+      "Ринкова оцінка інновацій.",
+      "Розробка офісної інфраструктури."
+    ],
+    "rawCorrectAnswer": 0,
+    "rawExplanation": null,
+    "sourceUrl": "https://zno.osvita.ua/master/upravlinnja/all/30/",
+    "sourceFile": "data/raw/third-party/management/zno-osvita-upravlinnja-0030.html",
+    "pageNumber": null,
+    "confidence": "high",
+    "extractionNotes": "Extracted from ZNO Освіта task 32746; q[tip]=1."
+  },
+  {
+    "rawQuestionText": "Яка концепція управління маркетингом ґрунтується на тому, що запорукою досягнення цілей підприємства є визначення потреб споживачів та їх задоволення ефективнішими, порівняно з конкурентами, методами з урахуванням інтересів усіх членів суспільства?",
+    "rawPassage": null,
+    "rawOptions": [
+      "Концепція маркетингу.",
+      "Удосконалення товару.",
+      "Інтенсифікація комерційних зусиль.",
+      "Соціально-етичний маркетинг."
+    ],
+    "rawCorrectAnswer": 3,
+    "rawExplanation": null,
+    "sourceUrl": "https://zno.osvita.ua/master/upravlinnja/all/30/",
+    "sourceFile": "data/raw/third-party/management/zno-osvita-upravlinnja-0030.html",
+    "pageNumber": null,
+    "confidence": "high",
+    "extractionNotes": "Extracted from ZNO Освіта task 32745; q[tip]=1."
+  },
+  {
+    "rawQuestionText": "Яку складову комплексу маркетингових комунікацій активно застосовують на етапі занепаду життєвого циклу товару за різкого скорочення інших складових?",
+    "rawPassage": null,
+    "rawOptions": [
+      "Прямий маркетинг.",
+      "Стимулювання збуту.",
+      "Особисті продажі.",
+      "Зв’язки з громадськістю."
+    ],
+    "rawCorrectAnswer": 1,
+    "rawExplanation": null,
+    "sourceUrl": "https://zno.osvita.ua/master/upravlinnja/all/30/",
+    "sourceFile": "data/raw/third-party/management/zno-osvita-upravlinnja-0030.html",
+    "pageNumber": null,
+    "confidence": "high",
+    "extractionNotes": "Extracted from ZNO Освіта task 32744; q[tip]=1."
+  },
+  {
+    "rawQuestionText": "Які ключові процеси характеризують утворення та функціонування акціонерного підприємства?",
+    "rawPassage": null,
+    "rawOptions": [
+      "Визначення кількості акцій, виникнення корпоративних прав, колективний розподіл прибутку.",
+      "Визначення номінальної вартості акцій, корпоративні зобов’язання.",
+      "Формування статутного капіталу, управління діяльністю підприємства, солідарна відповідальність за зобов’язаннями.",
+      "Формування складу акціонерів, розподіл корпоративних прав, відповідальність за зобов’язаннями компанії."
+    ],
+    "rawCorrectAnswer": 2,
+    "rawExplanation": null,
+    "sourceUrl": "https://zno.osvita.ua/master/upravlinnja/all/30/",
+    "sourceFile": "data/raw/third-party/management/zno-osvita-upravlinnja-0030.html",
+    "pageNumber": null,
+    "confidence": "high",
+    "extractionNotes": "Extracted from ZNO Освіта task 32743; q[tip]=1."
+  },
+  {
+    "rawQuestionText": "Яку систему оплати праці слід застосувати для працівників, результати праці яких неможливо нормувати, з метою стимулювання якісного виконання ними обов'язків?",
+    "rawPassage": null,
+    "rawOptions": [
+      "Пряму відрядну.",
+      "Відрядно-преміальну.",
+      "Погодинну.",
+      "Погодинно-преміальну."
+    ],
+    "rawCorrectAnswer": 3,
+    "rawExplanation": null,
+    "sourceUrl": "https://zno.osvita.ua/master/upravlinnja/all/30/",
+    "sourceFile": "data/raw/third-party/management/zno-osvita-upravlinnja-0030.html",
+    "pageNumber": null,
+    "confidence": "high",
+    "extractionNotes": "Extracted from ZNO Освіта task 32742; q[tip]=1."
+  },
+  {
+    "rawQuestionText": "Яка функція посередника у каналі розподілу?",
+    "rawPassage": null,
+    "rawOptions": [
+      "Визначення ціни на товар.",
+      "Забезпечення ланцюга постачання від виробника до споживача.",
+      "Розроблення рекламної стратегії.",
+      "Надання гарантії на товар."
+    ],
+    "rawCorrectAnswer": 1,
+    "rawExplanation": null,
+    "sourceUrl": "https://zno.osvita.ua/master/upravlinnja/all/30/",
+    "sourceFile": "data/raw/third-party/management/zno-osvita-upravlinnja-0030.html",
+    "pageNumber": null,
+    "confidence": "high",
+    "extractionNotes": "Extracted from ZNO Освіта task 32741; q[tip]=1."
+  },
+  {
+    "rawQuestionText": "Що є загальним критерієм ефективності організаційного рішення?",
+    "rawPassage": null,
+    "rawOptions": [
+      "Забезпечення досягнення цілей організації.",
+      "Відсутність негативних наслідків.",
+      "Ступінь популярності.",
+      "Сума витрат на реалізацію."
+    ],
+    "rawCorrectAnswer": 0,
+    "rawExplanation": null,
+    "sourceUrl": "https://zno.osvita.ua/master/upravlinnja/all/30/",
+    "sourceFile": "data/raw/third-party/management/zno-osvita-upravlinnja-0030.html",
+    "pageNumber": null,
+    "confidence": "high",
+    "extractionNotes": "Extracted from ZNO Освіта task 32740; q[tip]=1."
+  },
+  {
+    "rawQuestionText": "Який вид підприємства є відокремленим підрозділом юридичної особи, розташований поза її місцезнаходженням та не має юридичної самостійності?",
+    "rawPassage": null,
+    "rawOptions": [
+      "Філія.",
+      "Дочірнє.",
+      "Асоційоване.",
+      "Материнське."
+    ],
+    "rawCorrectAnswer": 0,
+    "rawExplanation": null,
+    "sourceUrl": "https://zno.osvita.ua/master/upravlinnja/all/30/",
+    "sourceFile": "data/raw/third-party/management/zno-osvita-upravlinnja-0030.html",
+    "pageNumber": null,
+    "confidence": "high",
+    "extractionNotes": "Extracted from ZNO Освіта task 32739; q[tip]=1."
+  },
+  {
+    "rawQuestionText": "Через вплив якого чинника знижується прибуток на етапі зрілості продукту?",
+    "rawPassage": null,
+    "rawOptions": [
+      "Зменшення кількості конкурентів.",
+      "Збільшення витрат виробництва.",
+      "Посилення цінової конкуренції.",
+      "Зменшення кількості покупців."
+    ],
+    "rawCorrectAnswer": 2,
+    "rawExplanation": null,
+    "sourceUrl": "https://zno.osvita.ua/master/upravlinnja/all/30/",
+    "sourceFile": "data/raw/third-party/management/zno-osvita-upravlinnja-0030.html",
+    "pageNumber": null,
+    "confidence": "high",
+    "extractionNotes": "Extracted from ZNO Освіта task 32738; q[tip]=1."
+  },
+  {
+    "rawQuestionText": "Який елемент комплексу маркетингових комунікацій має суспільну форму звернення та створює позитивний імідж бренду?",
+    "rawPassage": null,
+    "rawOptions": [
+      "Нативна реклама.",
+      "Реклама на телебаченні.",
+      "Зв’язки з громадськістю.",
+      "Спонсорство спортивних подій."
+    ],
+    "rawCorrectAnswer": 2,
+    "rawExplanation": null,
+    "sourceUrl": "https://zno.osvita.ua/master/upravlinnja/all/30/",
+    "sourceFile": "data/raw/third-party/management/zno-osvita-upravlinnja-0030.html",
+    "pageNumber": null,
+    "confidence": "high",
+    "extractionNotes": "Extracted from ZNO Освіта task 32737; q[tip]=1."
+  },
+  {
+    "rawQuestionText": "Що покладено в основу поведінкового підходу в теорії лідерства?",
+    "rawPassage": null,
+    "rawOptions": [
+      "Сукупність особистих якостей керівника.",
+      "Стиль поводження керівника зі своїми підлеглими.",
+      "Конкретна ситуація, що вимагає певного засобу впливу.",
+      "Урахування мінливих змінних для вибору засобу впливу."
+    ],
+    "rawCorrectAnswer": 1,
+    "rawExplanation": null,
+    "sourceUrl": "https://zno.osvita.ua/master/upravlinnja/all/45/",
+    "sourceFile": "data/raw/third-party/management/zno-osvita-upravlinnja-0045.html",
+    "pageNumber": null,
+    "confidence": "high",
+    "extractionNotes": "Extracted from ZNO Освіта task 32736; q[tip]=1."
+  },
+  {
+    "rawQuestionText": "Який фактор, за теорією Фредерика Герцберга, мотивує працівника до високої продуктивності (результативності) праці?",
+    "rawPassage": null,
+    "rawOptions": [
+      "Окремий кабінет зі зручним робочим місцем і зоною відпочинку.",
+      "Поліс страхування життя коштом компанії.",
+      "Прозора система переходу на наступний посадовий рівень.",
+      "Висока заробітна плата порівняно зі середнім значенням у цій професійній сфері."
+    ],
+    "rawCorrectAnswer": 2,
+    "rawExplanation": null,
+    "sourceUrl": "https://zno.osvita.ua/master/upravlinnja/all/45/",
+    "sourceFile": "data/raw/third-party/management/zno-osvita-upravlinnja-0045.html",
+    "pageNumber": null,
+    "confidence": "high",
+    "extractionNotes": "Extracted from ZNO Освіта task 32735; q[tip]=1."
+  },
+  {
+    "rawQuestionText": "Що належить до об'єктів авторського права та суміжних прав?",
+    "rawPassage": null,
+    "rawOptions": [
+      "Винаходи, промислові зразки, корисні моделі, знаки для товарів і послуг.",
+      "Комп'ютерні програми, бази даних, твори у галузі науки, літератури та мистецтва.",
+      "Ноу-хау, комерційна таємниця, гудвіл.",
+      "Цінні папери, казначейські векселі, депозитні сертифікати."
+    ],
+    "rawCorrectAnswer": 1,
+    "rawExplanation": null,
+    "sourceUrl": "https://zno.osvita.ua/master/upravlinnja/all/45/",
+    "sourceFile": "data/raw/third-party/management/zno-osvita-upravlinnja-0045.html",
+    "pageNumber": null,
+    "confidence": "high",
+    "extractionNotes": "Extracted from ZNO Освіта task 32734; q[tip]=1."
+  },
+  {
+    "rawQuestionText": "Який вид вартості використовують для розрахунку рентабельності основних засобів?",
+    "rawPassage": null,
+    "rawOptions": [
+      "Середньорічну.",
+      "Балансову.",
+      "Залишкову.",
+      "Первісну."
+    ],
+    "rawCorrectAnswer": 0,
+    "rawExplanation": null,
+    "sourceUrl": "https://zno.osvita.ua/master/upravlinnja/all/45/",
+    "sourceFile": "data/raw/third-party/management/zno-osvita-upravlinnja-0045.html",
+    "pageNumber": null,
+    "confidence": "high",
+    "extractionNotes": "Extracted from ZNO Освіта task 32733; q[tip]=1."
+  },
+  {
+    "rawQuestionText": "До якого виду належить інформація щодо обсягів сировини для виробництва продукції?",
+    "rawPassage": null,
+    "rawOptions": [
+      "Масової.",
+      "Управлінської.",
+      "Облікової.",
+      "Звітної."
+    ],
+    "rawCorrectAnswer": 1,
+    "rawExplanation": null,
+    "sourceUrl": "https://zno.osvita.ua/master/upravlinnja/all/45/",
+    "sourceFile": "data/raw/third-party/management/zno-osvita-upravlinnja-0045.html",
+    "pageNumber": null,
+    "confidence": "high",
+    "extractionNotes": "Extracted from ZNO Освіта task 32732; q[tip]=1."
+  },
+  {
+    "rawQuestionText": "За якою матрицею оцінюється макросередовище функціонування організації?",
+    "rawPassage": null,
+    "rawOptions": [
+      "General Eleсtric.",
+      "Boston Consulting Group.",
+      "PEST.",
+      "McKinsey."
+    ],
+    "rawCorrectAnswer": 2,
+    "rawExplanation": null,
+    "sourceUrl": "https://zno.osvita.ua/master/upravlinnja/all/45/",
+    "sourceFile": "data/raw/third-party/management/zno-osvita-upravlinnja-0045.html",
+    "pageNumber": null,
+    "confidence": "high",
+    "extractionNotes": "Extracted from ZNO Освіта task 32731; q[tip]=1."
+  },
+  {
+    "rawQuestionText": "Що являє собою функція менеджменту &laquo;організування&raquo;?",
+    "rawPassage": null,
+    "rawOptions": [
+      "Процес створення структури організації, що дає змогу людям працювати разом задля досягнення її цілей.",
+      "Процес формування структурних зв’язків всередині колективу організації з метою досягнення його цілей.",
+      "Процес оптимізації взаємовідносин між працівниками організації з метою поліпшення їх взаємодії.",
+      "Процес визначення норм і процедур керованості всередині організації задля досягнення її цілей."
+    ],
+    "rawCorrectAnswer": 0,
+    "rawExplanation": null,
+    "sourceUrl": "https://zno.osvita.ua/master/upravlinnja/all/45/",
+    "sourceFile": "data/raw/third-party/management/zno-osvita-upravlinnja-0045.html",
+    "pageNumber": null,
+    "confidence": "high",
+    "extractionNotes": "Extracted from ZNO Освіта task 32730; q[tip]=1."
+  },
+  {
+    "rawQuestionText": "Які показники характеризують товарну номенклатуру?",
+    "rawPassage": null,
+    "rawOptions": [
+      "Постійність, глибина.",
+      "Гармонійність, насиченість.",
+      "Пропорційність, ширина.",
+      "Комплексність, новизна."
+    ],
+    "rawCorrectAnswer": 1,
+    "rawExplanation": null,
+    "sourceUrl": "https://zno.osvita.ua/master/upravlinnja/all/45/",
+    "sourceFile": "data/raw/third-party/management/zno-osvita-upravlinnja-0045.html",
+    "pageNumber": null,
+    "confidence": "high",
+    "extractionNotes": "Extracted from ZNO Освіта task 32729; q[tip]=1."
+  },
+  {
+    "rawQuestionText": "Яка основна мета функціонування біржі праці?",
+    "rawPassage": null,
+    "rawOptions": [
+      "Підвищення рівня добробуту робітників і роботодавців через задоволення потреб.",
+      "Створення передумов для забезпечення трудових ресурсів привабливою роботою.",
+      "Забезпечення в економічній системі максимального рівня зайнятості трудових ресурсів.",
+      "Надання посередницьких послуг з працевлаштування на ринку праці."
+    ],
+    "rawCorrectAnswer": 3,
+    "rawExplanation": null,
+    "sourceUrl": "https://zno.osvita.ua/master/upravlinnja/all/45/",
+    "sourceFile": "data/raw/third-party/management/zno-osvita-upravlinnja-0045.html",
+    "pageNumber": null,
+    "confidence": "high",
+    "extractionNotes": "Extracted from ZNO Освіта task 32728; q[tip]=1."
+  },
+  {
+    "rawQuestionText": "Який фактор маркетингового середовища аналізує підприємство, досліджуючи цінності у суспільстві?",
+    "rawPassage": null,
+    "rawOptions": [
+      "Політичний.",
+      "Економічний.",
+      "Демографічний.",
+      "Культурний."
+    ],
+    "rawCorrectAnswer": 3,
+    "rawExplanation": null,
+    "sourceUrl": "https://zno.osvita.ua/master/upravlinnja/all/45/",
+    "sourceFile": "data/raw/third-party/management/zno-osvita-upravlinnja-0045.html",
+    "pageNumber": null,
+    "confidence": "high",
+    "extractionNotes": "Extracted from ZNO Освіта task 32727; q[tip]=1."
+  },
+  {
+    "rawQuestionText": "Який метод маркетингового ціноутворення ґрунтується на аналізі беззбитковості?",
+    "rawPassage": null,
+    "rawOptions": [
+      "Забезпечення цільового прибутку.",
+      "Відчутної цінності товару.",
+      "На основі рівня поточних цін.",
+      "«Середні витрати плюс прибуток»."
+    ],
+    "rawCorrectAnswer": 0,
+    "rawExplanation": null,
+    "sourceUrl": "https://zno.osvita.ua/master/upravlinnja/all/45/",
+    "sourceFile": "data/raw/third-party/management/zno-osvita-upravlinnja-0045.html",
+    "pageNumber": null,
+    "confidence": "high",
+    "extractionNotes": "Extracted from ZNO Освіта task 32726; q[tip]=1."
+  },
+  {
+    "rawQuestionText": "Недоліком якої організаційної структури управління є порушення принципу єдиноначальності?",
+    "rawPassage": null,
+    "rawOptions": [
+      "Лінійної.",
+      "Лінійно-функціональної.",
+      "Функціональної.",
+      "Дивізіональної."
+    ],
+    "rawCorrectAnswer": 2,
+    "rawExplanation": null,
+    "sourceUrl": "https://zno.osvita.ua/master/upravlinnja/all/45/",
+    "sourceFile": "data/raw/third-party/management/zno-osvita-upravlinnja-0045.html",
+    "pageNumber": null,
+    "confidence": "high",
+    "extractionNotes": "Extracted from ZNO Освіта task 32725; q[tip]=1."
+  },
+  {
+    "rawQuestionText": "Що являє собою влада в менеджменті?",
+    "rawPassage": null,
+    "rawOptions": [
+      "Будь-яка поведінка однієї особи, яка вносить зміни у поведінку, почуття іншої особи.",
+      "Розумовий і фізичний процес, результатом якого є виконання підлеглими офіційних доручень.",
+      "Право керівників контролювати особисті інтереси підлеглих.",
+      "Можливість впливати на поведінку інших осіб та змінювати її у визначеному напрямі."
+    ],
+    "rawCorrectAnswer": 3,
+    "rawExplanation": null,
+    "sourceUrl": "https://zno.osvita.ua/master/upravlinnja/all/45/",
+    "sourceFile": "data/raw/third-party/management/zno-osvita-upravlinnja-0045.html",
+    "pageNumber": null,
+    "confidence": "high",
+    "extractionNotes": "Extracted from ZNO Освіта task 32724; q[tip]=1."
+  },
+  {
+    "rawQuestionText": "Який кількісний метод прогнозування продажів товарів використовує компанія у бізнес-плані, якщо прогноз базується на історичних статистичних даних?",
+    "rawPassage": null,
+    "rawOptions": [
+      "Аналіз часових рядів.",
+      "Дельфійський метод.",
+      "Асоціативна модель.",
+      "Модель очікування споживачів."
+    ],
+    "rawCorrectAnswer": 0,
+    "rawExplanation": null,
+    "sourceUrl": "https://zno.osvita.ua/master/upravlinnja/all/45/",
+    "sourceFile": "data/raw/third-party/management/zno-osvita-upravlinnja-0045.html",
+    "pageNumber": null,
+    "confidence": "high",
+    "extractionNotes": "Extracted from ZNO Освіта task 32723; q[tip]=1."
+  },
+  {
+    "rawQuestionText": "Що НЕ є метою діяльності некомерційного підприємства?",
+    "rawPassage": null,
+    "rawOptions": [
+      "Економічний результат.",
+      "Соціальний ефект.",
+      "Отримання прибутку.",
+      "Громадська діяльність."
+    ],
+    "rawCorrectAnswer": 2,
+    "rawExplanation": null,
+    "sourceUrl": "https://zno.osvita.ua/master/upravlinnja/all/45/",
+    "sourceFile": "data/raw/third-party/management/zno-osvita-upravlinnja-0045.html",
+    "pageNumber": null,
+    "confidence": "high",
+    "extractionNotes": "Extracted from ZNO Освіта task 32722; q[tip]=1."
+  },
+  {
+    "rawQuestionText": "Що таке управлінське рішення?",
+    "rawPassage": null,
+    "rawOptions": [
+      "Вибір альтернативи.",
+      "Аналіз проблеми.",
+      "Передача інформації.",
+      "Делегування задачі."
+    ],
+    "rawCorrectAnswer": 0,
+    "rawExplanation": null,
+    "sourceUrl": "https://zno.osvita.ua/master/upravlinnja/all/60/",
+    "sourceFile": "data/raw/third-party/management/zno-osvita-upravlinnja-0060.html",
+    "pageNumber": null,
+    "confidence": "high",
+    "extractionNotes": "Extracted from ZNO Освіта task 32721; q[tip]=1."
+  },
+  {
+    "rawQuestionText": "Яка трудомісткість виготовленої продукції, якщо загальний випуск підприємства становив 1500 тис. грн, а річний фонд робочого часу ‒ 1860 годин?",
+    "rawPassage": null,
+    "rawOptions": [
+      "1,53 год/ грн.",
+      "0,81 год/ тис. грн.",
+      "1,24 год/ тис. грн.",
+      "1,4 год/ грн."
+    ],
+    "rawCorrectAnswer": 2,
+    "rawExplanation": null,
+    "sourceUrl": "https://zno.osvita.ua/master/upravlinnja/all/60/",
+    "sourceFile": "data/raw/third-party/management/zno-osvita-upravlinnja-0060.html",
+    "pageNumber": null,
+    "confidence": "high",
+    "extractionNotes": "Extracted from ZNO Освіта task 32720; q[tip]=1."
+  },
+  {
+    "rawQuestionText": "Який нормативно-правовий акт встановлює правові основи господарської діяльності в Україні?",
+    "rawPassage": null,
+    "rawOptions": [
+      "Цивільний кодекс України.",
+      "Господарський кодекс України.",
+      "Митний кодекс України.",
+      "Податковий кодекс України."
+    ],
+    "rawCorrectAnswer": 1,
+    "rawExplanation": null,
+    "sourceUrl": "https://zno.osvita.ua/master/upravlinnja/all/60/",
+    "sourceFile": "data/raw/third-party/management/zno-osvita-upravlinnja-0060.html",
+    "pageNumber": null,
+    "confidence": "high",
+    "extractionNotes": "Extracted from ZNO Освіта task 32719; q[tip]=1."
+  },
+  {
+    "rawQuestionText": "Який вид аналізу ринкового середовища дає змогу сформувати оптимальну маркетингову стратегію фірми?",
+    "rawPassage": null,
+    "rawOptions": [
+      "SMART.",
+      "Економічний.",
+      "SWOT.",
+      "Функціонально-вартісний."
+    ],
+    "rawCorrectAnswer": 2,
+    "rawExplanation": null,
+    "sourceUrl": "https://zno.osvita.ua/master/upravlinnja/all/60/",
+    "sourceFile": "data/raw/third-party/management/zno-osvita-upravlinnja-0060.html",
+    "pageNumber": null,
+    "confidence": "high",
+    "extractionNotes": "Extracted from ZNO Освіта task 32718; q[tip]=1."
+  },
+  {
+    "rawQuestionText": "На рисунку наведено графік беззбитковості та цільового прибутку. Яку мінімальну кількість товарів (од.) має продати підприємство, щоб досягти рівня беззбитковості, якщо ціна за одиницю товару фіксована?",
+    "rawPassage": null,
+    "rawOptions": [
+      "500.",
+      "250.",
+      "600.",
+      "700."
+    ],
+    "rawCorrectAnswer": 0,
+    "rawExplanation": null,
+    "sourceUrl": "https://zno.osvita.ua/master/upravlinnja/all/60/",
+    "sourceFile": "data/raw/third-party/management/zno-osvita-upravlinnja-0060.html",
+    "pageNumber": null,
+    "confidence": "high",
+    "extractionNotes": "Extracted from ZNO Освіта task 32717; q[tip]=1."
+  },
+  {
+    "rawQuestionText": "На якому принципі має базуватися підприємницька ідея?",
+    "rawPassage": null,
+    "rawOptions": [
+      "Задовольнити потребу ринку з метою отримання прибутку.",
+      "Прийняття рішення про створення власної справи.",
+      "Відчути необхідність зародження нового бізнесу.",
+      "Задовольнити власні потреби компанії."
+    ],
+    "rawCorrectAnswer": 0,
+    "rawExplanation": null,
+    "sourceUrl": "https://zno.osvita.ua/master/upravlinnja/all/60/",
+    "sourceFile": "data/raw/third-party/management/zno-osvita-upravlinnja-0060.html",
+    "pageNumber": null,
+    "confidence": "high",
+    "extractionNotes": "Extracted from ZNO Освіта task 32716; q[tip]=1."
+  },
+  {
+    "rawQuestionText": "Оберіть твердження, яке відображає особливість реальних інвестицій.",
+    "rawPassage": null,
+    "rawOptions": [
+      "Основний засіб зовнішнього інвестування.",
+      "Відсутність ризиків морального старіння.",
+      "Тісний зв'язок з операційною діяльністю.",
+      "Низький рівень захисту від інфляції."
+    ],
+    "rawCorrectAnswer": 2,
+    "rawExplanation": null,
+    "sourceUrl": "https://zno.osvita.ua/master/upravlinnja/all/60/",
+    "sourceFile": "data/raw/third-party/management/zno-osvita-upravlinnja-0060.html",
+    "pageNumber": null,
+    "confidence": "high",
+    "extractionNotes": "Extracted from ZNO Освіта task 32715; q[tip]=1."
+  },
+  {
+    "rawQuestionText": "Оберіть варіант, який містить виключно перелік факторів макромаркетингового середовища підприємства за Ф. Котлером.",
+    "rawPassage": null,
+    "rawOptions": [
+      "Політичні, природні, культурні.",
+      "Демографічні, фізичні, економічні.",
+      "Політичні, природні, етнологічні.",
+      "Економічні, демографічні, соціологічні."
+    ],
+    "rawCorrectAnswer": 0,
+    "rawExplanation": null,
+    "sourceUrl": "https://zno.osvita.ua/master/upravlinnja/all/60/",
+    "sourceFile": "data/raw/third-party/management/zno-osvita-upravlinnja-0060.html",
+    "pageNumber": null,
+    "confidence": "high",
+    "extractionNotes": "Extracted from ZNO Освіта task 32714; q[tip]=1."
+  },
+  {
+    "rawQuestionText": "Невід'ємною частиною якого елемента товару є марковання?",
+    "rawPassage": null,
+    "rawOptions": [
+      "Упаковання.",
+      "Торгової марки.",
+      "Дизайну.",
+      "Ціни."
+    ],
+    "rawCorrectAnswer": 0,
+    "rawExplanation": null,
+    "sourceUrl": "https://zno.osvita.ua/master/upravlinnja/all/60/",
+    "sourceFile": "data/raw/third-party/management/zno-osvita-upravlinnja-0060.html",
+    "pageNumber": null,
+    "confidence": "high",
+    "extractionNotes": "Extracted from ZNO Освіта task 32713; q[tip]=1."
+  },
+  {
+    "rawQuestionText": "Для якого з наведених нижче товарів виробнику доцільно обрати канал розподілу &laquo;виробник ‒ оптовий посередник - споживач&raquo;?",
+    "rawPassage": null,
+    "rawOptions": [
+      "Цукерки ручної роботи.",
+      "Вантажні автомобілі.",
+      "Харчові продукти нетривалого зберігання.",
+      "Меблі для дому на замовлення."
+    ],
+    "rawCorrectAnswer": 1,
+    "rawExplanation": null,
+    "sourceUrl": "https://zno.osvita.ua/master/upravlinnja/all/60/",
+    "sourceFile": "data/raw/third-party/management/zno-osvita-upravlinnja-0060.html",
+    "pageNumber": null,
+    "confidence": "high",
+    "extractionNotes": "Extracted from ZNO Освіта task 32712; q[tip]=1."
+  },
+  {
+    "rawQuestionText": "Різновидом якого виду підприємств є суб'єкт господарювання, що здійснює спільну підприємницьку діяльність?",
+    "rawPassage": null,
+    "rawOptions": [
+      "Змішане.",
+      "Іноземне.",
+      "Закордонне.",
+      "Національне."
+    ],
+    "rawCorrectAnswer": 0,
+    "rawExplanation": null,
+    "sourceUrl": "https://zno.osvita.ua/master/upravlinnja/all/60/",
+    "sourceFile": "data/raw/third-party/management/zno-osvita-upravlinnja-0060.html",
+    "pageNumber": null,
+    "confidence": "high",
+    "extractionNotes": "Extracted from ZNO Освіта task 32711; q[tip]=1."
+  },
+  {
+    "rawQuestionText": "Яка складова належить до внутрішнього середовища підприємства?",
+    "rawPassage": null,
+    "rawOptions": [
+      "Попит на продукцію.",
+      "Кваліфікація персоналу.",
+      "Ціна на сировину.",
+      "Політична нестабільність."
+    ],
+    "rawCorrectAnswer": 1,
+    "rawExplanation": null,
+    "sourceUrl": "https://zno.osvita.ua/master/upravlinnja/all/60/",
+    "sourceFile": "data/raw/third-party/management/zno-osvita-upravlinnja-0060.html",
+    "pageNumber": null,
+    "confidence": "high",
+    "extractionNotes": "Extracted from ZNO Освіта task 32710; q[tip]=1."
+  },
+  {
+    "rawQuestionText": "Які витрати характеризує собівартість товарної продукції?",
+    "rawPassage": null,
+    "rawOptions": [
+      "На виробництво і реалізацію продукції, що перебуває на всіх стадіях виробничого циклу.",
+      "На виробництво і збут, понесені підприємством-виробником.",
+      "На виробництво продукції, понесені підприємством-виробником.",
+      "На виробництво та/або придбання реалізованих протягом звітного періоду товарів."
+    ],
+    "rawCorrectAnswer": 2,
+    "rawExplanation": null,
+    "sourceUrl": "https://zno.osvita.ua/master/upravlinnja/all/60/",
+    "sourceFile": "data/raw/third-party/management/zno-osvita-upravlinnja-0060.html",
+    "pageNumber": null,
+    "confidence": "high",
+    "extractionNotes": "Extracted from ZNO Освіта task 32709; q[tip]=1."
+  },
+  {
+    "rawQuestionText": "На якому етапі життєвого циклу товару компанія має найвищі витрати в розрахунку на покупця?",
+    "rawPassage": null,
+    "rawOptions": [
+      "Впровадження.",
+      "Зростання.",
+      "Зрілість.",
+      "Спад."
+    ],
+    "rawCorrectAnswer": 0,
+    "rawExplanation": null,
+    "sourceUrl": "https://zno.osvita.ua/master/upravlinnja/all/60/",
+    "sourceFile": "data/raw/third-party/management/zno-osvita-upravlinnja-0060.html",
+    "pageNumber": null,
+    "confidence": "high",
+    "extractionNotes": "Extracted from ZNO Освіта task 32708; q[tip]=1."
+  },
+  {
+    "rawQuestionText": "Керуючись етичними міркуваннями захисту довкілля, керівник прийняв управлінське рішення перейти на використання ресурсоощадних екологічних технологій, наслідками якого є збільшення витрат і втрата споживачів. Який чинник вплинув на прийняття такого управлінського рішення?",
+    "rawPassage": null,
+    "rawOptions": [
+      "Особистісні оцінки керівника.",
+      "Зовнішнє середовище, що змінюється.",
+      "Інформаційні обмеження.",
+      "Негативні наслідки рішення."
+    ],
+    "rawCorrectAnswer": 0,
+    "rawExplanation": null,
+    "sourceUrl": "https://zno.osvita.ua/master/upravlinnja/all/60/",
+    "sourceFile": "data/raw/third-party/management/zno-osvita-upravlinnja-0060.html",
+    "pageNumber": null,
+    "confidence": "high",
+    "extractionNotes": "Extracted from ZNO Освіта task 32707; q[tip]=1."
+  },
+  {
+    "rawQuestionText": "Яким підходом до прийняття управлінського рішення скористався директор підприємства, досліджуючи взаємозв'язок проблем енергозабезпечення підприємства в зимовий період?",
+    "rawPassage": null,
+    "rawOptions": [
+      "Комплексним.",
+      "Системним.",
+      "Експериментальним.",
+      "Моделювання."
+    ],
+    "rawCorrectAnswer": 0,
+    "rawExplanation": null,
+    "sourceUrl": "https://zno.osvita.ua/master/upravlinnja/all/75/",
+    "sourceFile": "data/raw/third-party/management/zno-osvita-upravlinnja-0075.html",
+    "pageNumber": null,
+    "confidence": "high",
+    "extractionNotes": "Extracted from ZNO Освіта task 32706; q[tip]=1."
+  },
+  {
+    "rawQuestionText": "Який принцип ціноутворення в рамках товарної номенклатури застосовує компанія, реалізуючи недорогі станки для гоління і дорогі змінні леза до них, продаж яких забезпечує її основні прибутки?",
+    "rawPassage": null,
+    "rawOptions": [
+      "Встановлення цін на обов’язкові предмети.",
+      "Встановлення цін на супутні товари.",
+      "Встановлення цін на побічні продукти виробника.",
+      "Встановлення цін на товарні набори."
+    ],
+    "rawCorrectAnswer": 0,
+    "rawExplanation": null,
+    "sourceUrl": "https://zno.osvita.ua/master/upravlinnja/all/75/",
+    "sourceFile": "data/raw/third-party/management/zno-osvita-upravlinnja-0075.html",
+    "pageNumber": null,
+    "confidence": "high",
+    "extractionNotes": "Extracted from ZNO Освіта task 32705; q[tip]=1."
+  },
+  {
+    "rawQuestionText": "Підприємство отримало 200 тис. грн прибутку за рівня рентабельності 25%. Який обсяг витрат підприємства?",
+    "rawPassage": null,
+    "rawOptions": [
+      "50 тис. грн.",
+      "150 тис. грн.",
+      "250 тис. грн.",
+      "800 тис. грн."
+    ],
+    "rawCorrectAnswer": 3,
+    "rawExplanation": null,
+    "sourceUrl": "https://zno.osvita.ua/master/upravlinnja/all/75/",
+    "sourceFile": "data/raw/third-party/management/zno-osvita-upravlinnja-0075.html",
+    "pageNumber": null,
+    "confidence": "high",
+    "extractionNotes": "Extracted from ZNO Освіта task 32704; q[tip]=1."
+  },
+  {
+    "rawQuestionText": "Який різновид ціноутворення використовує компанія, призначаючи єдину ціну для всіх клієнтів із урахуванням середніх витрат на транспортування товару, незалежно від місць їх розташування?",
+    "rawPassage": null,
+    "rawOptions": [
+      "Географічний принцип.",
+      "Використання умов поставки FOB.",
+      "Зональне.",
+      "Встановлення ціни щодо єдиного базисного пункту."
+    ],
+    "rawCorrectAnswer": 0,
+    "rawExplanation": null,
+    "sourceUrl": "https://zno.osvita.ua/master/upravlinnja/all/75/",
+    "sourceFile": "data/raw/third-party/management/zno-osvita-upravlinnja-0075.html",
+    "pageNumber": null,
+    "confidence": "high",
+    "extractionNotes": "Extracted from ZNO Освіта task 32703; q[tip]=1."
+  },
+  {
+    "rawQuestionText": "Яку інформацію містить бізнес-план інтернет-магазину?",
+    "rawPassage": null,
+    "rawOptions": [
+      "Розклад робочого дня працівників.",
+      "Посадові інструкції працівників.",
+      "План ведення обліку фінансів.",
+      "Стратегію просування."
+    ],
+    "rawCorrectAnswer": 3,
+    "rawExplanation": null,
+    "sourceUrl": "https://zno.osvita.ua/master/upravlinnja/all/75/",
+    "sourceFile": "data/raw/third-party/management/zno-osvita-upravlinnja-0075.html",
+    "pageNumber": null,
+    "confidence": "high",
+    "extractionNotes": "Extracted from ZNO Освіта task 32702; q[tip]=1."
+  },
+  {
+    "rawQuestionText": "Що таке NPV у проєктному управлінні?",
+    "rawPassage": null,
+    "rawOptions": [
+      "Нормативна вартість проєкту.",
+      "Чиста приведена вартість.",
+      "Номер проєкту в порядку виконання.",
+      "Індекс прибутковості проєкту."
+    ],
+    "rawCorrectAnswer": 1,
+    "rawExplanation": null,
+    "sourceUrl": "https://zno.osvita.ua/master/upravlinnja/all/75/",
+    "sourceFile": "data/raw/third-party/management/zno-osvita-upravlinnja-0075.html",
+    "pageNumber": null,
+    "confidence": "high",
+    "extractionNotes": "Extracted from ZNO Освіта task 32701; q[tip]=1."
+  },
+  {
+    "rawQuestionText": "Під час якого процесу аналізують схему споживчих преференцій?",
+    "rawPassage": null,
+    "rawOptions": [
+      "Ринкового позиціонування.",
+      "Виокремлення сегментів ринку.",
+      "PEST-аналізу.",
+      "Ринкового таргетування."
+    ],
+    "rawCorrectAnswer": 0,
+    "rawExplanation": null,
+    "sourceUrl": "https://zno.osvita.ua/master/upravlinnja/all/75/",
+    "sourceFile": "data/raw/third-party/management/zno-osvita-upravlinnja-0075.html",
+    "pageNumber": null,
+    "confidence": "high",
+    "extractionNotes": "Extracted from ZNO Освіта task 32700; q[tip]=1."
+  },
+  {
+    "rawQuestionText": "В якому звітному документі підприємства відображено поточну заборгованість з податку на прибуток як джерело формування майна підприємницької діяльності?",
+    "rawPassage": null,
+    "rawOptions": [
+      "Звіт про власний капітал.",
+      "Баланс (Звіт про фінансовий стан).",
+      "Звіт про фінансові результати.",
+      "Звіт про рух грошових коштів."
+    ],
+    "rawCorrectAnswer": 1,
+    "rawExplanation": null,
+    "sourceUrl": "https://zno.osvita.ua/master/upravlinnja/all/75/",
+    "sourceFile": "data/raw/third-party/management/zno-osvita-upravlinnja-0075.html",
+    "pageNumber": null,
+    "confidence": "high",
+    "extractionNotes": "Extracted from ZNO Освіта task 32699; q[tip]=1."
+  },
+  {
+    "rawQuestionText": "Яке значення коефіцієнта еластичності за ціною у мийного засобу марки &laquo;А&raquo;, якщо попит на нього нееластичний?",
+    "rawPassage": null,
+    "rawOptions": [
+      "-1,5",
+      "1,5",
+      "-0,5",
+      "0,5"
+    ],
+    "rawCorrectAnswer": 2,
+    "rawExplanation": null,
+    "sourceUrl": "https://zno.osvita.ua/master/upravlinnja/all/75/",
+    "sourceFile": "data/raw/third-party/management/zno-osvita-upravlinnja-0075.html",
+    "pageNumber": null,
+    "confidence": "high",
+    "extractionNotes": "Extracted from ZNO Освіта task 32698; q[tip]=1."
+  },
+  {
+    "rawQuestionText": "Яка з характеристик зовнішнього середовища відображає вплив зміни одного фактора на зміну стану всього середовища?",
+    "rawPassage": null,
+    "rawOptions": [
+      "Конкурентність.",
+      "Рухомість.",
+      "Взаєпов'язаність.",
+      "Невизначеність."
+    ],
+    "rawCorrectAnswer": 2,
+    "rawExplanation": null,
+    "sourceUrl": "https://zno.osvita.ua/master/upravlinnja/all/75/",
+    "sourceFile": "data/raw/third-party/management/zno-osvita-upravlinnja-0075.html",
+    "pageNumber": null,
+    "confidence": "high",
+    "extractionNotes": "Extracted from ZNO Освіта task 32697; q[tip]=1."
+  },
+  {
+    "rawQuestionText": "У чому полягає зміст маркетингової стратегії &laquo;існуючий товар - новий ринок&raquo; за матрицею Ансоффа?",
+    "rawPassage": null,
+    "rawOptions": [
+      "Глибше проникнення на ринок.",
+      "Розширення меж ринку.",
+      "Виробництво товару.",
+      "Диверсифікація."
+    ],
+    "rawCorrectAnswer": 1,
+    "rawExplanation": null,
+    "sourceUrl": "https://zno.osvita.ua/master/upravlinnja/all/75/",
+    "sourceFile": "data/raw/third-party/management/zno-osvita-upravlinnja-0075.html",
+    "pageNumber": null,
+    "confidence": "high",
+    "extractionNotes": "Extracted from ZNO Освіта task 32696; q[tip]=1."
+  },
+  {
+    "rawQuestionText": "Які мотиваційні потреби притаманні людям згідно із змістовою теорією Д. МакКлеланда?",
+    "rawPassage": null,
+    "rawOptions": [
+      "Влада, успіх і причетність.",
+      "Визнання, успіх і соціальні потреби.",
+      "Соціальні потреби та потреби безпеки.",
+      "Повага, самовираження, захист."
+    ],
+    "rawCorrectAnswer": 0,
+    "rawExplanation": null,
+    "sourceUrl": "https://zno.osvita.ua/master/upravlinnja/all/75/",
+    "sourceFile": "data/raw/third-party/management/zno-osvita-upravlinnja-0075.html",
+    "pageNumber": null,
+    "confidence": "high",
+    "extractionNotes": "Extracted from ZNO Освіта task 32695; q[tip]=1."
+  },
+  {
+    "rawQuestionText": "Який вид департаменталізації відображає процес розподілу організації на окремі елементи, кожен з яких має визначене, конкретне завдання та обов'язки?",
+    "rawPassage": null,
+    "rawOptions": [
+      "Функціональний.",
+      "Продуктовий.",
+      "Лінійно-функціональний.",
+      "Матричний."
+    ],
+    "rawCorrectAnswer": 0,
+    "rawExplanation": null,
+    "sourceUrl": "https://zno.osvita.ua/master/upravlinnja/all/75/",
+    "sourceFile": "data/raw/third-party/management/zno-osvita-upravlinnja-0075.html",
+    "pageNumber": null,
+    "confidence": "high",
+    "extractionNotes": "Extracted from ZNO Освіта task 32694; q[tip]=1."
+  },
+  {
+    "rawQuestionText": "Що являє собою дисконтування?",
+    "rawPassage": null,
+    "rawOptions": [
+      "Приведення майбутньої вартості грошей до теперішнього часу.",
+      "Приведення теперішньої вартості грошей до майбутнього часу.",
+      "Розрахунок знижки в ціні на сезонні товари.",
+      "Розрахунок надбавки в ціні на сезонні товари."
+    ],
+    "rawCorrectAnswer": 0,
+    "rawExplanation": null,
+    "sourceUrl": "https://zno.osvita.ua/master/upravlinnja/all/75/",
+    "sourceFile": "data/raw/third-party/management/zno-osvita-upravlinnja-0075.html",
+    "pageNumber": null,
+    "confidence": "high",
+    "extractionNotes": "Extracted from ZNO Освіта task 32693; q[tip]=1."
+  },
+  {
+    "rawQuestionText": "Інформація про нове призначення керівника відділу стала доступною без офіційного представлення. Яка перешкода у комунікаціях виникла?",
+    "rawPassage": null,
+    "rawOptions": [
+      "Шуми у комунікаціях.",
+      "Брак зворотного зв’язку.",
+      "Несанкціонований доступ до інформації.",
+      "Брак фільтрів."
+    ],
+    "rawCorrectAnswer": 2,
+    "rawExplanation": null,
+    "sourceUrl": "https://zno.osvita.ua/master/upravlinnja/all/75/",
+    "sourceFile": "data/raw/third-party/management/zno-osvita-upravlinnja-0075.html",
+    "pageNumber": null,
+    "confidence": "high",
+    "extractionNotes": "Extracted from ZNO Освіта task 32692; q[tip]=1."
+  },
+  {
+    "rawQuestionText": "Яке з понять маркетингу відображає представлену на ринку потребу в товарах, підкріплену платоспроможністю?",
+    "rawPassage": null,
+    "rawOptions": [
+      "Насиченість ринку.",
+      "Попит.",
+      "Місткість ринку.",
+      "Пропозиція."
+    ],
+    "rawCorrectAnswer": 1,
+    "rawExplanation": null,
+    "sourceUrl": "https://zno.osvita.ua/master/upravlinnja/all/90/",
+    "sourceFile": "data/raw/third-party/management/zno-osvita-upravlinnja-0090.html",
+    "pageNumber": null,
+    "confidence": "high",
+    "extractionNotes": "Extracted from ZNO Освіта task 32691; q[tip]=1."
+  },
+  {
+    "rawQuestionText": "Який ступінь розвитку соціальної відповідальності бізнесу є загальнообов'язковим в умовах правової держави?",
+    "rawPassage": null,
+    "rawOptions": [
+      "Базовий ‒ дії, зумовлені виконанням законодавчо встановлених норм і правил.",
+      "Розширений ‒ дії є результатом вибору компанії з метою отримання економічних вигод.",
+      "Вищий ‒ дії, що мають характер свідомо прийнятих добровільних зобов’язань.",
+      "Розвинений ‒ дії, спрямовані на соціальний розвиток і показують міру відповідальності."
+    ],
+    "rawCorrectAnswer": 0,
+    "rawExplanation": null,
+    "sourceUrl": "https://zno.osvita.ua/master/upravlinnja/all/90/",
+    "sourceFile": "data/raw/third-party/management/zno-osvita-upravlinnja-0090.html",
+    "pageNumber": null,
+    "confidence": "high",
+    "extractionNotes": "Extracted from ZNO Освіта task 32690; q[tip]=1."
+  },
+  {
+    "rawQuestionText": "До якої групи споживчих товарів належить спортивний автомобіль?",
+    "rawPassage": null,
+    "rawOptions": [
+      "Постійного попиту.",
+      "Пасивного попиту.",
+      "Особливого попиту.",
+      "Імпульсивної купівлі."
+    ],
+    "rawCorrectAnswer": 2,
+    "rawExplanation": null,
+    "sourceUrl": "https://zno.osvita.ua/master/upravlinnja/all/90/",
+    "sourceFile": "data/raw/third-party/management/zno-osvita-upravlinnja-0090.html",
+    "pageNumber": null,
+    "confidence": "high",
+    "extractionNotes": "Extracted from ZNO Освіта task 32689; q[tip]=1."
+  },
+  {
+    "rawQuestionText": "Суть якої функції підприємництва полягає у реалізації нових ідей, пов'язаних із господарським ризиком?",
+    "rawPassage": null,
+    "rawOptions": [
+      "Особистісної.",
+      "Управлінської.",
+      "Творчої.",
+      "Ризикової."
+    ],
+    "rawCorrectAnswer": 2,
+    "rawExplanation": null,
+    "sourceUrl": "https://zno.osvita.ua/master/upravlinnja/all/90/",
+    "sourceFile": "data/raw/third-party/management/zno-osvita-upravlinnja-0090.html",
+    "pageNumber": null,
+    "confidence": "high",
+    "extractionNotes": "Extracted from ZNO Освіта task 32688; q[tip]=1."
+  },
+  {
+    "rawQuestionText": "Який етап життєвого циклу товару характеризується значною кількістю конкурентів і замалою кількістю нових покупців?",
+    "rawPassage": null,
+    "rawOptions": [
+      "Впровадження.",
+      "Зростання.",
+      "Зрілість.",
+      "Занепад."
+    ],
+    "rawCorrectAnswer": 2,
+    "rawExplanation": null,
+    "sourceUrl": "https://zno.osvita.ua/master/upravlinnja/all/90/",
+    "sourceFile": "data/raw/third-party/management/zno-osvita-upravlinnja-0090.html",
+    "pageNumber": null,
+    "confidence": "high",
+    "extractionNotes": "Extracted from ZNO Освіта task 32687; q[tip]=1."
+  },
+  {
+    "rawQuestionText": "Який план відображає поточну діяльність підприємства на рівні окремих структурних підрозділів?",
+    "rawPassage": null,
+    "rawOptions": [
+      "Матеріально-технічного забезпечення.",
+      "Операційний.",
+      "Фінансовий.",
+      "Поточний."
+    ],
+    "rawCorrectAnswer": 1,
+    "rawExplanation": null,
+    "sourceUrl": "https://zno.osvita.ua/master/upravlinnja/all/90/",
+    "sourceFile": "data/raw/third-party/management/zno-osvita-upravlinnja-0090.html",
+    "pageNumber": null,
+    "confidence": "high",
+    "extractionNotes": "Extracted from ZNO Освіта task 32686; q[tip]=1."
+  },
+  {
+    "rawQuestionText": "Якій стратегії дій відповідає адаптація та виведення існуючих товарів на нові ринки за матрицею Ансоффа?",
+    "rawPassage": null,
+    "rawOptions": [
+      "Диверсифікації.",
+      "Проникнення на ринок.",
+      "Інтеграції.",
+      "Розвитку ринку."
+    ],
+    "rawCorrectAnswer": 3,
+    "rawExplanation": null,
+    "sourceUrl": "https://zno.osvita.ua/master/upravlinnja/all/90/",
+    "sourceFile": "data/raw/third-party/management/zno-osvita-upravlinnja-0090.html",
+    "pageNumber": null,
+    "confidence": "high",
+    "extractionNotes": "Extracted from ZNO Освіта task 32685; q[tip]=1."
+  },
+  {
+    "rawQuestionText": "Що є об'єктом промислової власності?",
+    "rawPassage": null,
+    "rawOptions": [
+      "Винаходи, промислові зразки, корисні моделі, знаки для товарів і послуг.",
+      "Комп'ютерні програми, бази даних, твори у галузі науки, літератури та мистецтва.",
+      "Ноу-хау, комерційна таємниця, гудвіл.",
+      "Цінні папери, казначейські векселі, депозитні сертифікати."
+    ],
+    "rawCorrectAnswer": 0,
+    "rawExplanation": null,
+    "sourceUrl": "https://zno.osvita.ua/master/upravlinnja/all/90/",
+    "sourceFile": "data/raw/third-party/management/zno-osvita-upravlinnja-0090.html",
+    "pageNumber": null,
+    "confidence": "high",
+    "extractionNotes": "Extracted from ZNO Освіта task 32684; q[tip]=1."
+  },
+  {
+    "rawQuestionText": "Який інструмент належить до соціально-психологічних методів менеджменту?",
+    "rawPassage": null,
+    "rawOptions": [
+      "Дисциплінарна відповідальність.",
+      "Соціальне страхування.",
+      "Матеріальне стимулювання.",
+      "Моральне стимулювання."
+    ],
+    "rawCorrectAnswer": 3,
+    "rawExplanation": null,
+    "sourceUrl": "https://zno.osvita.ua/master/upravlinnja/all/90/",
+    "sourceFile": "data/raw/third-party/management/zno-osvita-upravlinnja-0090.html",
+    "pageNumber": null,
+    "confidence": "high",
+    "extractionNotes": "Extracted from ZNO Освіта task 32683; q[tip]=1."
+  },
+  {
+    "rawQuestionText": "У чому полягає основний зміст контролювання як функції менеджменту?",
+    "rawPassage": null,
+    "rawOptions": [
+      "Забезпечення досягнення цілей організації.",
+      "Спонукання до реалізації окреслених планів.",
+      "Розподіл повноважень в організації.",
+      "Визначення чіткого порядку дій для досягнення цілей організації."
+    ],
+    "rawCorrectAnswer": 0,
+    "rawExplanation": null,
+    "sourceUrl": "https://zno.osvita.ua/master/upravlinnja/all/90/",
+    "sourceFile": "data/raw/third-party/management/zno-osvita-upravlinnja-0090.html",
+    "pageNumber": null,
+    "confidence": "high",
+    "extractionNotes": "Extracted from ZNO Освіта task 32682; q[tip]=1."
+  },
+  {
+    "rawQuestionText": "Що характеризує обмежене право використання ресурсів?",
+    "rawPassage": null,
+    "rawOptions": [
+      "Департаменталізація.",
+      "Повноваження.",
+      "Формалізація.",
+      "Делегування повноважень."
+    ],
+    "rawCorrectAnswer": 1,
+    "rawExplanation": null,
+    "sourceUrl": "https://zno.osvita.ua/master/upravlinnja/all/90/",
+    "sourceFile": "data/raw/third-party/management/zno-osvita-upravlinnja-0090.html",
+    "pageNumber": null,
+    "confidence": "high",
+    "extractionNotes": "Extracted from ZNO Освіта task 32681; q[tip]=1."
+  },
+  {
+    "rawQuestionText": "Який інструмент використовують для графічного представлення послідовності робіт у проєкті?",
+    "rawPassage": null,
+    "rawOptions": [
+      "Діаграму Ганта.",
+      "SWOT-аналіз.",
+      "Бюджет підприємства.",
+      "Потенційну матрицю."
+    ],
+    "rawCorrectAnswer": 0,
+    "rawExplanation": null,
+    "sourceUrl": "https://zno.osvita.ua/master/upravlinnja/all/90/",
+    "sourceFile": "data/raw/third-party/management/zno-osvita-upravlinnja-0090.html",
+    "pageNumber": null,
+    "confidence": "high",
+    "extractionNotes": "Extracted from ZNO Освіта task 32680; q[tip]=1."
+  },
+  {
+    "rawQuestionText": "На якому етапі раціонального розв'язання проблеми відбувається коригування у разі виявлення відхилень фактичних результатів від очікуваних?",
+    "rawPassage": null,
+    "rawOptions": [
+      "Зворотний зв`язок.",
+      "Оцінювання альтернатив.",
+      "Формування обмежень.",
+      "Виявлення альтернатив."
+    ],
+    "rawCorrectAnswer": 0,
+    "rawExplanation": null,
+    "sourceUrl": "https://zno.osvita.ua/master/upravlinnja/all/90/",
+    "sourceFile": "data/raw/third-party/management/zno-osvita-upravlinnja-0090.html",
+    "pageNumber": null,
+    "confidence": "high",
+    "extractionNotes": "Extracted from ZNO Освіта task 32679; q[tip]=1."
+  },
+  {
+    "rawQuestionText": "Яке з тверджень щодо цінової еластичності попиту як чинника ціноутворення є істинним?",
+    "rawPassage": null,
+    "rawOptions": [
+      "Наявність на ринку товарів-замінників може вплинути на цінову еластичність попиту.",
+      "Цінова еластичність попиту визначається як співвідношення відсоткової зміни ціни до відсоткової зміни попиту.",
+      "За нееластичного попиту, якщо ціна товару зростає, попит залишається абсолютно незмінним.",
+      "Якщо цінова еластичність попиту дорівнює 2 ‒ це означає, що зміна ціни на 2 % призводить до зміни попиту на 1 %."
+    ],
+    "rawCorrectAnswer": 0,
+    "rawExplanation": null,
+    "sourceUrl": "https://zno.osvita.ua/master/upravlinnja/all/90/",
+    "sourceFile": "data/raw/third-party/management/zno-osvita-upravlinnja-0090.html",
+    "pageNumber": null,
+    "confidence": "high",
+    "extractionNotes": "Extracted from ZNO Освіта task 32678; q[tip]=1."
+  },
+  {
+    "rawQuestionText": "Оберіть вид основних засобів за функціональним призначенням.",
+    "rawPassage": null,
+    "rawOptions": [
+      "Промислові, будівельні, сільськогосподарські.",
+      "Інструменти, обчислювальна техніка, обладнання.",
+      "Власні, орендовані, запозичені.",
+      "Діючі, недіючі, резервні."
+    ],
+    "rawCorrectAnswer": 1,
+    "rawExplanation": null,
+    "sourceUrl": "https://zno.osvita.ua/master/upravlinnja/all/90/",
+    "sourceFile": "data/raw/third-party/management/zno-osvita-upravlinnja-0090.html",
+    "pageNumber": null,
+    "confidence": "high",
+    "extractionNotes": "Extracted from ZNO Освіта task 32677; q[tip]=1."
+  },
+  {
+    "rawQuestionText": "За яких умов зростає сила постачальників як фактора конкуренції?",
+    "rawPassage": null,
+    "rawOptions": [
+      "Товари стандартні, покупці є важливими клієнтами для постачальника, продукція постачальника посідає важливе місце у виробництві цієї галузі.",
+      "Товари диференційовані, покупці не є важливими клієнтами для постачальника, продукція постачальника посідає важливе місце у виробництві цієї галузі.",
+      "Товари високоякісні, покупці є важливими клієнтами для постачальника, продукція постачальника посідає важливе місце у виробництві цієї галузі.",
+      "Товари різноманітні, покупці не є важливими клієнтами для постачальника, продукція постачальника не посідає важливе місце у виробництві цієї галузі."
+    ],
+    "rawCorrectAnswer": 1,
+    "rawExplanation": null,
+    "sourceUrl": "https://zno.osvita.ua/master/upravlinnja/all/105/",
+    "sourceFile": "data/raw/third-party/management/zno-osvita-upravlinnja-0105.html",
+    "pageNumber": null,
+    "confidence": "high",
+    "extractionNotes": "Extracted from ZNO Освіта task 32676; q[tip]=1."
+  },
+  {
+    "rawQuestionText": "Яким за своєю сутністю є план економічного розвитку підприємства, що передбачає реалізацію конкретних заходів і дає змогу порівняно швидко отримувати результат, співставний із відповідними діями?",
+    "rawPassage": null,
+    "rawOptions": [
+      "Тактичний.",
+      "Стратегічний.",
+      "Операційний.",
+      "Фінансовий."
+    ],
+    "rawCorrectAnswer": 0,
+    "rawExplanation": null,
+    "sourceUrl": "https://zno.osvita.ua/master/upravlinnja/all/105/",
+    "sourceFile": "data/raw/third-party/management/zno-osvita-upravlinnja-0105.html",
+    "pageNumber": null,
+    "confidence": "high",
+    "extractionNotes": "Extracted from ZNO Освіта task 32675; q[tip]=1."
+  },
+  {
+    "rawQuestionText": "Страхова компанія систематично телефонує потенційним клієнтам і пропонує послуги зі страхування життя за допомогою різних методів стимулювання збуту. Яка концепція маркетингу використовується при цьому?",
+    "rawPassage": null,
+    "rawOptions": [
+      "Соціально-етичного маркетингу.",
+      "Удосконалення товару.",
+      "Інтенсифікації комерційних зусиль.",
+      "Класичного маркетингу."
+    ],
+    "rawCorrectAnswer": 2,
+    "rawExplanation": null,
+    "sourceUrl": "https://zno.osvita.ua/master/upravlinnja/all/105/",
+    "sourceFile": "data/raw/third-party/management/zno-osvita-upravlinnja-0105.html",
+    "pageNumber": null,
+    "confidence": "high",
+    "extractionNotes": "Extracted from ZNO Освіта task 32674; q[tip]=1."
+  },
+  {
+    "rawQuestionText": "Що являє собою рівень каналу розподілу в маркетингу?",
+    "rawPassage": null,
+    "rawOptions": [
+      "Кожна ланка посередників між виробником і споживачем.",
+      "Кількість різнотипних посередників у каналі розподілу.",
+      "Загальна кількість посередників на шляху до споживача.",
+      "Усі дилери та дистрибутори в каналі розподілу."
+    ],
+    "rawCorrectAnswer": 0,
+    "rawExplanation": null,
+    "sourceUrl": "https://zno.osvita.ua/master/upravlinnja/all/105/",
+    "sourceFile": "data/raw/third-party/management/zno-osvita-upravlinnja-0105.html",
+    "pageNumber": null,
+    "confidence": "high",
+    "extractionNotes": "Extracted from ZNO Освіта task 32673; q[tip]=1."
+  },
+  {
+    "rawQuestionText": "На економічному форумі відбулося знайомство керівника відділу продажів і генерального директора. Хто з них першим має залишити свою візитівку згідно з етикетом?",
+    "rawPassage": null,
+    "rawOptions": [
+      "Особа, чия посада є нижчою.",
+      "Особа, чия посада є вищою.",
+      "Особа, яка за віком є старшою.",
+      "Особа, котра швидше проявить ініціативу."
+    ],
+    "rawCorrectAnswer": 0,
+    "rawExplanation": null,
+    "sourceUrl": "https://zno.osvita.ua/master/upravlinnja/all/105/",
+    "sourceFile": "data/raw/third-party/management/zno-osvita-upravlinnja-0105.html",
+    "pageNumber": null,
+    "confidence": "high",
+    "extractionNotes": "Extracted from ZNO Освіта task 32672; q[tip]=1."
+  },
+  {
+    "rawQuestionText": "Яка вимога до інформації після її отримання підвищує ймовірність виконання завдання?",
+    "rawPassage": null,
+    "rawOptions": [
+      "Корисність.",
+      "Повнота.",
+      "Точність.",
+      "Доступність."
+    ],
+    "rawCorrectAnswer": 0,
+    "rawExplanation": null,
+    "sourceUrl": "https://zno.osvita.ua/master/upravlinnja/all/105/",
+    "sourceFile": "data/raw/third-party/management/zno-osvita-upravlinnja-0105.html",
+    "pageNumber": null,
+    "confidence": "high",
+    "extractionNotes": "Extracted from ZNO Освіта task 32671; q[tip]=1."
+  },
+  {
+    "rawQuestionText": "Яка діяльність належить до підприємництва у сфері інформаційних послуг?",
+    "rawPassage": null,
+    "rawOptions": [
+      "Розробка програмного забезпечення.",
+      "Торгівля електронікою.",
+      "Виробництво електроніки.",
+      "Ремонт електроніки."
+    ],
+    "rawCorrectAnswer": 0,
+    "rawExplanation": null,
+    "sourceUrl": "https://zno.osvita.ua/master/upravlinnja/all/105/",
+    "sourceFile": "data/raw/third-party/management/zno-osvita-upravlinnja-0105.html",
+    "pageNumber": null,
+    "confidence": "high",
+    "extractionNotes": "Extracted from ZNO Освіта task 32670; q[tip]=1."
+  },
+  {
+    "rawQuestionText": "Оберіть приклад внутрішнього мотивування.",
+    "rawPassage": null,
+    "rawOptions": [
+      "Просування підлеглого кар’єрними сходами.",
+      "Похвала підлеглого за високу якість роботи.",
+      "Формування у підлеглого відчуття значущості виконуваної роботи.",
+      "Визнання результатів роботи підлеглого та додаткові виплати за неї."
+    ],
+    "rawCorrectAnswer": 2,
+    "rawExplanation": null,
+    "sourceUrl": "https://zno.osvita.ua/master/upravlinnja/all/105/",
+    "sourceFile": "data/raw/third-party/management/zno-osvita-upravlinnja-0105.html",
+    "pageNumber": null,
+    "confidence": "high",
+    "extractionNotes": "Extracted from ZNO Освіта task 32669; q[tip]=1."
+  },
+  {
+    "rawQuestionText": "Підприємець хоче диверсифікувати діяльність, уклавши договір з компанією McDonald's. Як результат він отримає в оренду основні фонди, короткостроковий кредит на пільгових умовах, постачання напівфабрикатів та інші види послуг. Яку форму ведення бізнесу він використав?",
+    "rawPassage": null,
+    "rawOptions": [
+      "Інверсія.",
+      "Франчайзинг.",
+      "Аналогія.",
+      "Футурологія."
+    ],
+    "rawCorrectAnswer": 1,
+    "rawExplanation": null,
+    "sourceUrl": "https://zno.osvita.ua/master/upravlinnja/all/105/",
+    "sourceFile": "data/raw/third-party/management/zno-osvita-upravlinnja-0105.html",
+    "pageNumber": null,
+    "confidence": "high",
+    "extractionNotes": "Extracted from ZNO Освіта task 32668; q[tip]=1."
+  },
+  {
+    "rawQuestionText": "Які засоби впливу входять до структури комплексу маркетингових комунікацій?",
+    "rawPassage": null,
+    "rawOptions": [
+      "Реклама, стимулювання збуту, товар, особистий продаж.",
+      "Реклама, стимулювання збуту, зв'язки з громадськістю, особистий продаж.",
+      "Реклама, розподіл, зв'язки з громадськістю, особистий продаж.",
+      "Реклама, стимулювання збуту, ціна, особистий продаж."
+    ],
+    "rawCorrectAnswer": 1,
+    "rawExplanation": null,
+    "sourceUrl": "https://zno.osvita.ua/master/upravlinnja/all/105/",
+    "sourceFile": "data/raw/third-party/management/zno-osvita-upravlinnja-0105.html",
+    "pageNumber": null,
+    "confidence": "high",
+    "extractionNotes": "Extracted from ZNO Освіта task 32667; q[tip]=1."
+  },
+  {
+    "rawQuestionText": "У чому переваги матричної організаційної структури управління?",
+    "rawPassage": null,
+    "rawOptions": [
+      "Контрольованість діяльності та високі вимоги до кваліфікації персоналу.",
+      "Заохочення координації діяльності між відповідальними керівниками.",
+      "Оперативне прийняття рішень і високий ступінь активізації керівництва.",
+      "Розвантаження керівництва та висока внутрішньофірмова конкуренція."
+    ],
+    "rawCorrectAnswer": 1,
+    "rawExplanation": null,
+    "sourceUrl": "https://zno.osvita.ua/master/upravlinnja/all/105/",
+    "sourceFile": "data/raw/third-party/management/zno-osvita-upravlinnja-0105.html",
+    "pageNumber": null,
+    "confidence": "high",
+    "extractionNotes": "Extracted from ZNO Освіта task 32666; q[tip]=1."
+  },
+  {
+    "rawQuestionText": "Який показник характеризує перевищення вартісної оцінки очікуваних результатів від інновацій над сумарними витратами ресурсів за певний період часу?",
+    "rawPassage": null,
+    "rawOptions": [
+      "Економічний ефект.",
+      "Інвестиційний потенціал.",
+      "Власний капітал.",
+      "Нерозподілений прибуток."
+    ],
+    "rawCorrectAnswer": 0,
+    "rawExplanation": null,
+    "sourceUrl": "https://zno.osvita.ua/master/upravlinnja/all/105/",
+    "sourceFile": "data/raw/third-party/management/zno-osvita-upravlinnja-0105.html",
+    "pageNumber": null,
+    "confidence": "high",
+    "extractionNotes": "Extracted from ZNO Освіта task 32665; q[tip]=1."
+  },
+  {
+    "rawQuestionText": "Яка комбінація змінних застосовується в матриці І. Ансофа для аналізу маркетингових можливостей компанії?",
+    "rawPassage": null,
+    "rawOptions": [
+      "Відносна ринкова частка та темпи зростання ринку.",
+      "Середні темпи зростання ринку та ринкової частки компанії.",
+      "Конкурентоспроможність компанії та привабливість ринку.",
+      "Види ринку та товару."
+    ],
+    "rawCorrectAnswer": 3,
+    "rawExplanation": null,
+    "sourceUrl": "https://zno.osvita.ua/master/upravlinnja/all/105/",
+    "sourceFile": "data/raw/third-party/management/zno-osvita-upravlinnja-0105.html",
+    "pageNumber": null,
+    "confidence": "high",
+    "extractionNotes": "Extracted from ZNO Освіта task 32664; q[tip]=1."
+  },
+  {
+    "rawQuestionText": "Що передбачає функція каналу розподілу &laquo;встановлення контактів&raquo;?",
+    "rawPassage": null,
+    "rawOptions": [
+      "Пошук потенційних споживачів.",
+      "Пошук потенційних постачальників.",
+      "Пошук джерел фінансування.",
+      "Пошук джерел зменшення ризиків."
+    ],
+    "rawCorrectAnswer": 0,
+    "rawExplanation": null,
+    "sourceUrl": "https://zno.osvita.ua/master/upravlinnja/all/105/",
+    "sourceFile": "data/raw/third-party/management/zno-osvita-upravlinnja-0105.html",
+    "pageNumber": null,
+    "confidence": "high",
+    "extractionNotes": "Extracted from ZNO Освіта task 32663; q[tip]=1."
+  },
+  {
+    "rawQuestionText": "Який показник відображає час, необхідний для відшкодування вкладених у проєкт інвестицій?",
+    "rawPassage": null,
+    "rawOptions": [
+      "IRR (внутрішній рівень доходу).",
+      "ROI (показник прибутковості).",
+      "PP (період окупності).",
+      "NPV (чиста приведена вартість)."
+    ],
+    "rawCorrectAnswer": 2,
+    "rawExplanation": null,
+    "sourceUrl": "https://zno.osvita.ua/master/upravlinnja/all/105/",
+    "sourceFile": "data/raw/third-party/management/zno-osvita-upravlinnja-0105.html",
+    "pageNumber": null,
+    "confidence": "high",
+    "extractionNotes": "Extracted from ZNO Освіта task 32662; q[tip]=1."
+  },
+  {
+    "rawQuestionText": "Які види послуг належать до розподільчих?",
+    "rawPassage": null,
+    "rawOptions": [
+      "Торговельні.",
+      "Фінансові.",
+      "Освітні.",
+      "Лізингові."
+    ],
+    "rawCorrectAnswer": 0,
+    "rawExplanation": null,
+    "sourceUrl": "https://zno.osvita.ua/master/upravlinnja/all/120/",
+    "sourceFile": "data/raw/third-party/management/zno-osvita-upravlinnja-0120.html",
+    "pageNumber": null,
+    "confidence": "high",
+    "extractionNotes": "Extracted from ZNO Освіта task 32661; q[tip]=1."
+  },
+  {
+    "rawQuestionText": "Який вид підприємства створюється двома і більше засновниками за спільними договором, управлінням майном і підприємницькою/трудовою діяльністю?",
+    "rawPassage": null,
+    "rawOptions": [
+      "Колективне.",
+      "Корпоративне.",
+      "Унітарне.",
+      "Приватне."
+    ],
+    "rawCorrectAnswer": 1,
+    "rawExplanation": null,
+    "sourceUrl": "https://zno.osvita.ua/master/upravlinnja/all/120/",
+    "sourceFile": "data/raw/third-party/management/zno-osvita-upravlinnja-0120.html",
+    "pageNumber": null,
+    "confidence": "high",
+    "extractionNotes": "Extracted from ZNO Освіта task 32660; q[tip]=1."
+  },
+  {
+    "rawQuestionText": "До якого виду маркетингу належить стратегія охоплення ринку у разі пропозиції компанією курсів англійської мови виключно для дітей молодшого шкільного віку?",
+    "rawPassage": null,
+    "rawOptions": [
+      "Недиференційованого.",
+      "Диференційованого.",
+      "Концентрованого.",
+      "Індивідуалізованого."
+    ],
+    "rawCorrectAnswer": 2,
+    "rawExplanation": null,
+    "sourceUrl": "https://zno.osvita.ua/master/upravlinnja/all/120/",
+    "sourceFile": "data/raw/third-party/management/zno-osvita-upravlinnja-0120.html",
+    "pageNumber": null,
+    "confidence": "high",
+    "extractionNotes": "Extracted from ZNO Освіта task 32659; q[tip]=1."
+  },
+  {
+    "rawQuestionText": "Що сприяє задоволенню споживчих потреб у визначенні маркетингу за Ф. Котлером?",
+    "rawPassage": null,
+    "rawOptions": [
+      "Обмін.",
+      "Попит.",
+      "Пропозиція.",
+      "Кон'юнктура."
+    ],
+    "rawCorrectAnswer": 0,
+    "rawExplanation": null,
+    "sourceUrl": "https://zno.osvita.ua/master/upravlinnja/all/120/",
+    "sourceFile": "data/raw/third-party/management/zno-osvita-upravlinnja-0120.html",
+    "pageNumber": null,
+    "confidence": "high",
+    "extractionNotes": "Extracted from ZNO Освіта task 32658; q[tip]=1."
+  },
+  {
+    "rawQuestionText": "Людина хоче купити кавоварку і запитує у друзів про їхній користувацький досвід цією технікою. На якому етапі процесу прийняття рішення про купівлю перебуває людина?",
+    "rawPassage": null,
+    "rawOptions": [
+      "Усвідомлення потреби.",
+      "Пошук інформації.",
+      "Оцінювання варіантів.",
+      "Рішення про покупку."
+    ],
+    "rawCorrectAnswer": 1,
+    "rawExplanation": null,
+    "sourceUrl": "https://zno.osvita.ua/master/upravlinnja/all/120/",
+    "sourceFile": "data/raw/third-party/management/zno-osvita-upravlinnja-0120.html",
+    "pageNumber": null,
+    "confidence": "high",
+    "extractionNotes": "Extracted from ZNO Освіта task 32657; q[tip]=1."
+  },
+  {
+    "rawQuestionText": "Який показник ефективності характеризує величину основних виробничих засобів, що припадає на кожну грошову одиницю виготовлення продукції?",
+    "rawPassage": null,
+    "rawOptions": [
+      "Віддача основних засобів.",
+      "Місткість основних засобів.",
+      "Інтенсивність використання основних засобів.",
+      "Озброєність основними засобами."
+    ],
+    "rawCorrectAnswer": 1,
+    "rawExplanation": null,
+    "sourceUrl": "https://zno.osvita.ua/master/upravlinnja/all/120/",
+    "sourceFile": "data/raw/third-party/management/zno-osvita-upravlinnja-0120.html",
+    "pageNumber": null,
+    "confidence": "high",
+    "extractionNotes": "Extracted from ZNO Освіта task 32656; q[tip]=1."
+  },
+  {
+    "rawQuestionText": "Що таке фондова біржа?",
+    "rawPassage": null,
+    "rawOptions": [
+      "Магазин, де продають товари великими партіями.",
+      "Фінансовий інструмент для обміну товарів і послуг.",
+      "Ринок, на якому встановлюється контакт між виробником і споживачем зерна.",
+      "Майданчик, на якому здійснюється торгівля цінними паперами."
+    ],
+    "rawCorrectAnswer": 3,
+    "rawExplanation": null,
+    "sourceUrl": "https://zno.osvita.ua/master/upravlinnja/all/120/",
+    "sourceFile": "data/raw/third-party/management/zno-osvita-upravlinnja-0120.html",
+    "pageNumber": null,
+    "confidence": "high",
+    "extractionNotes": "Extracted from ZNO Освіта task 32655; q[tip]=1."
+  },
+  {
+    "rawQuestionText": "Що характеризує ризики в прийнятті управлінських рішень?",
+    "rawPassage": null,
+    "rawOptions": [
+      "Впливові фактори та кінцевий результат кожної альтернативи чітко прогнозовані.",
+      "Ймовірність впливу факторів та ймовірні значення кінцевого результату можуть бути прогнозовані.",
+      "Ймовірність впливу факторів та ймовірні значення кінцевого результату не можуть бути прогнозовані.",
+      "Неможливість визначення впливових факторів і прогнозування кінцевих результатів."
+    ],
+    "rawCorrectAnswer": 1,
+    "rawExplanation": null,
+    "sourceUrl": "https://zno.osvita.ua/master/upravlinnja/all/120/",
+    "sourceFile": "data/raw/third-party/management/zno-osvita-upravlinnja-0120.html",
+    "pageNumber": null,
+    "confidence": "high",
+    "extractionNotes": "Extracted from ZNO Освіта task 32654; q[tip]=1."
+  },
+  {
+    "rawQuestionText": "Оберіть ознаку, яка описує неособисті канали комунікацій.",
+    "rawPassage": null,
+    "rawOptions": [
+      "Розсилка повідомлень.",
+      "Коригування звернень.",
+      "Легкість встановлення зворотного зв’язку під час комунікації.",
+      "Створення особливої атмосфери під час заходів."
+    ],
+    "rawCorrectAnswer": 3,
+    "rawExplanation": null,
+    "sourceUrl": "https://zno.osvita.ua/master/upravlinnja/all/120/",
+    "sourceFile": "data/raw/third-party/management/zno-osvita-upravlinnja-0120.html",
+    "pageNumber": null,
+    "confidence": "high",
+    "extractionNotes": "Extracted from ZNO Освіта task 32653; q[tip]=1."
+  },
+  {
+    "rawQuestionText": "Який підхід у менеджменті передбачає послідовне та циклічне виконання основних управлінських функцій?",
+    "rawPassage": null,
+    "rawOptions": [
+      "Ситуаційний.",
+      "Системний.",
+      "Процесний.",
+      "Демократичний."
+    ],
+    "rawCorrectAnswer": 2,
+    "rawExplanation": null,
+    "sourceUrl": "https://zno.osvita.ua/master/upravlinnja/all/120/",
+    "sourceFile": "data/raw/third-party/management/zno-osvita-upravlinnja-0120.html",
+    "pageNumber": null,
+    "confidence": "high",
+    "extractionNotes": "Extracted from ZNO Освіта task 32652; q[tip]=1."
+  },
+  {
+    "rawQuestionText": "Що з наведеного відповідає критерію поділу на мікро- та макромаркетингове середовище компанії?",
+    "rawPassage": null,
+    "rawOptions": [
+      "Можливість контролю з боку компанії.",
+      "Рівень впливу на компанію.",
+      "Спосіб впливу на можливості компанії.",
+      "Можливість впливу з боку компанії."
+    ],
+    "rawCorrectAnswer": 0,
+    "rawExplanation": null,
+    "sourceUrl": "https://zno.osvita.ua/master/upravlinnja/all/120/",
+    "sourceFile": "data/raw/third-party/management/zno-osvita-upravlinnja-0120.html",
+    "pageNumber": null,
+    "confidence": "high",
+    "extractionNotes": "Extracted from ZNO Освіта task 32651; q[tip]=1."
+  },
+  {
+    "rawQuestionText": "На скільки скоротиться загальна кількість контактів, якщо три виробники, кожний з яких взаємодіє з трьома групами споживачів, для продажу своєї продукції скористаються послугами одного посередника?",
+    "rawPassage": null,
+    "rawOptions": [
+      "1.",
+      "3.",
+      "6.",
+      "9."
+    ],
+    "rawCorrectAnswer": 1,
+    "rawExplanation": null,
+    "sourceUrl": "https://zno.osvita.ua/master/upravlinnja/all/120/",
+    "sourceFile": "data/raw/third-party/management/zno-osvita-upravlinnja-0120.html",
+    "pageNumber": null,
+    "confidence": "high",
+    "extractionNotes": "Extracted from ZNO Освіта task 32650; q[tip]=1."
+  },
+  {
+    "rawQuestionText": "Визначте початковий етап процесу контролювання.",
+    "rawPassage": null,
+    "rawOptions": [
+      "Встановлення стандартів і критеріїв.",
+      "Визначення системи цілей.",
+      "Розроблення планів діяльності.",
+      "Формування стратегії."
+    ],
+    "rawCorrectAnswer": 0,
+    "rawExplanation": null,
+    "sourceUrl": "https://zno.osvita.ua/master/upravlinnja/all/120/",
+    "sourceFile": "data/raw/third-party/management/zno-osvita-upravlinnja-0120.html",
+    "pageNumber": null,
+    "confidence": "high",
+    "extractionNotes": "Extracted from ZNO Освіта task 32649; q[tip]=1."
+  },
+  {
+    "rawQuestionText": "Який метод застосовують керівники для задоволення соціальних потреб працівників згідно з теорією А. Маслоу?",
+    "rawPassage": null,
+    "rawOptions": [
+      "Проведення періодичних нарад.",
+      "Забезпечення можливостей для навчання та розвитку.",
+      "Пропонування змістовнішої роботи.",
+      "Оцінювання досягнутих результатів."
+    ],
+    "rawCorrectAnswer": 0,
+    "rawExplanation": null,
+    "sourceUrl": "https://zno.osvita.ua/master/upravlinnja/all/120/",
+    "sourceFile": "data/raw/third-party/management/zno-osvita-upravlinnja-0120.html",
+    "pageNumber": null,
+    "confidence": "high",
+    "extractionNotes": "Extracted from ZNO Освіта task 32648; q[tip]=1."
+  },
+  {
+    "rawQuestionText": "Яке з тверджень відповідає поняттю &laquo;пасивний маркетинг&raquo;?",
+    "rawPassage": null,
+    "rawOptions": [
+      "Маркетинг товарів пасивного попиту.",
+      "Маркетинг без застосування особливих збутових зусиль.",
+      "Маркетинг у випадку непротидії конкурентів.",
+      "Маркетинг за умов стагнаційного ринку."
+    ],
+    "rawCorrectAnswer": 1,
+    "rawExplanation": null,
+    "sourceUrl": "https://zno.osvita.ua/master/upravlinnja/all/120/",
+    "sourceFile": "data/raw/third-party/management/zno-osvita-upravlinnja-0120.html",
+    "pageNumber": null,
+    "confidence": "high",
+    "extractionNotes": "Extracted from ZNO Освіта task 32647; q[tip]=1."
+  },
+  {
+    "rawQuestionText": "Яку із форм впливу у менеджменті використовує керівник, прямо не нав'язуючи свою волю підлеглому?",
+    "rawPassage": null,
+    "rawOptions": [
+      "Навіювання.",
+      "Переконання.",
+      "Вплив через участь.",
+      "Несвідоме наслідування."
+    ],
+    "rawCorrectAnswer": 2,
+    "rawExplanation": null,
+    "sourceUrl": "https://zno.osvita.ua/master/upravlinnja/all/135/",
+    "sourceFile": "data/raw/third-party/management/zno-osvita-upravlinnja-0135.html",
+    "pageNumber": null,
+    "confidence": "high",
+    "extractionNotes": "Extracted from ZNO Освіта task 32646; q[tip]=1."
+  },
+  {
+    "rawQuestionText": "Оберіть захід, що дає змогу розкрити процедуру стратегічного планування.",
+    "rawPassage": null,
+    "rawOptions": [
+      "Забезпечення організацією рівних можливостей під час працевлаштування працівників.",
+      "Дотримання внутрішнього трудового розпорядку працівником.",
+      "Керування кодексом корпоративної соціальної відповідальності.",
+      "Визначення планової потреби у ресурсах на наступний період за встановленою методикою."
+    ],
+    "rawCorrectAnswer": 3,
+    "rawExplanation": null,
+    "sourceUrl": "https://zno.osvita.ua/master/upravlinnja/all/135/",
+    "sourceFile": "data/raw/third-party/management/zno-osvita-upravlinnja-0135.html",
+    "pageNumber": null,
+    "confidence": "high",
+    "extractionNotes": "Extracted from ZNO Освіта task 32645; q[tip]=1."
+  },
+  {
+    "rawQuestionText": "Яку знижку використовує торговельна компанія, коли надає її посереднику за зберігання та обліку товарів?",
+    "rawPassage": null,
+    "rawOptions": [
+      "Трейд-ін.",
+      "Спеціальну.",
+      "Функціональну.",
+      "Бонусну."
+    ],
+    "rawCorrectAnswer": 2,
+    "rawExplanation": null,
+    "sourceUrl": "https://zno.osvita.ua/master/upravlinnja/all/135/",
+    "sourceFile": "data/raw/third-party/management/zno-osvita-upravlinnja-0135.html",
+    "pageNumber": null,
+    "confidence": "high",
+    "extractionNotes": "Extracted from ZNO Освіта task 32644; q[tip]=1."
+  },
+  {
+    "rawQuestionText": "Що належить до залучених фінансових ресурсів?",
+    "rawPassage": null,
+    "rawOptions": [
+      "Банківські, товарні (комерційні) кредити.",
+      "Поточна заборгованість за розрахунками з одержаних авансів та з бюджетом.",
+      "Статутний капітал, прибуток, амортизаційний фонд.",
+      "Фінансові інвестиції."
+    ],
+    "rawCorrectAnswer": 1,
+    "rawExplanation": null,
+    "sourceUrl": "https://zno.osvita.ua/master/upravlinnja/all/135/",
+    "sourceFile": "data/raw/third-party/management/zno-osvita-upravlinnja-0135.html",
+    "pageNumber": null,
+    "confidence": "high",
+    "extractionNotes": "Extracted from ZNO Освіта task 32643; q[tip]=1."
+  },
+  {
+    "rawQuestionText": "Який вид комунікацій передбачає обмін відомостями між споживачами інформації, що перебувають на однакових щаблях організаційної ієрархії?",
+    "rawPassage": null,
+    "rawOptions": [
+      "Горизонтальні.",
+      "Зовнішні.",
+      "Міжрівневі.",
+      "Вертикальні."
+    ],
+    "rawCorrectAnswer": 0,
+    "rawExplanation": null,
+    "sourceUrl": "https://zno.osvita.ua/master/upravlinnja/all/135/",
+    "sourceFile": "data/raw/third-party/management/zno-osvita-upravlinnja-0135.html",
+    "pageNumber": null,
+    "confidence": "high",
+    "extractionNotes": "Extracted from ZNO Освіта task 32642; q[tip]=1."
+  },
+  {
+    "rawQuestionText": "Виберіть умову успішного застосування методу беззбитковості та забезпечення цільового прибутку в маркетинговому ціноутворенні.",
+    "rawPassage": null,
+    "rawOptions": [
+      "Зменшення витрат підприємства.",
+      "Збільшення рівня споживчої лояльності.",
+      "Підвищення споживчої цінності товару.",
+      "Масштабування бізнесу."
+    ],
+    "rawCorrectAnswer": 0,
+    "rawExplanation": null,
+    "sourceUrl": "https://zno.osvita.ua/master/upravlinnja/all/135/",
+    "sourceFile": "data/raw/third-party/management/zno-osvita-upravlinnja-0135.html",
+    "pageNumber": null,
+    "confidence": "high",
+    "extractionNotes": "Extracted from ZNO Освіта task 26798; q[tip]=1."
+  },
+  {
+    "rawQuestionText": "Як називають інвестиції, визначені як господарські операції, які передбачають купівлю різних видів фінансових активів за кошти на біржовому ринку?",
+    "rawPassage": null,
+    "rawOptions": [
+      "Венчурні.",
+      "Тезавраційні.",
+      "Альтернативні.",
+      "Портфельні."
+    ],
+    "rawCorrectAnswer": 3,
+    "rawExplanation": null,
+    "sourceUrl": "https://zno.osvita.ua/master/upravlinnja/all/135/",
+    "sourceFile": "data/raw/third-party/management/zno-osvita-upravlinnja-0135.html",
+    "pageNumber": null,
+    "confidence": "high",
+    "extractionNotes": "Extracted from ZNO Освіта task 26797; q[tip]=1."
+  },
+  {
+    "rawQuestionText": "Яку роль у діяльності підприємства відіграє активна частина основних засобів?",
+    "rawPassage": null,
+    "rawOptions": [
+      "Не задіяні безпосередньо у виробництві продукції, але забезпечують належні умови для її виготовлення.",
+      "Задіяні безпосередньо у виробництві продукції та визначають виробничу потужність підприємства.",
+      "Опосередковано впливають на виробничу потужність підприємства та масштаби виробництва продукції.",
+      "Не задіяні безпосередньо у виробництві та використовують для обслуговування потреб житлово-комунального господарства, охорони здоров'я тощо."
+    ],
+    "rawCorrectAnswer": 1,
+    "rawExplanation": null,
+    "sourceUrl": "https://zno.osvita.ua/master/upravlinnja/all/135/",
+    "sourceFile": "data/raw/third-party/management/zno-osvita-upravlinnja-0135.html",
+    "pageNumber": null,
+    "confidence": "high",
+    "extractionNotes": "Extracted from ZNO Освіта task 26796; q[tip]=1."
+  },
+  {
+    "rawQuestionText": "Яке управлінське рішення приймає адміністратор медичної установи під час складання графіка роботи медсестер і санітарів?",
+    "rawPassage": null,
+    "rawOptions": [
+      "Запрограмоване.",
+      "Незапрограмоване.",
+      "Компромісне.",
+      "Інтуїтивне."
+    ],
+    "rawCorrectAnswer": 0,
+    "rawExplanation": null,
+    "sourceUrl": "https://zno.osvita.ua/master/upravlinnja/all/135/",
+    "sourceFile": "data/raw/third-party/management/zno-osvita-upravlinnja-0135.html",
+    "pageNumber": null,
+    "confidence": "high",
+    "extractionNotes": "Extracted from ZNO Освіта task 26795; q[tip]=1."
+  },
+  {
+    "rawQuestionText": "Яка із наведених характеристик показників товарної номенклатури визначає її ширину?",
+    "rawPassage": null,
+    "rawOptions": [
+      "Загальне число асортиментних груп товарів компанії.",
+      "Кількість варіантів кожного товару в рамках асортиментної групи.",
+      "Рівень подібності між товарами різних асортиментних груп за певними ознаками.",
+      "Загальне число окремих товарів, що становлять товарну номенклатуру."
+    ],
+    "rawCorrectAnswer": 0,
+    "rawExplanation": null,
+    "sourceUrl": "https://zno.osvita.ua/master/upravlinnja/all/135/",
+    "sourceFile": "data/raw/third-party/management/zno-osvita-upravlinnja-0135.html",
+    "pageNumber": null,
+    "confidence": "high",
+    "extractionNotes": "Extracted from ZNO Освіта task 26794; q[tip]=1."
+  },
+  {
+    "rawQuestionText": "Характерною ознакою якого типу організаційної структури управління є оперативність у прийнятті рішень за рахунок прямої комунікації між керівником і безпосереднім виконавцем?",
+    "rawPassage": null,
+    "rawOptions": [
+      "Лінійна.",
+      "Функціональна.",
+      "Матрична.",
+      "Мережева."
+    ],
+    "rawCorrectAnswer": 0,
+    "rawExplanation": null,
+    "sourceUrl": "https://zno.osvita.ua/master/upravlinnja/all/135/",
+    "sourceFile": "data/raw/third-party/management/zno-osvita-upravlinnja-0135.html",
+    "pageNumber": null,
+    "confidence": "high",
+    "extractionNotes": "Extracted from ZNO Освіта task 26793; q[tip]=1."
+  },
+  {
+    "rawQuestionText": "Який із чинників впливає на досягнення цілей організації за критеріями SMART?",
+    "rawPassage": null,
+    "rawOptions": [
+      "Достатність ресурсів організації.",
+      "Наявність конкретного терміну отримання результату.",
+      "Узгодженість з іншими цілями підприємства.",
+      "Наявність показників вимірювання результату."
+    ],
+    "rawCorrectAnswer": 0,
+    "rawExplanation": null,
+    "sourceUrl": "https://zno.osvita.ua/master/upravlinnja/all/135/",
+    "sourceFile": "data/raw/third-party/management/zno-osvita-upravlinnja-0135.html",
+    "pageNumber": null,
+    "confidence": "high",
+    "extractionNotes": "Extracted from ZNO Освіта task 26792; q[tip]=1."
+  },
+  {
+    "rawQuestionText": "Що належить до гігієнічних факторів згідно з теорією мотивації Ф. Герцберга?",
+    "rawPassage": null,
+    "rawOptions": [
+      "Своєчасна виплата заробітної плати.",
+      "Професійне та кар'єрне зростання.",
+      "Змістовна робота.",
+      "Визнання людини як особистості."
+    ],
+    "rawCorrectAnswer": 0,
+    "rawExplanation": null,
+    "sourceUrl": "https://zno.osvita.ua/master/upravlinnja/all/135/",
+    "sourceFile": "data/raw/third-party/management/zno-osvita-upravlinnja-0135.html",
+    "pageNumber": null,
+    "confidence": "high",
+    "extractionNotes": "Extracted from ZNO Освіта task 26791; q[tip]=1."
+  },
+  {
+    "rawQuestionText": "Що таке маркетингові можливості підприємства?",
+    "rawPassage": null,
+    "rawOptions": [
+      "Сприятливі фактори маркетингового середовища, які дають змогу зрозуміти основний напрям необхідних дій підприємства для досягнення конкурентних переваг.",
+      "Один чи кілька факторів макромаркетингового середовища підприємства, які сприяють успішній реалізації його ринкової стратегії.",
+      "Найбільш вигідні фактори мікромаркетингового середовища у їх взаємозв’язку, які дають змогу підприємству визначити основу своїх майбутніх ринкових переваг.",
+      "Потенційні фактори маркетингового середовища підприємства, які дають змогу йому вибрати основний напрям зусиль для досягнення найбільших ринкових переваг."
+    ],
+    "rawCorrectAnswer": 0,
+    "rawExplanation": null,
+    "sourceUrl": "https://zno.osvita.ua/master/upravlinnja/all/135/",
+    "sourceFile": "data/raw/third-party/management/zno-osvita-upravlinnja-0135.html",
+    "pageNumber": null,
+    "confidence": "high",
+    "extractionNotes": "Extracted from ZNO Освіта task 26790; q[tip]=1."
+  },
+  {
+    "rawQuestionText": "Яке завдання повинен вирішити маркетолог під час формування комплексу маркетингових комунікацій зі споживачами, якщо більша частина цільової аудиторії не обізнана з товаром (послугою)?",
+    "rawPassage": null,
+    "rawOptions": [
+      "Сформувати необхідну поінформованість, упізнаваність товару (послуги).",
+      "Сформувати вичерпні знання про товар (послугу).",
+      "Сформувати переконання щодо ціннісної значимості товару (послуги).",
+      "Мотивувати споживачів проаналізувати відмінності пропонованого товару (послуги) з аналогами."
+    ],
+    "rawCorrectAnswer": 0,
+    "rawExplanation": null,
+    "sourceUrl": "https://zno.osvita.ua/master/upravlinnja/all/135/",
+    "sourceFile": "data/raw/third-party/management/zno-osvita-upravlinnja-0135.html",
+    "pageNumber": null,
+    "confidence": "high",
+    "extractionNotes": "Extracted from ZNO Освіта task 26789; q[tip]=1."
+  },
+  {
+    "rawQuestionText": "Про що свідчить зігнутий на 1/4 й розправлений правий верхній кут візитної картки?",
+    "rawPassage": null,
+    "rawOptions": [
+      "Візитна картка передана через посередника й засвідчує прощання з особою.",
+      "Візитна картка передана поштою і засвідчує неприязність власника картки до особи, якій передана ця картка.",
+      "Візитна картка передана кур’єром і засвідчує зайнятість власника картки.",
+      "Візитна картка передана особисто й засвідчує особливу повагу до особи, якій залишена картка."
+    ],
+    "rawCorrectAnswer": 3,
+    "rawExplanation": null,
+    "sourceUrl": "https://zno.osvita.ua/master/upravlinnja/all/150/",
+    "sourceFile": "data/raw/third-party/management/zno-osvita-upravlinnja-0150.html",
+    "pageNumber": null,
+    "confidence": "high",
+    "extractionNotes": "Extracted from ZNO Освіта task 26788; q[tip]=1."
+  },
+  {
+    "rawQuestionText": "У якому товаристві всі учасники здійснюють підприємницьку діяльність від імені товариства й несуть додаткову солідарну відповідальність за зобов'язаннями товариства усім своїм майном?",
+    "rawPassage": null,
+    "rawOptions": [
+      "Командитному.",
+      "З обмеженою відповідальністю.",
+      "З повною відповідальністю.",
+      "Акціонерному."
+    ],
+    "rawCorrectAnswer": 2,
+    "rawExplanation": null,
+    "sourceUrl": "https://zno.osvita.ua/master/upravlinnja/all/150/",
+    "sourceFile": "data/raw/third-party/management/zno-osvita-upravlinnja-0150.html",
+    "pageNumber": null,
+    "confidence": "high",
+    "extractionNotes": "Extracted from ZNO Освіта task 26787; q[tip]=1."
+  },
+  {
+    "rawQuestionText": "Визначте, у чому полягає сутність закону спеціалізації управління.",
+    "rawPassage": null,
+    "rawOptions": [
+      "Передбачає розподіл управлінської діяльності на засадах застосування конкретних функцій менеджменту й таких категорій, як повноваження, компетентність, відповідальність тощо.",
+      "Спрямований на досягнення єдності зусиль усіх підрозділів, служб, працівників для виконання завдань організації шляхом застосування правил, процедур ієрархії управління, особистих зв’язків, стилів керівництва.",
+      "Спрямований на підвищення ефективності управлінської праці, зменшення трудомісткості через впровадження передових методів і прийомів праці.",
+      "Передбачає послідовну та перманентну (постійну) еволюцію всіх управлінських систем організації (виробничої, фінансової, соціальної, інформаційної тощо)."
+    ],
+    "rawCorrectAnswer": 0,
+    "rawExplanation": null,
+    "sourceUrl": "https://zno.osvita.ua/master/upravlinnja/all/150/",
+    "sourceFile": "data/raw/third-party/management/zno-osvita-upravlinnja-0150.html",
+    "pageNumber": null,
+    "confidence": "high",
+    "extractionNotes": "Extracted from ZNO Освіта task 26786; q[tip]=1."
+  },
+  {
+    "rawQuestionText": "Який елемент товару визначає характер конкуренції на ринках, що характеризуються високою насиченістю товарів та жорсткою конкуренцією?",
+    "rawPassage": null,
+    "rawOptions": [
+      "Додаткові послуги.",
+      "Якість.",
+      "Упаковка.",
+      "Дизайн."
+    ],
+    "rawCorrectAnswer": 0,
+    "rawExplanation": null,
+    "sourceUrl": "https://zno.osvita.ua/master/upravlinnja/all/150/",
+    "sourceFile": "data/raw/third-party/management/zno-osvita-upravlinnja-0150.html",
+    "pageNumber": null,
+    "confidence": "high",
+    "extractionNotes": "Extracted from ZNO Освіта task 26785; q[tip]=1."
+  },
+  {
+    "rawQuestionText": "Які існують підприємства залежно від способу створення (заснування) та формування статутного капіталу?",
+    "rawPassage": null,
+    "rawOptions": [
+      "Комерційні та некомерційні.",
+      "Унітарні та корпоративні.",
+      "Приватні та комунальні.",
+      "Головні та дочірні."
+    ],
+    "rawCorrectAnswer": 1,
+    "rawExplanation": null,
+    "sourceUrl": "https://zno.osvita.ua/master/upravlinnja/all/150/",
+    "sourceFile": "data/raw/third-party/management/zno-osvita-upravlinnja-0150.html",
+    "pageNumber": null,
+    "confidence": "high",
+    "extractionNotes": "Extracted from ZNO Освіта task 26784; q[tip]=1."
+  },
+  {
+    "rawQuestionText": "Яку вимогу, крім своєчасності, порушив підлеглий, коли невчасно надав неопрацьовану інформацію, що НЕ стосувалася завдання менеджера?",
+    "rawPassage": null,
+    "rawOptions": [
+      "Точність.",
+      "Повнота.",
+      "Корисність.",
+      "Доступність."
+    ],
+    "rawCorrectAnswer": 2,
+    "rawExplanation": null,
+    "sourceUrl": "https://zno.osvita.ua/master/upravlinnja/all/150/",
+    "sourceFile": "data/raw/third-party/management/zno-osvita-upravlinnja-0150.html",
+    "pageNumber": null,
+    "confidence": "high",
+    "extractionNotes": "Extracted from ZNO Освіта task 26783; q[tip]=1."
+  },
+  {
+    "rawQuestionText": "Компанія-виробник продає товар через ланцюг:\n\nофіційний дистриб'ютор &rarr; регіональний дилер &rarr; локальний дилер, який водночас розповсюджує товар через локальну роздрібну мережу. Канал якого рівня маємо в цьому випадку?",
+    "rawPassage": "Компанія-виробник продає товар через ланцюг:",
+    "rawOptions": [
+      "Дворівневий.",
+      "Трирівневий.",
+      "Чотирирівневий.",
+      "П'ятирівневий."
+    ],
+    "rawCorrectAnswer": 1,
+    "rawExplanation": null,
+    "sourceUrl": "https://zno.osvita.ua/master/upravlinnja/all/150/",
+    "sourceFile": "data/raw/third-party/management/zno-osvita-upravlinnja-0150.html",
+    "pageNumber": null,
+    "confidence": "high",
+    "extractionNotes": "Extracted from ZNO Освіта task 26782; q[tip]=1."
+  },
+  {
+    "rawQuestionText": "Укажіть вид влади менеджера, що володіє даними про стратегічні та тактичні плани підприємства, календар подій і особистий графік керівника.",
+    "rawPassage": null,
+    "rawOptions": [
+      "Експертна.",
+      "Інформаційна.",
+      "Еталонна (прикладу).",
+      "Комунікаційна (зв'язків)."
+    ],
+    "rawCorrectAnswer": 1,
+    "rawExplanation": null,
+    "sourceUrl": "https://zno.osvita.ua/master/upravlinnja/all/150/",
+    "sourceFile": "data/raw/third-party/management/zno-osvita-upravlinnja-0150.html",
+    "pageNumber": null,
+    "confidence": "high",
+    "extractionNotes": "Extracted from ZNO Освіта task 26781; q[tip]=1."
+  },
+  {
+    "rawQuestionText": "Визначте, з якою метою фірма застосовує весь набір контрольованих змінних, що утворюють комплекс маркетингу.",
+    "rawPassage": null,
+    "rawOptions": [
+      "Здійснити товарне сегментування ринку.",
+      "Вплинути на попит своєї продукції.",
+      "Встановити правила гри на ринку.",
+      "Провести пошук цільового ринку."
+    ],
+    "rawCorrectAnswer": 1,
+    "rawExplanation": null,
+    "sourceUrl": "https://zno.osvita.ua/master/upravlinnja/all/150/",
+    "sourceFile": "data/raw/third-party/management/zno-osvita-upravlinnja-0150.html",
+    "pageNumber": null,
+    "confidence": "high",
+    "extractionNotes": "Extracted from ZNO Освіта task 26780; q[tip]=1."
+  },
+  {
+    "rawQuestionText": "Компанія &laquo;А&raquo; володіє 30 % акцій компанії &laquo;Б&raquo;. Який має статус компанія &laquo;Б&raquo; по відношенню до компанії &laquo;А&raquo; відповідно до законодавства України?",
+    "rawPassage": null,
+    "rawOptions": [
+      "Партнерська.",
+      "Материнська.",
+      "Асоційована.",
+      "Коопераційна."
+    ],
+    "rawCorrectAnswer": 2,
+    "rawExplanation": null,
+    "sourceUrl": "https://zno.osvita.ua/master/upravlinnja/all/150/",
+    "sourceFile": "data/raw/third-party/management/zno-osvita-upravlinnja-0150.html",
+    "pageNumber": null,
+    "confidence": "high",
+    "extractionNotes": "Extracted from ZNO Освіта task 26779; q[tip]=1."
+  }
+]

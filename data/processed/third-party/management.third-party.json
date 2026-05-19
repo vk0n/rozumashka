@@ -1,0 +1,34 @@
+[
+  {
+    "id": "management-zno-osvita-26782",
+    "subject": "management",
+    "type": "passage_single_choice",
+    "topic": "Управління та адміністрування",
+    "subtopic": "ЗНО.Освіта.UA: ЄФВВ",
+    "difficulty": "medium",
+    "sourceType": "public_source",
+    "sourceUrl": "https://zno.osvita.ua/master/upravlinnja/all/150/",
+    "reviewed": false,
+    "question": "офіційний дистриб'ютор &rarr; регіональний дилер &rarr; локальний дилер, який водночас розповсюджує товар через локальну роздрібну мережу. Канал якого рівня маємо в цьому випадку?",
+    "passage": "Компанія-виробник продає товар через ланцюг:",
+    "options": [
+      "Дворівневий.",
+      "Трирівневий.",
+      "Чотирирівневий.",
+      "П'ятирівневий."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Правильна відповідь: «Трирівневий». Рівень каналу розподілу рахують за кількістю посередницьких ланок між виробником і кінцевим покупцем. У ланцюгу є офіційний дистриб'ютор, регіональний дилер і локальний дилер, тобто три рівні. Інші варіанти описують суміжні управлінські, маркетингові або фінансові поняття, але не відповідають ключовій ознаці запитання.",
+    "tags": [
+      "third_party_import",
+      "zno_osvita",
+      "zno_osvita_master",
+      "zno_osvita_management",
+      "official_past_exam_mirror",
+      "source_has_no_explanation",
+      "needs_manual_review",
+      "explanation_generated",
+      "explanation_batch_1"
+    ]
+  }
+]

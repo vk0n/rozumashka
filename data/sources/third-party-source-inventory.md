@@ -1,0 +1,30 @@
+# Third-Party Source Inventory
+
+Updated on 2026-05-18.
+
+Only sources clearly related to ЄВІ/ЄФВВ preparation are listed. Sources that appear to be third-party copies of official questions are kept for traceability but skipped for import.
+
+| Title | URL | Source type | Subjects covered | File type | Contains questions | Contains answers | Contains explanations | Estimated quality | Import priority | Notes | Reason for including or skipping |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| JustSchool author EVI 2025 English mock test | https://quiz.justschool.me/evy2025/self?leadType=english-for-children&utm_campaign=Eng%2Fevy2025_self&utm_medium=organic&utm_source=main_page | public_source | english | html | Yes | Yes | No | medium | high | Open author mock test. The HTML exposes answer scores in `d-ca-score`; explanations are not present, so concise explanations are generated and all normalized questions stay reviewed=false. | Included: clearly EVI English-focused, open without login, contains questions and machine-readable answer scores. |
+| JustSchool EVI 2023 English demo | https://quiz.justschool.me/evy2023/self | public_source | english | html | Yes | Yes | No | medium | low | Third-party rendering of a demo/past official-style EVI English test. | Skipped: likely official/demo material, so importing would duplicate official-source content. |
+| ЗНО.Освіта.UA ТЗНК tests in magistracy | https://zno.osvita.ua/master/tznpk/ | public_source | tznk | html | Yes | Yes | Yes | high | low | Online archive of TZNK tests from previous sessions, with answers and explanations after completion. | Skipped: source republishes official past/session questions; task rules require skipping third-party copies of official questions. |
+| Освіта.ua TZNK EVI 2024 answers article | https://osvita.ua/master/master-zno/answers/94058/ | public_source | tznk | html | Yes | Yes | No | high | low | Article points to the TZNK 2024 online test and answers. | Skipped: official 2024 TZNK content mirrored by a third-party publication. |
+| Chitay TZNK online tests | https://www.chitay.org.ua/tests/tznk | public_source | tznk | html | Yes | Yes | Yes | medium | low | Online test archive for TZNK 2017-2024. | Skipped: appears to render official past/session tests; duplicate risk is high. |
+| Magistratura.in.ua official ЄФВВ 2024 management online test | https://magistratura.in.ua/quizzes/efvv-management-testy-upravlinnya-ta-administruvannya-2024/ | public_source | management | html | Yes | No | No | high | low | Online copy of the official 2024 management collection; page credits the state source. | Skipped: duplicate of the official collection already merged in public data. |
+| Chitay management and administration ЄФВВ tests | https://www.chitay.org.ua/tests/upravlinnya-ta-administruvannya | public_source | management | html | Yes | Yes | Yes | medium | low | Contains 2024 and 2023 ЄФВВ tests. | Skipped: appears to render official examples/collections already covered by official imports. |
+| Chitay psychology and sociology ЄФВВ tests | https://www.chitay.org.ua/tests/psychology-sociology | public_source | psychology-sociology | html | Yes | Yes | Yes | medium | low | Contains 2024 and 2023 ЄФВВ tests. | Skipped: appears to render official examples/collections already covered by official imports. |
+| Fatkin School management ЄФВВ online tests landing page | https://www.fatkin.school/efvv-testy-z-upravlinia-ta-administruvania | public_source | management | html | No | Yes | No | medium | low | Describes paid author tests hosted by the School of Future Masters; no public question text on the page. | Skipped: no open questions to extract, purchase/login required. |
+| Magistratura.in.ua paid author management test product | https://magistratura.in.ua/product/efvv-upravlinnia-test-1/ | public_source | management | html | No | Yes | No | medium | low | Paid product page for author tests; the page lists topics but not the question bank. | Skipped: paid/login-only content without public questions. |
+| M8 TZNK online course/free version | https://m8.org.ua/uk/gkt-free-version/ | public_source | tznk | html | No | Yes | Yes | medium | low | Course/free-version page advertises author tests and explanations but requires account/course access. | Skipped: no open parseable question set on the public page. |
+
+## ZNO Освіта Import Update
+
+Updated on 2026-05-19.
+
+| Title | URL | Source type | Subjects covered | File type | Contains questions | Contains answers | Contains explanations | Estimated quality | Import priority | Notes | Reason for including or skipping |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| ЗНО.Освіта.UA all ТЗНК tasks | https://zno.osvita.ua/master/tznpk/list.html | public_source | tznk | html | Yes | Yes | Yes | high | high | Open all-task archive. Many tasks are previous official-session tasks; kept separate as third-party/public source. | Included by user request; deduplicated against existing official/generated data before processing. |
+| ЗНО.Освіта.UA all ЄВІ English tasks | https://zno.osvita.ua/master/english/list.html | public_source | english | html | Yes | Yes | Yes | high | high | Open all-task archive with explanations for many English tasks. | Included by user request; deduplicated against existing official/generated data before processing. |
+| ЗНО.Освіта.UA all management and administration tasks | https://zno.osvita.ua/master/upravlinnja/list.html | public_source | management | html | Yes | Yes | No | high | medium | Open all-task archive; answer metadata is present, explanations are not present in the page. | Included by user request; official duplicates are skipped by deduplication. |
+| ЗНО.Освіта.UA all psychology and sociology tasks | https://zno.osvita.ua/master/psykhologiya/list.html | public_source | psychology-sociology | html | Yes | Yes | No | high | medium | Open all-task archive; answer metadata is present, explanations are not present in the page. | Included by user request; official duplicates are skipped by deduplication. |

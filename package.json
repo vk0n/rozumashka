@@ -1,0 +1,47 @@
+{
+  "name": "rozumashka-exam-prep",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc -b && vite build",
+    "preview": "vite preview",
+    "validate:questions": "tsx tools/validate-questions.ts",
+    "import:download": "tsx tools/import/download-sources.ts",
+    "import:extract": "tsx tools/import/extract-and-process.ts",
+    "import:report": "tsx tools/import/create-import-report.ts",
+    "import:merge": "tsx tools/import/merge-imports.ts",
+    "import:review": "tsx tools/import/review-flagged-questions.ts",
+    "generate:batch1": "tsx tools/import/generate-batch-1.ts",
+    "generate:batch2": "tsx tools/import/generate-batch-2.ts",
+    "generate:batch3": "tsx tools/import/generate-batch-3.ts",
+    "review:generated:batch1": "tsx tools/import/review-generated-batch-1.ts",
+    "review:generated:batch2": "tsx tools/review/review-generated-batch-2.ts",
+    "review:generated:batch3": "tsx tools/review/review-generated-batch-3.ts",
+    "merge:generated": "tsx tools/import/merge-reviewed-generated.ts",
+    "generate:explanations": "tsx tools/generate/generate-missing-explanations.ts",
+    "import:third-party": "tsx tools/import/import-third-party-sources.ts",
+    "import:zno-osvita": "tsx tools/import/import-zno-osvita.ts",
+    "review:third-party": "tsx tools/review/review-third-party.ts",
+    "merge:third-party": "tsx tools/import/merge-reviewed-third-party.ts"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^6.28.0",
+    "zod": "^3.24.1"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.2",
+    "@types/react": "^18.3.17",
+    "@types/react-dom": "^18.3.5",
+    "@vitejs/plugin-react": "^4.3.4",
+    "autoprefixer": "^10.4.20",
+    "postcss": "^8.4.49",
+    "tailwindcss": "^3.4.17",
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.2",
+    "vite": "^6.0.3"
+  }
+}

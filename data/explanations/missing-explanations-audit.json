@@ -1,0 +1,42 @@
+[
+  {
+    "filePath": "public/data/questions/tznk.json",
+    "totalQuestions": 515,
+    "remainingPlaceholders": 0
+  },
+  {
+    "filePath": "public/data/questions/english.json",
+    "totalQuestions": 517,
+    "remainingPlaceholders": 0
+  },
+  {
+    "filePath": "public/data/questions/management.json",
+    "totalQuestions": 481,
+    "remainingPlaceholders": 1
+  },
+  {
+    "filePath": "public/data/questions/psychology-sociology.json",
+    "totalQuestions": 468,
+    "remainingPlaceholders": 0
+  },
+  {
+    "filePath": "data/processed/third-party/english.third-party.json",
+    "totalQuestions": 71,
+    "remainingPlaceholders": 0
+  },
+  {
+    "filePath": "data/processed/third-party/management.third-party.json",
+    "totalQuestions": 1,
+    "remainingPlaceholders": 0
+  },
+  {
+    "filePath": "data/processed/third-party/psychology-sociology.third-party.json",
+    "totalQuestions": 0,
+    "remainingPlaceholders": 0
+  },
+  {
+    "filePath": "data/processed/third-party/tznk.third-party.json",
+    "totalQuestions": 10,
+    "remainingPlaceholders": 0
+  }
+]

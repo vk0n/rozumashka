@@ -1,0 +1,318 @@
+# Third-Party Dedup Report
+
+Generated on 2026-05-19.
+
+## Kept After Deduplication
+
+- ТЗНК: 352
+- Англійська мова: 325
+- Управління та адміністрування: 31
+- Психологія та соціологія: 43
+
+## Duplicates / Near-Duplicates Skipped
+
+- tznk-zno-osvita-25280: unsupported or incomplete ZNO Освіта task block
+- tznk-zno-osvita-25275: unsupported or incomplete ZNO Освіта task block
+- tznk-zno-osvita-25274: unsupported or incomplete ZNO Освіта task block
+- tznk-zno-osvita-25267: unsupported or incomplete ZNO Освіта task block
+- tznk-zno-osvita-25252: unsupported or incomplete ZNO Освіта task block
+- tznk-zno-osvita-24494: unsupported or incomplete ZNO Освіта task block
+- tznk-zno-osvita-24489: unsupported or incomplete ZNO Освіта task block
+- tznk-zno-osvita-24483: unsupported or incomplete ZNO Освіта task block
+- tznk-zno-osvita-24479: unsupported or incomplete ZNO Освіта task block
+- tznk-zno-osvita-24475: unsupported or incomplete ZNO Освіта task block
+- tznk-zno-osvita-21082: unsupported or incomplete ZNO Освіта task block
+- tznk-zno-osvita-21073: unsupported or incomplete ZNO Освіта task block
+- tznk-zno-osvita-21065: unsupported or incomplete ZNO Освіта task block
+- tznk-zno-osvita-21055: unsupported or incomplete ZNO Освіта task block
+- tznk-zno-osvita-20414: unsupported or incomplete ZNO Освіта task block
+- tznk-zno-osvita-20412: unsupported or incomplete ZNO Освіта task block
+- tznk-zno-osvita-20401: unsupported or incomplete ZNO Освіта task block
+- tznk-zno-osvita-20398: unsupported or incomplete ZNO Освіта task block
+- tznk-zno-osvita-20393: unsupported or incomplete ZNO Освіта task block
+- tznk-zno-osvita-20389: unsupported or incomplete ZNO Освіта task block
+- tznk-zno-osvita-18970: unsupported or incomplete ZNO Освіта task block
+- tznk-zno-osvita-18960: unsupported or incomplete ZNO Освіта task block
+- tznk-zno-osvita-18959: unsupported or incomplete ZNO Освіта task block
+- tznk-zno-osvita-18955: unsupported or incomplete ZNO Освіта task block
+- tznk-zno-osvita-18954: unsupported or incomplete ZNO Освіта task block
+- tznk-zno-osvita-18952: unsupported or incomplete ZNO Освіта task block
+- tznk-zno-osvita-18775: unsupported or incomplete ZNO Освіта task block
+- tznk-zno-osvita-18773: unsupported or incomplete ZNO Освіта task block
+- tznk-zno-osvita-18770: unsupported or incomplete ZNO Освіта task block
+- tznk-zno-osvita-18766: unsupported or incomplete ZNO Освіта task block
+- tznk-zno-osvita-18757: unsupported or incomplete ZNO Освіта task block
+- tznk-zno-osvita-18754: unsupported or incomplete ZNO Освіта task block
+- tznk-zno-osvita-18751: unsupported or incomplete ZNO Освіта task block
+- tznk-zno-osvita-18183: unsupported or incomplete ZNO Освіта task block
+- tznk-zno-osvita-18182: unsupported or incomplete ZNO Освіта task block
+- tznk-zno-osvita-18181: unsupported or incomplete ZNO Освіта task block
+- tznk-zno-osvita-18179: unsupported or incomplete ZNO Освіта task block
+- tznk-zno-osvita-18176: unsupported or incomplete ZNO Освіта task block
+- tznk-zno-osvita-18173: unsupported or incomplete ZNO Освіта task block
+- tznk-zno-osvita-18168: unsupported or incomplete ZNO Освіта task block
+- tznk-zno-osvita-18166: unsupported or incomplete ZNO Освіта task block
+- tznk-zno-osvita-18164: unsupported or incomplete ZNO Освіта task block
+- tznk-zno-osvita-18163: unsupported or incomplete ZNO Освіта task block
+- tznk-zno-osvita-18161: unsupported or incomplete ZNO Освіта task block
+- tznk-zno-osvita-18160: unsupported or incomplete ZNO Освіта task block
+- tznk-zno-osvita-15933: unsupported or incomplete ZNO Освіта task block
+- tznk-zno-osvita-15920: unsupported or incomplete ZNO Освіта task block
+- tznk-zno-osvita-15919: unsupported or incomplete ZNO Освіта task block
+- tznk-zno-osvita-15917: unsupported or incomplete ZNO Освіта task block
+- tznk-zno-osvita-15908: unsupported or incomplete ZNO Освіта task block
+- tznk-zno-osvita-15904: unsupported or incomplete ZNO Освіта task block
+- tznk-zno-osvita-15890: unsupported or incomplete ZNO Освіта task block
+- tznk-zno-osvita-15887: unsupported or incomplete ZNO Освіта task block
+- tznk-zno-osvita-15882: unsupported or incomplete ZNO Освіта task block
+- tznk-zno-osvita-15879: unsupported or incomplete ZNO Освіта task block
+- tznk-zno-osvita-15874: unsupported or incomplete ZNO Освіта task block
+- tznk-zno-osvita-13021: unsupported or incomplete ZNO Освіта task block
+- tznk-zno-osvita-13019: unsupported or incomplete ZNO Освіта task block
+- tznk-zno-osvita-13013: unsupported or incomplete ZNO Освіта task block
+- tznk-zno-osvita-13011: unsupported or incomplete ZNO Освіта task block
+- tznk-zno-osvita-13010: unsupported or incomplete ZNO Освіта task block
+- tznk-zno-osvita-13009: unsupported or incomplete ZNO Освіта task block
+- tznk-zno-osvita-13008: unsupported or incomplete ZNO Освіта task block
+- tznk-zno-osvita-13001: unsupported or incomplete ZNO Освіта task block
+- tznk-zno-osvita-13000: unsupported or incomplete ZNO Освіта task block
+- tznk-zno-osvita-12998: unsupported or incomplete ZNO Освіта task block
+- tznk-zno-osvita-12996: unsupported or incomplete ZNO Освіта task block
+- tznk-zno-osvita-12995: unsupported or incomplete ZNO Освіта task block
+- tznk-zno-osvita-12990: unsupported or incomplete ZNO Освіта task block
+- tznk-zno-osvita-12987: unsupported or incomplete ZNO Освіта task block
+- tznk-zno-osvita-12986: unsupported or incomplete ZNO Освіта task block
+- tznk-zno-osvita-12983: unsupported or incomplete ZNO Освіта task block
+- tznk-zno-osvita-12980: unsupported or incomplete ZNO Освіта task block
+- tznk-zno-osvita-12974: unsupported or incomplete ZNO Освіта task block
+- tznk-zno-osvita-12968: unsupported or incomplete ZNO Освіта task block
+- english-zno-osvita-32174: unsupported or incomplete ZNO Освіта task block
+- english-zno-osvita-32170: unsupported or incomplete ZNO Освіта task block
+- english-zno-osvita-32169: unsupported or incomplete ZNO Освіта task block
+- english-zno-osvita-26549: unsupported or incomplete ZNO Освіта task block
+- english-zno-osvita-26548: unsupported or incomplete ZNO Освіта task block
+- english-zno-osvita-26546: unsupported or incomplete ZNO Освіта task block
+- english-zno-osvita-25752: unsupported or incomplete ZNO Освіта task block
+- english-zno-osvita-25751: unsupported or incomplete ZNO Освіта task block
+- english-zno-osvita-25749: unsupported or incomplete ZNO Освіта task block
+- english-zno-osvita-25303: unsupported or incomplete ZNO Освіта task block
+- english-zno-osvita-25302: unsupported or incomplete ZNO Освіта task block
+- english-zno-osvita-25301: unsupported or incomplete ZNO Освіта task block
+- english-zno-osvita-25299: unsupported or incomplete ZNO Освіта task block
+- english-zno-osvita-25296: unsupported or incomplete ZNO Освіта task block
+- english-zno-osvita-25294: unsupported or incomplete ZNO Освіта task block
+- english-zno-osvita-25293: unsupported or incomplete ZNO Освіта task block
+- english-zno-osvita-25292: unsupported or incomplete ZNO Освіта task block
+- english-zno-osvita-25285: unsupported or incomplete ZNO Освіта task block
+- english-zno-osvita-25284: unsupported or incomplete ZNO Освіта task block
+- english-zno-osvita-25282: unsupported or incomplete ZNO Освіта task block
+- english-zno-osvita-24942: unsupported or incomplete ZNO Освіта task block
+- english-zno-osvita-24940: unsupported or incomplete ZNO Освіта task block
+- english-zno-osvita-24938: unsupported or incomplete ZNO Освіта task block
+- english-zno-osvita-24935: unsupported or incomplete ZNO Освіта task block
+- english-zno-osvita-24934: unsupported or incomplete ZNO Освіта task block
+- english-zno-osvita-24932: unsupported or incomplete ZNO Освіта task block
+- english-zno-osvita-24925: unsupported or incomplete ZNO Освіта task block
+- english-zno-osvita-24922: unsupported or incomplete ZNO Освіта task block
+- english-zno-osvita-24169: unsupported or incomplete ZNO Освіта task block
+- english-zno-osvita-24165: unsupported or incomplete ZNO Освіта task block
+- english-zno-osvita-24164: unsupported or incomplete ZNO Освіта task block
+- english-zno-osvita-24162: unsupported or incomplete ZNO Освіта task block
+- english-zno-osvita-24159: unsupported or incomplete ZNO Освіта task block
+- english-zno-osvita-24158: unsupported or incomplete ZNO Освіта task block
+- english-zno-osvita-24151: unsupported or incomplete ZNO Освіта task block
+- english-zno-osvita-24150: unsupported or incomplete ZNO Освіта task block
+- english-zno-osvita-24148: unsupported or incomplete ZNO Освіта task block
+- english-zno-osvita-24123: unsupported or incomplete ZNO Освіта task block
+- english-zno-osvita-24122: unsupported or incomplete ZNO Освіта task block
+- english-zno-osvita-24120: unsupported or incomplete ZNO Освіта task block
+- english-zno-osvita-24119: unsupported or incomplete ZNO Освіта task block
+- english-zno-osvita-24117: unsupported or incomplete ZNO Освіта task block
+- english-zno-osvita-24108: unsupported or incomplete ZNO Освіта task block
+- english-zno-osvita-24107: unsupported or incomplete ZNO Освіта task block
+- english-zno-osvita-24105: unsupported or incomplete ZNO Освіта task block
+- english-zno-osvita-21880: unsupported or incomplete ZNO Освіта task block
+- english-zno-osvita-21879: unsupported or incomplete ZNO Освіта task block
+- english-zno-osvita-21877: unsupported or incomplete ZNO Освіта task block
+- english-zno-osvita-21872: unsupported or incomplete ZNO Освіта task block
+- english-zno-osvita-21871: unsupported or incomplete ZNO Освіта task block
+- english-zno-osvita-21870: unsupported or incomplete ZNO Освіта task block
+- english-zno-osvita-21863: unsupported or incomplete ZNO Освіта task block
+- english-zno-osvita-21861: unsupported or incomplete ZNO Освіта task block
+- english-zno-osvita-21859: unsupported or incomplete ZNO Освіта task block
+- english-zno-osvita-20837: unsupported or incomplete ZNO Освіта task block
+- english-zno-osvita-20835: unsupported or incomplete ZNO Освіта task block
+- english-zno-osvita-20832: unsupported or incomplete ZNO Освіта task block
+- english-zno-osvita-20831: unsupported or incomplete ZNO Освіта task block
+- english-zno-osvita-20828: unsupported or incomplete ZNO Освіта task block
+- english-zno-osvita-20821: unsupported or incomplete ZNO Освіта task block
+- english-zno-osvita-20820: unsupported or incomplete ZNO Освіта task block
+- english-zno-osvita-20819: unsupported or incomplete ZNO Освіта task block
+- english-zno-osvita-20101: unsupported or incomplete ZNO Освіта task block
+- english-zno-osvita-20099: unsupported or incomplete ZNO Освіта task block
+- english-zno-osvita-20097: unsupported or incomplete ZNO Освіта task block
+- english-zno-osvita-20095: unsupported or incomplete ZNO Освіта task block
+- english-zno-osvita-20094: unsupported or incomplete ZNO Освіта task block
+- english-zno-osvita-20093: unsupported or incomplete ZNO Освіта task block
+- english-zno-osvita-20091: unsupported or incomplete ZNO Освіта task block
+- english-zno-osvita-20083: unsupported or incomplete ZNO Освіта task block
+- english-zno-osvita-20082: unsupported or incomplete ZNO Освіта task block
+- english-zno-osvita-20081: unsupported or incomplete ZNO Освіта task block
+- english-zno-osvita-20059: unsupported or incomplete ZNO Освіта task block
+- english-zno-osvita-20057: unsupported or incomplete ZNO Освіта task block
+- english-zno-osvita-20055: unsupported or incomplete ZNO Освіта task block
+- english-zno-osvita-20052: unsupported or incomplete ZNO Освіта task block
+- english-zno-osvita-20049: unsupported or incomplete ZNO Освіта task block
+- english-zno-osvita-20048: unsupported or incomplete ZNO Освіта task block
+- english-zno-osvita-20040: unsupported or incomplete ZNO Освіта task block
+- english-zno-osvita-20038: unsupported or incomplete ZNO Освіта task block
+- english-zno-osvita-18797: unsupported or incomplete ZNO Освіта task block
+- english-zno-osvita-18795: unsupported or incomplete ZNO Освіта task block
+- english-zno-osvita-18793: unsupported or incomplete ZNO Освіта task block
+- english-zno-osvita-18791: unsupported or incomplete ZNO Освіта task block
+- english-zno-osvita-18788: unsupported or incomplete ZNO Освіта task block
+- english-zno-osvita-18781: unsupported or incomplete ZNO Освіта task block
+- english-zno-osvita-18779: unsupported or incomplete ZNO Освіта task block
+- english-zno-osvita-18777: unsupported or incomplete ZNO Освіта task block
+- english-zno-osvita-18584: unsupported or incomplete ZNO Освіта task block
+- english-zno-osvita-18582: unsupported or incomplete ZNO Освіта task block
+- english-zno-osvita-18580: unsupported or incomplete ZNO Освіта task block
+- english-zno-osvita-18578: unsupported or incomplete ZNO Освіта task block
+- english-zno-osvita-18577: unsupported or incomplete ZNO Освіта task block
+- english-zno-osvita-18567: unsupported or incomplete ZNO Освіта task block
+- english-zno-osvita-18565: unsupported or incomplete ZNO Освіта task block
+- english-zno-osvita-17915: unsupported or incomplete ZNO Освіта task block
+- english-zno-osvita-17914: unsupported or incomplete ZNO Освіта task block
+- english-zno-osvita-17913: unsupported or incomplete ZNO Освіта task block
+- english-zno-osvita-17909: unsupported or incomplete ZNO Освіта task block
+- english-zno-osvita-17907: unsupported or incomplete ZNO Освіта task block
+- english-zno-osvita-17896: unsupported or incomplete ZNO Освіта task block
+- english-zno-osvita-17894: unsupported or incomplete ZNO Освіта task block
+- english-zno-osvita-17873: unsupported or incomplete ZNO Освіта task block
+- english-zno-osvita-17872: unsupported or incomplete ZNO Освіта task block
+- english-zno-osvita-17870: unsupported or incomplete ZNO Освіта task block
+- english-zno-osvita-17867: unsupported or incomplete ZNO Освіта task block
+- english-zno-osvita-17864: unsupported or incomplete ZNO Освіта task block
+- english-zno-osvita-17862: unsupported or incomplete ZNO Освіта task block
+- english-zno-osvita-17854: unsupported or incomplete ZNO Освіта task block
+- english-zno-osvita-17853: unsupported or incomplete ZNO Освіта task block
+- english-zno-osvita-16374: unsupported or incomplete ZNO Освіта task block
+- english-zno-osvita-16373: unsupported or incomplete ZNO Освіта task block
+- english-zno-osvita-16372: unsupported or incomplete ZNO Освіта task block
+- english-zno-osvita-16367: unsupported or incomplete ZNO Освіта task block
+- english-zno-osvita-16365: unsupported or incomplete ZNO Освіта task block
+- english-zno-osvita-16358: unsupported or incomplete ZNO Освіта task block
+- english-zno-osvita-16354: unsupported or incomplete ZNO Освіта task block
+- english-zno-osvita-15767: unsupported or incomplete ZNO Освіта task block
+- english-zno-osvita-15765: unsupported or incomplete ZNO Освіта task block
+- english-zno-osvita-15764: unsupported or incomplete ZNO Освіта task block
+- english-zno-osvita-15761: unsupported or incomplete ZNO Освіта task block
+- english-zno-osvita-15760: unsupported or incomplete ZNO Освіта task block
+- english-zno-osvita-15758: unsupported or incomplete ZNO Освіта task block
+- english-zno-osvita-15751: unsupported or incomplete ZNO Освіта task block
+- english-zno-osvita-15750: unsupported or incomplete ZNO Освіта task block
+- english-zno-osvita-15748: unsupported or incomplete ZNO Освіта task block
+- english-zno-osvita-15726: unsupported or incomplete ZNO Освіта task block
+- english-zno-osvita-15724: unsupported or incomplete ZNO Освіта task block
+- english-zno-osvita-15721: unsupported or incomplete ZNO Освіта task block
+- english-zno-osvita-15720: unsupported or incomplete ZNO Освіта task block
+- english-zno-osvita-15717: unsupported or incomplete ZNO Освіта task block
+- english-zno-osvita-15710: unsupported or incomplete ZNO Освіта task block
+- english-zno-osvita-15709: unsupported or incomplete ZNO Освіта task block
+- english-zno-osvita-15706: unsupported or incomplete ZNO Освіта task block
+- english-zno-osvita-13229: unsupported or incomplete ZNO Освіта task block
+- english-zno-osvita-13227: unsupported or incomplete ZNO Освіта task block
+- english-zno-osvita-13226: unsupported or incomplete ZNO Освіта task block
+- english-zno-osvita-13222: unsupported or incomplete ZNO Освіта task block
+- english-zno-osvita-13220: unsupported or incomplete ZNO Освіта task block
+- english-zno-osvita-13219: unsupported or incomplete ZNO Освіта task block
+- english-zno-osvita-13212: unsupported or incomplete ZNO Освіта task block
+- english-zno-osvita-13210: unsupported or incomplete ZNO Освіта task block
+- english-zno-osvita-13188: unsupported or incomplete ZNO Освіта task block
+- english-zno-osvita-13187: unsupported or incomplete ZNO Освіта task block
+- english-zno-osvita-13184: unsupported or incomplete ZNO Освіта task block
+- english-zno-osvita-13182: unsupported or incomplete ZNO Освіта task block
+- english-zno-osvita-13178: unsupported or incomplete ZNO Освіта task block
+- english-zno-osvita-13170: unsupported or incomplete ZNO Освіта task block
+- english-zno-osvita-13168: unsupported or incomplete ZNO Освіта task block
+- english-zno-osvita-13167: unsupported or incomplete ZNO Освіта task block
+- tznk-zno-osvita-33873: duplicate within ZNO Освіта candidate batch; matched tznk-zno-osvita-33924 in data/processed/third-party
+- tznk-zno-osvita-33822: duplicate within ZNO Освіта candidate batch; matched tznk-zno-osvita-33843 in data/processed/third-party
+- tznk-zno-osvita-33818: duplicate within ZNO Освіта candidate batch; matched tznk-zno-osvita-33819 in data/processed/third-party
+- tznk-zno-osvita-33817: duplicate within ZNO Освіта candidate batch; matched tznk-zno-osvita-33819 in data/processed/third-party
+- tznk-zno-osvita-33816: duplicate within ZNO Освіта candidate batch; matched tznk-zno-osvita-33819 in data/processed/third-party
+- tznk-zno-osvita-33814: duplicate within ZNO Освіта candidate batch; matched tznk-zno-osvita-33815 in data/processed/third-party
+- tznk-zno-osvita-33813: duplicate within ZNO Освіта candidate batch; matched tznk-zno-osvita-33815 in data/processed/third-party
+- tznk-zno-osvita-33811: duplicate within ZNO Освіта candidate batch; matched tznk-zno-osvita-33812 in data/processed/third-party
+- tznk-zno-osvita-33806: duplicate within ZNO Освіта candidate batch; matched tznk-zno-osvita-33807 in data/processed/third-party
+- tznk-zno-osvita-33805: duplicate within ZNO Освіта candidate batch; matched tznk-zno-osvita-33807 in data/processed/third-party
+- tznk-zno-osvita-33804: duplicate within ZNO Освіта candidate batch; matched tznk-zno-osvita-33807 in data/processed/third-party
+- tznk-zno-osvita-33802: duplicate within ZNO Освіта candidate batch; matched tznk-zno-osvita-33803 in data/processed/third-party
+- tznk-zno-osvita-33801: duplicate within ZNO Освіта candidate batch; matched tznk-zno-osvita-33803 in data/processed/third-party
+- tznk-zno-osvita-33799: duplicate within ZNO Освіта candidate batch; matched tznk-zno-osvita-33800 in data/processed/third-party
+- tznk-zno-osvita-33797: duplicate within ZNO Освіта candidate batch; matched tznk-zno-osvita-33821 in data/processed/third-party
+- tznk-zno-osvita-33796: duplicate within ZNO Освіта candidate batch; matched tznk-zno-osvita-33808 in data/processed/third-party
+- tznk-zno-osvita-33794: duplicate within ZNO Освіта candidate batch; matched tznk-zno-osvita-33795 in data/processed/third-party
+- tznk-zno-osvita-33793: duplicate within ZNO Освіта candidate batch; matched tznk-zno-osvita-33795 in data/processed/third-party
+- tznk-zno-osvita-33792: duplicate within ZNO Освіта candidate batch; matched tznk-zno-osvita-33795 in data/processed/third-party
+- tznk-zno-osvita-33790: duplicate within ZNO Освіта candidate batch; matched tznk-zno-osvita-33791 in data/processed/third-party
+- tznk-zno-osvita-33789: duplicate within ZNO Освіта candidate batch; matched tznk-zno-osvita-33791 in data/processed/third-party
+- tznk-zno-osvita-33787: duplicate within ZNO Освіта candidate batch; matched tznk-zno-osvita-33788 in data/processed/third-party
+- tznk-zno-osvita-33784: duplicate within ZNO Освіта candidate batch; matched tznk-zno-osvita-33808 in data/processed/third-party
+- tznk-zno-osvita-33782: duplicate within ZNO Освіта candidate batch; matched tznk-zno-osvita-33783 in data/processed/third-party
+- tznk-zno-osvita-33781: duplicate within ZNO Освіта candidate batch; matched tznk-zno-osvita-33783 in data/processed/third-party
+- tznk-zno-osvita-33780: duplicate within ZNO Освіта candidate batch; matched tznk-zno-osvita-33783 in data/processed/third-party
+- tznk-zno-osvita-33778: duplicate within ZNO Освіта candidate batch; matched tznk-zno-osvita-33779 in data/processed/third-party
+- tznk-zno-osvita-33777: duplicate within ZNO Освіта candidate batch; matched tznk-zno-osvita-33779 in data/processed/third-party
+- tznk-zno-osvita-33775: duplicate within ZNO Освіта candidate batch; matched tznk-zno-osvita-33776 in data/processed/third-party
+- tznk-zno-osvita-33770: duplicate within ZNO Освіта candidate batch; matched tznk-zno-osvita-33771 in data/processed/third-party
+- tznk-zno-osvita-33769: duplicate within ZNO Освіта candidate batch; matched tznk-zno-osvita-33771 in data/processed/third-party
+- tznk-zno-osvita-33768: duplicate within ZNO Освіта candidate batch; matched tznk-zno-osvita-33771 in data/processed/third-party
+- tznk-zno-osvita-33766: duplicate within ZNO Освіта candidate batch; matched tznk-zno-osvita-33767 in data/processed/third-party
+- tznk-zno-osvita-33765: duplicate within ZNO Освіта candidate batch; matched tznk-zno-osvita-33767 in data/processed/third-party
+- tznk-zno-osvita-33763: duplicate within ZNO Освіта candidate batch; matched tznk-zno-osvita-33764 in data/processed/third-party
+- tznk-zno-osvita-32315: duplicate within ZNO Освіта candidate batch; matched tznk-zno-osvita-32321 in data/processed/third-party
+- tznk-zno-osvita-32303: duplicate within ZNO Освіта candidate batch; matched tznk-zno-osvita-33785 in data/processed/third-party
+- tznk-zno-osvita-32301: duplicate within ZNO Освіта candidate batch; matched tznk-zno-osvita-33809 in data/processed/third-party
+- tznk-zno-osvita-32297: duplicate within ZNO Освіта candidate batch; matched tznk-zno-osvita-32298 in data/processed/third-party
+- tznk-zno-osvita-32296: duplicate within ZNO Освіта candidate batch; matched tznk-zno-osvita-32298 in data/processed/third-party
+- tznk-zno-osvita-32295: duplicate within ZNO Освіта candidate batch; matched tznk-zno-osvita-32298 in data/processed/third-party
+- tznk-zno-osvita-32293: duplicate within ZNO Освіта candidate batch; matched tznk-zno-osvita-32294 in data/processed/third-party
+- tznk-zno-osvita-32292: duplicate within ZNO Освіта candidate batch; matched tznk-zno-osvita-32294 in data/processed/third-party
+- tznk-zno-osvita-32290: duplicate within ZNO Освіта candidate batch; matched tznk-zno-osvita-32291 in data/processed/third-party
+- tznk-zno-osvita-27588: exact duplicate question text against existing official/generated/third-party bank; matched tznk-tznk-demo-2024-017 in public/data/questions/tznk.json
+- tznk-zno-osvita-27587: exact duplicate question text against existing official/generated/third-party bank; matched tznk-tznk-demo-2024-016 in public/data/questions/tznk.json
+- tznk-zno-osvita-27586: exact duplicate question text against existing official/generated/third-party bank; matched tznk-tznk-demo-2024-015 in public/data/questions/tznk.json
+- tznk-zno-osvita-27579: exact duplicate question text against existing official/generated/third-party bank; matched tznk-tznk-demo-2024-008 in public/data/questions/tznk.json
+- tznk-zno-osvita-27577: exact duplicate question text against existing official/generated/third-party bank; matched tznk-tznk-demo-2024-006 in public/data/questions/tznk.json
+- tznk-zno-osvita-27576: exact duplicate question text against existing official/generated/third-party bank; matched tznk-tznk-demo-2024-005 in public/data/questions/tznk.json
+- tznk-zno-osvita-27574: exact duplicate question text against existing official/generated/third-party bank; matched tznk-tznk-demo-2024-003 in public/data/questions/tznk.json
+- tznk-zno-osvita-27573: exact duplicate question text against existing official/generated/third-party bank; matched tznk-tznk-demo-2024-002 in public/data/questions/tznk.json
+- tznk-zno-osvita-27572: exact duplicate question text against existing official/generated/third-party bank; matched tznk-tznk-demo-2024-001 in public/data/questions/tznk.json
+- tznk-zno-osvita-27570: duplicate within ZNO Освіта candidate batch; matched tznk-zno-osvita-27571 in data/processed/third-party
+- tznk-zno-osvita-27569: duplicate within ZNO Освіта candidate batch; matched tznk-zno-osvita-27571 in data/processed/third-party
+- tznk-zno-osvita-27568: duplicate within ZNO Освіта candidate batch; matched tznk-zno-osvita-27571 in data/processed/third-party
+- tznk-zno-osvita-27566: duplicate within ZNO Освіта candidate batch; matched tznk-zno-osvita-27567 in data/processed/third-party
+- tznk-zno-osvita-27565: duplicate within ZNO Освіта candidate batch; matched tznk-zno-osvita-27567 in data/processed/third-party
+- tznk-zno-osvita-27563: duplicate within ZNO Освіта candidate batch; matched tznk-zno-osvita-27564 in data/processed/third-party
+- tznk-zno-osvita-26593: duplicate within ZNO Освіта candidate batch; matched tznk-zno-osvita-33773 in data/processed/third-party
+- tznk-zno-osvita-26584: duplicate within ZNO Освіта candidate batch; matched tznk-zno-osvita-26585 in data/processed/third-party
+- tznk-zno-osvita-26583: duplicate within ZNO Освіта candidate batch; matched tznk-zno-osvita-26585 in data/processed/third-party
+- tznk-zno-osvita-26582: duplicate within ZNO Освіта candidate batch; matched tznk-zno-osvita-26585 in data/processed/third-party
+- tznk-zno-osvita-26580: duplicate within ZNO Освіта candidate batch; matched tznk-zno-osvita-26581 in data/processed/third-party
+- tznk-zno-osvita-26579: duplicate within ZNO Освіта candidate batch; matched tznk-zno-osvita-26581 in data/processed/third-party
+- tznk-zno-osvita-26577: duplicate within ZNO Освіта candidate batch; matched tznk-zno-osvita-26578 in data/processed/third-party
+- tznk-zno-osvita-25698: duplicate within ZNO Освіта candidate batch; matched tznk-zno-osvita-26608 in data/processed/third-party
+- tznk-zno-osvita-25697: duplicate within ZNO Освіта candidate batch; matched tznk-zno-osvita-26607 in data/processed/third-party
+- tznk-zno-osvita-25696: duplicate within ZNO Освіта candidate batch; matched tznk-zno-osvita-26606 in data/processed/third-party
+- tznk-zno-osvita-25695: duplicate within ZNO Освіта candidate batch; matched tznk-zno-osvita-26605 in data/processed/third-party
+- tznk-zno-osvita-25694: duplicate within ZNO Освіта candidate batch; matched tznk-zno-osvita-26604 in data/processed/third-party
+- tznk-zno-osvita-25692: duplicate within ZNO Освіта candidate batch; matched tznk-zno-osvita-26602 in data/processed/third-party
+- tznk-zno-osvita-25691: duplicate within ZNO Освіта candidate batch; matched tznk-zno-osvita-26601 in data/processed/third-party
+- tznk-zno-osvita-25690: duplicate within ZNO Освіта candidate batch; matched tznk-zno-osvita-26600 in data/processed/third-party
+- tznk-zno-osvita-25689: duplicate within ZNO Освіта candidate batch; matched tznk-zno-osvita-26599 in data/processed/third-party
+- ... 700 more skipped entries omitted from this report for readability.
+
+## Uncertain Duplicates Requiring Manual Review
+
+- None; uncertain cases were skipped rather than imported.

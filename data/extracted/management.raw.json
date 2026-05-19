@@ -1,0 +1,3362 @@
+[
+  {
+    "rawQuestionText": "Який вид комунікацій передбачає обмін відомостями між споживачами інформації, що перебувають на однакових щаблях організаційної ієрархії?",
+    "rawOptions": [
+      "Горизонтальні.",
+      "Зовнішні.",
+      "Міжрівневі.",
+      "Вертикальні."
+    ],
+    "rawCorrectAnswer": 0,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Upravlinnya-ta-administruvannya-na_sajt.pdf",
+    "sourceFile": "data/raw/management/management-yefvv-2024.pdf",
+    "pageNumber": 1,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "management",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 1,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Що належить до залучених фінансових ресурсів?",
+    "rawOptions": [
+      "Банківські, товарні (комерційні) кредити.",
+      "Поточна заборгованість за розрахунками з одержаних авансів та з бюджетом.",
+      "Статутний капітал, прибуток, амортизаційний фонд.",
+      "Фінансові інвестиції."
+    ],
+    "rawCorrectAnswer": 1,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Upravlinnya-ta-administruvannya-na_sajt.pdf",
+    "sourceFile": "data/raw/management/management-yefvv-2024.pdf",
+    "pageNumber": 1,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "management",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 2,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Яку знижку використовує торговельна компанія, коли надає її посереднику за зберігання та обліку товарів?",
+    "rawOptions": [
+      "Трейд-ін.",
+      "Спеціальну.",
+      "Функціональну.",
+      "Бонусну."
+    ],
+    "rawCorrectAnswer": 2,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Upravlinnya-ta-administruvannya-na_sajt.pdf",
+    "sourceFile": "data/raw/management/management-yefvv-2024.pdf",
+    "pageNumber": 1,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "management",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 3,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Оберіть захід, що дає змогу розкрити процедуру стратегічного планування.",
+    "rawOptions": [
+      "Забезпечення організацією рівних можливостей під час працевлаштування працівників.",
+      "Дотримання внутрішнього трудового розпорядку працівником.",
+      "Керування кодексом корпоративної соціальної відповідальності.",
+      "Визначення планової потреби у ресурсах на наступний період за встановленою методикою."
+    ],
+    "rawCorrectAnswer": 3,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Upravlinnya-ta-administruvannya-na_sajt.pdf",
+    "sourceFile": "data/raw/management/management-yefvv-2024.pdf",
+    "pageNumber": 1,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "management",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 4,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Яку із форм впливу у менеджменті використовує керівник, прямо не нав'язуючи свою волю підлеглому?",
+    "rawOptions": [
+      "Навіювання.",
+      "Переконання.",
+      "Вплив через участь.",
+      "Несвідоме наслідування."
+    ],
+    "rawCorrectAnswer": 2,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Upravlinnya-ta-administruvannya-na_sajt.pdf",
+    "sourceFile": "data/raw/management/management-yefvv-2024.pdf",
+    "pageNumber": 1,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "management",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 5,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Яке з тверджень відповідає поняттю «пасивний маркетинг»?",
+    "rawOptions": [
+      "Маркетинг товарів пасивного попиту.",
+      "Маркетинг без застосування особливих збутових зусиль.",
+      "Маркетинг у випадку непротидії конкурентів.",
+      "Маркетинг за умов стагнаційного ринку."
+    ],
+    "rawCorrectAnswer": 1,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Upravlinnya-ta-administruvannya-na_sajt.pdf",
+    "sourceFile": "data/raw/management/management-yefvv-2024.pdf",
+    "pageNumber": 2,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "management",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 6,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Який метод застосовують керівники для задоволення соціальних потреб працівників згідно з теорією А. Маслоу?",
+    "rawOptions": [
+      "Проведення періодичних нарад.",
+      "Забезпечення можливостей для навчання та розвитку.",
+      "Пропонування змістовнішої роботи.",
+      "Оцінювання досягнутих результатів."
+    ],
+    "rawCorrectAnswer": 0,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Upravlinnya-ta-administruvannya-na_sajt.pdf",
+    "sourceFile": "data/raw/management/management-yefvv-2024.pdf",
+    "pageNumber": 2,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "management",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 7,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Визначте початковий етап процесу контролювання.",
+    "rawOptions": [
+      "Встановлення стандартів і критеріїв.",
+      "Визначення системи цілей.",
+      "Розроблення планів діяльності.",
+      "Формування стратегії."
+    ],
+    "rawCorrectAnswer": 0,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Upravlinnya-ta-administruvannya-na_sajt.pdf",
+    "sourceFile": "data/raw/management/management-yefvv-2024.pdf",
+    "pageNumber": 2,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "management",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 8,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "На скільки скоротиться загальна кількість контактів, якщо три виробника, кожний з яких взаємодіє з трьома групами споживачів, для продажу своєї продукції скористається послугами одного посередника?",
+    "rawOptions": [
+      "1.",
+      "3.",
+      "6.",
+      "9."
+    ],
+    "rawCorrectAnswer": 1,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Upravlinnya-ta-administruvannya-na_sajt.pdf",
+    "sourceFile": "data/raw/management/management-yefvv-2024.pdf",
+    "pageNumber": 2,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "management",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 9,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Що з наведеного відповідає критерію поділу на мікро- та макромаркетингове середовище компанії?",
+    "rawOptions": [
+      "Можливість контролю з боку компанії.",
+      "Рівень впливу на компанію.",
+      "Спосіб впливу на можливості компанії.",
+      "Можливість впливу з боку компанії."
+    ],
+    "rawCorrectAnswer": 0,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Upravlinnya-ta-administruvannya-na_sajt.pdf",
+    "sourceFile": "data/raw/management/management-yefvv-2024.pdf",
+    "pageNumber": 2,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "management",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 10,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Який підхід у менеджменті передбачає послідовне та циклічне виконання основних управлінських функцій?",
+    "rawOptions": [
+      "Ситуаційний.",
+      "Системний.",
+      "Процесний.",
+      "Демократичний."
+    ],
+    "rawCorrectAnswer": 2,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Upravlinnya-ta-administruvannya-na_sajt.pdf",
+    "sourceFile": "data/raw/management/management-yefvv-2024.pdf",
+    "pageNumber": 2,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "management",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 11,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Оберіть ознаку, яка описує неособисті канали комунікацій.",
+    "rawOptions": [
+      "Розсилка повідомлень.",
+      "Коригування звернень.",
+      "Легкість встановлення зворотного зв’язку під час комунікації.",
+      "Створення особливої атмосфери під час заходів."
+    ],
+    "rawCorrectAnswer": 3,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Upravlinnya-ta-administruvannya-na_sajt.pdf",
+    "sourceFile": "data/raw/management/management-yefvv-2024.pdf",
+    "pageNumber": 2,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "management",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 12,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Що характеризує ризики в прийнятті управлінських рішень?",
+    "rawOptions": [
+      "Впливові фактори та кінцевий результат кожної альтернативи чітко прогнозовані.",
+      "Ймовірність впливу факторів та ймовірні значення кінцевого результату можуть бути прогнозовані.",
+      "Ймовірність впливу факторів та ймовірні значення кінцевого результату не можуть бути прогнозовані.",
+      "Неможливість визначення впливових факторів і прогнозування кінцевих результатів."
+    ],
+    "rawCorrectAnswer": 1,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Upravlinnya-ta-administruvannya-na_sajt.pdf",
+    "sourceFile": "data/raw/management/management-yefvv-2024.pdf",
+    "pageNumber": 3,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "management",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 13,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Що таке фондова біржа?",
+    "rawOptions": [
+      "Магазин, де продають товари великими партіями.",
+      "Фінансовий інструмент для обміну товарів і послуг.",
+      "Ринок, на якому встановлюється контакт між виробником і споживачем зерна.",
+      "Майданчик, на якому здійснюється торгівля цінними паперами."
+    ],
+    "rawCorrectAnswer": 3,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Upravlinnya-ta-administruvannya-na_sajt.pdf",
+    "sourceFile": "data/raw/management/management-yefvv-2024.pdf",
+    "pageNumber": 3,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "management",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 14,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Який показник ефективності характеризує величину основних виробничих засобів, що припадає на кожну грошову одиницю виготовлення продукції?",
+    "rawOptions": [
+      "Віддача основних засобів.",
+      "Місткість основних засобів.",
+      "Інтенсивність використання основних засобів.",
+      "Озброєність основними засобами."
+    ],
+    "rawCorrectAnswer": 1,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Upravlinnya-ta-administruvannya-na_sajt.pdf",
+    "sourceFile": "data/raw/management/management-yefvv-2024.pdf",
+    "pageNumber": 3,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "management",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 15,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Людина хоче купити кавоварку і запитує у друзів про їхній користувацький досвід цією технікою. На якому етапі процесу прийняття рішення про купівлю перебуває людина?",
+    "rawOptions": [
+      "Усвідомлення потреби.",
+      "Пошук інформації.",
+      "Оцінювання варіантів.",
+      "Рішення про покупку."
+    ],
+    "rawCorrectAnswer": 1,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Upravlinnya-ta-administruvannya-na_sajt.pdf",
+    "sourceFile": "data/raw/management/management-yefvv-2024.pdf",
+    "pageNumber": 3,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "management",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 16,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Що сприяє задоволенню споживчих потреб у визначенні маркетингу за Ф. Котлером?",
+    "rawOptions": [
+      "Обмін.",
+      "Попит.",
+      "Пропозиція.",
+      "Кон'юнктура."
+    ],
+    "rawCorrectAnswer": 0,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Upravlinnya-ta-administruvannya-na_sajt.pdf",
+    "sourceFile": "data/raw/management/management-yefvv-2024.pdf",
+    "pageNumber": 3,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "management",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 17,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "До якого виду маркетингу належить стратегія охоплення ринку у разі пропозиції компанією курсів англійської мови виключно для дітей молодшого шкільного віку?",
+    "rawOptions": [
+      "Недиференційованого.",
+      "Диференційованого.",
+      "Концентрованого.",
+      "Індивідуалізованого."
+    ],
+    "rawCorrectAnswer": 2,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Upravlinnya-ta-administruvannya-na_sajt.pdf",
+    "sourceFile": "data/raw/management/management-yefvv-2024.pdf",
+    "pageNumber": 4,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "management",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 18,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Який вид підприємства створюється двома і більше засновниками за спільними договором, управлінням майном і підприємницькою/трудовою діяльністю?",
+    "rawOptions": [
+      "Колективне.",
+      "Корпоративне.",
+      "Унітарне.",
+      "Приватне."
+    ],
+    "rawCorrectAnswer": 1,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Upravlinnya-ta-administruvannya-na_sajt.pdf",
+    "sourceFile": "data/raw/management/management-yefvv-2024.pdf",
+    "pageNumber": 4,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "management",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 19,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Які види послуг належать до розподільчих?",
+    "rawOptions": [
+      "Торговельні.",
+      "Фінансові.",
+      "Освітні.",
+      "Лізингові."
+    ],
+    "rawCorrectAnswer": 0,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Upravlinnya-ta-administruvannya-na_sajt.pdf",
+    "sourceFile": "data/raw/management/management-yefvv-2024.pdf",
+    "pageNumber": 4,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "management",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 20,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Який показник відображає час, необхідний для відшкодування вкладених у проєкт інвестицій?",
+    "rawOptions": [
+      "IRR (внутрішній рівень доходу).",
+      "ROI (показник прибутковості).",
+      "PP (період окупності).",
+      "NPV (чиста приведена вартість)."
+    ],
+    "rawCorrectAnswer": 2,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Upravlinnya-ta-administruvannya-na_sajt.pdf",
+    "sourceFile": "data/raw/management/management-yefvv-2024.pdf",
+    "pageNumber": 4,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "management",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 21,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Що передбачає функція каналу розподілу «встановлення контактів»?",
+    "rawOptions": [
+      "Пошук потенційних споживачів.",
+      "Пошук потенційних постачальників.",
+      "Пошук джерел фінансування.",
+      "Пошук джерел зменшення ризиків."
+    ],
+    "rawCorrectAnswer": 0,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Upravlinnya-ta-administruvannya-na_sajt.pdf",
+    "sourceFile": "data/raw/management/management-yefvv-2024.pdf",
+    "pageNumber": 4,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "management",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 22,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Яка комбінація змінних застосовується в матриці І. Ансофа для аналізу маркетингових можливостей компанії?",
+    "rawOptions": [
+      "Відносна ринкова частка та темпи зростання ринку.",
+      "Середні темпи зростання ринку та ринкової частки компанії.",
+      "Конкурентоспроможність компанії та привабливість ринку.",
+      "Види ринку та товару."
+    ],
+    "rawCorrectAnswer": 3,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Upravlinnya-ta-administruvannya-na_sajt.pdf",
+    "sourceFile": "data/raw/management/management-yefvv-2024.pdf",
+    "pageNumber": 4,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "management",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 23,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Який показник характеризує перевищення вартісної оцінки очікуваних результатів від інновацій над сумарними витратами ресурсів за певний період часу?",
+    "rawOptions": [
+      "Економічний ефект.",
+      "Інвестиційний потенціал.",
+      "Власний капітал.",
+      "Нерозподілений прибуток."
+    ],
+    "rawCorrectAnswer": 0,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Upravlinnya-ta-administruvannya-na_sajt.pdf",
+    "sourceFile": "data/raw/management/management-yefvv-2024.pdf",
+    "pageNumber": 5,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "management",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 24,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "У чому переваги матричної організаційної структури управління?",
+    "rawOptions": [
+      "Контрольованість діяльності та високі вимоги до кваліфікації персоналу.",
+      "Заохочення координації діяльності між відповідальними керівниками.",
+      "Оперативне прийняття рішень і високий ступінь активізації керівництва.",
+      "Розвантаження керівництва та висока внутрішньофірмова конкуренція."
+    ],
+    "rawCorrectAnswer": 1,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Upravlinnya-ta-administruvannya-na_sajt.pdf",
+    "sourceFile": "data/raw/management/management-yefvv-2024.pdf",
+    "pageNumber": 5,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "management",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 25,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Які засоби впливу входять до структури комплексу маркетингових комунікацій?",
+    "rawOptions": [
+      "Реклама, стимулювання збуту, товар, особистий продаж.",
+      "Реклама, стимулювання збуту, зв'язки з громадськістю, особистий продаж.",
+      "Реклама, розподіл, зв'язки з громадськістю, особистий продаж.",
+      "Реклама, стимулювання збуту, ціна, особистий продаж."
+    ],
+    "rawCorrectAnswer": 1,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Upravlinnya-ta-administruvannya-na_sajt.pdf",
+    "sourceFile": "data/raw/management/management-yefvv-2024.pdf",
+    "pageNumber": 5,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "management",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 26,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Підприємець хоче диверсифікувати діяльність, уклавши договір з компанією McDonald's. Як результат він отримає в оренду основні фонди, короткостроковий кредит на пільгових умовах, постачання напівфабрикатів та інші види послуг. Яку форму ведення бізнесу він використав?",
+    "rawOptions": [
+      "Інверсія.",
+      "Франчайзинг.",
+      "Аналогія.",
+      "Футурологія."
+    ],
+    "rawCorrectAnswer": 1,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Upravlinnya-ta-administruvannya-na_sajt.pdf",
+    "sourceFile": "data/raw/management/management-yefvv-2024.pdf",
+    "pageNumber": 5,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "management",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 27,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Оберіть приклад внутрішнього мотивування.",
+    "rawOptions": [
+      "Просування підлеглого кар’єрними сходами.",
+      "Похвала підлеглого за високу якість роботи.",
+      "Формування у підлеглого відчуття значущості виконуваної роботи.",
+      "Визнання результатів роботи підлеглого та додаткові виплати за неї."
+    ],
+    "rawCorrectAnswer": 2,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Upravlinnya-ta-administruvannya-na_sajt.pdf",
+    "sourceFile": "data/raw/management/management-yefvv-2024.pdf",
+    "pageNumber": 5,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "management",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 28,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Яка діяльність належить до підприємництва у сфері інформаційних послуг?",
+    "rawOptions": [
+      "Розробка програмного забезпечення.",
+      "Торгівля електронікою.",
+      "Виробництво електроніки.",
+      "Ремонт електроніки."
+    ],
+    "rawCorrectAnswer": 0,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Upravlinnya-ta-administruvannya-na_sajt.pdf",
+    "sourceFile": "data/raw/management/management-yefvv-2024.pdf",
+    "pageNumber": 5,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "management",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 29,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Яка вимога до інформації після її отримання підвищує ймовірність виконання завдання?",
+    "rawOptions": [
+      "Корисність.",
+      "Повнота.",
+      "Точність.",
+      "Доступність."
+    ],
+    "rawCorrectAnswer": 0,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Upravlinnya-ta-administruvannya-na_sajt.pdf",
+    "sourceFile": "data/raw/management/management-yefvv-2024.pdf",
+    "pageNumber": 6,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "management",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 30,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "На економічному форумі відбулося знайомство керівника відділу продажів і генерального директора. Хто з них першим має залишити свою візитівку згідно з етикетом?",
+    "rawOptions": [
+      "Особа, чия посада є нижчою.",
+      "Особа, чия посада є вищою.",
+      "Особа, яка за віком є старшою.",
+      "Особа, котра швидше проявить ініціативу."
+    ],
+    "rawCorrectAnswer": 0,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Upravlinnya-ta-administruvannya-na_sajt.pdf",
+    "sourceFile": "data/raw/management/management-yefvv-2024.pdf",
+    "pageNumber": 6,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "management",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 31,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Що являє собою рівень каналу розподілу в маркетингу?",
+    "rawOptions": [
+      "Кожна ланка посередників між виробником і споживачем.",
+      "Кількість різнотипних посередників у каналі розподілу.",
+      "Загальна кількість посередників на шляху до споживача.",
+      "Усі дилери та дистрибутори в каналі розподілу."
+    ],
+    "rawCorrectAnswer": 0,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Upravlinnya-ta-administruvannya-na_sajt.pdf",
+    "sourceFile": "data/raw/management/management-yefvv-2024.pdf",
+    "pageNumber": 6,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "management",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 32,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Страхова компанія систематично телефонує потенційним клієнтам і пропонує послуги зі страхування життя за допомогою різних методів стимулювання збуту. Яка концепція маркетингу використовується при цьому?",
+    "rawOptions": [
+      "Соціально-етичного маркетингу.",
+      "Удосконалення товару.",
+      "Інтенсифікації комерційних зусиль.",
+      "Класичного маркетингу."
+    ],
+    "rawCorrectAnswer": 2,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Upravlinnya-ta-administruvannya-na_sajt.pdf",
+    "sourceFile": "data/raw/management/management-yefvv-2024.pdf",
+    "pageNumber": 6,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "management",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 33,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Яким за своєю сутністю є план економічного розвитку підприємства, що передбачає реалізацію конкретних заходів і дає змогу порівняно швидко отримувати результат, співставний із відповідними діями?",
+    "rawOptions": [
+      "Тактичний.",
+      "Стратегічний.",
+      "Операційний.",
+      "Фінансовий."
+    ],
+    "rawCorrectAnswer": 0,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Upravlinnya-ta-administruvannya-na_sajt.pdf",
+    "sourceFile": "data/raw/management/management-yefvv-2024.pdf",
+    "pageNumber": 6,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "management",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 34,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "За яких умов зростає сила постачальників як фактора конкуренції?",
+    "rawOptions": [
+      "Товари стандартні, покупці є важливими клієнтами для постачальника, продукція постачальника посідає важливе місце у виробництві цієї галузі.",
+      "Товари диференційовані, покупці не є важливими клієнтами для постачальника, продукція постачальника посідає важливе місце у виробництві цієї галузі.",
+      "Товари високоякісні, покупці є важливими клієнтами для постачальника, продукція постачальника посідає важливе місце у виробництві цієї галузі.",
+      "Товари різноманітні, покупці не є важливими клієнтами для постачальника, продукція постачальника не посідає важливе місце у виробництві цієї галузі."
+    ],
+    "rawCorrectAnswer": 1,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Upravlinnya-ta-administruvannya-na_sajt.pdf",
+    "sourceFile": "data/raw/management/management-yefvv-2024.pdf",
+    "pageNumber": 6,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "management",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 35,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Оберіть вид основних засобів за функціональним призначенням.",
+    "rawOptions": [
+      "Промислові, будівельні, сільськогосподарські.",
+      "Інструменти, обчислювальна техніка, обладнання.",
+      "Власні, орендовані, запозичені.",
+      "Діючі, недіючі, резервні."
+    ],
+    "rawCorrectAnswer": 1,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Upravlinnya-ta-administruvannya-na_sajt.pdf",
+    "sourceFile": "data/raw/management/management-yefvv-2024.pdf",
+    "pageNumber": 7,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "management",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 36,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Яке з тверджень щодо цінової еластичності попиту як чинника ціноутворення є істинним?",
+    "rawOptions": [
+      "Наявність на ринку товарів-замінників може вплинути на цінову еластичність попиту.",
+      "Цінова еластичність попиту визначається як співвідношення відсоткової зміни ціни до відсоткової зміни попиту.",
+      "За нееластичного попиту, якщо ціна товару зростає, попит залишається абсолютно незмінним.",
+      "Якщо цінова еластичність попиту дорівнює 2 ‒ це означає, що зміна ціни на 2 % призводить до зміни попиту на 1 %."
+    ],
+    "rawCorrectAnswer": 0,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Upravlinnya-ta-administruvannya-na_sajt.pdf",
+    "sourceFile": "data/raw/management/management-yefvv-2024.pdf",
+    "pageNumber": 7,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "management",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 37,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "На якому етапі раціонального розв’язання проблеми відбувається коригування у разі виявлення відхилень фактичних результатів від очікуваних?",
+    "rawOptions": [
+      "Зворотний зв`язок.",
+      "Оцінювання альтернатив.",
+      "Формування обмежень.",
+      "Виявлення альтернатив."
+    ],
+    "rawCorrectAnswer": 0,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Upravlinnya-ta-administruvannya-na_sajt.pdf",
+    "sourceFile": "data/raw/management/management-yefvv-2024.pdf",
+    "pageNumber": 7,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "management",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 38,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Який інструмент використовують для графічного представлення послідовності робіт у проєкті?",
+    "rawOptions": [
+      "Діаграму Ганта.",
+      "SWOT-аналіз.",
+      "Бюджет підприємства.",
+      "Потенційну матрицю."
+    ],
+    "rawCorrectAnswer": 0,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Upravlinnya-ta-administruvannya-na_sajt.pdf",
+    "sourceFile": "data/raw/management/management-yefvv-2024.pdf",
+    "pageNumber": 7,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "management",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 39,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Що характеризує обмежене право використання ресурсів?",
+    "rawOptions": [
+      "Департаменталізація.",
+      "Повноваження.",
+      "Формалізація.",
+      "Делегування повноважень."
+    ],
+    "rawCorrectAnswer": 1,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Upravlinnya-ta-administruvannya-na_sajt.pdf",
+    "sourceFile": "data/raw/management/management-yefvv-2024.pdf",
+    "pageNumber": 7,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "management",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 40,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "У чому полягає основний зміст контролювання як функції менеджменту?",
+    "rawOptions": [
+      "Забезпечення досягнення цілей організації.",
+      "Спонукання до реалізації окреслених планів.",
+      "Розподіл повноважень в організації.",
+      "Визначення чіткого порядку дій для досягнення цілей організації."
+    ],
+    "rawCorrectAnswer": 0,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Upravlinnya-ta-administruvannya-na_sajt.pdf",
+    "sourceFile": "data/raw/management/management-yefvv-2024.pdf",
+    "pageNumber": 7,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "management",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 41,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Який інструмент належить до соціально-психологічних методів менеджменту?",
+    "rawOptions": [
+      "Дисциплінарна відповідальність.",
+      "Соціальне страхування.",
+      "Матеріальне стимулювання.",
+      "Моральне стимулювання."
+    ],
+    "rawCorrectAnswer": 3,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Upravlinnya-ta-administruvannya-na_sajt.pdf",
+    "sourceFile": "data/raw/management/management-yefvv-2024.pdf",
+    "pageNumber": 8,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "management",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 42,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Що є об’єктом промислової власності?",
+    "rawOptions": [
+      "Винаходи, промислові зразки, корисні моделі, знаки для товарів і послуг.",
+      "Комп'ютерні програми, бази даних, твори у галузі науки, літератури та мистецтва.",
+      "Ноу-хау, комерційна таємниця, гудвіл.",
+      "Цінні папери, казначейські векселі, депозитні сертифікати."
+    ],
+    "rawCorrectAnswer": 0,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Upravlinnya-ta-administruvannya-na_sajt.pdf",
+    "sourceFile": "data/raw/management/management-yefvv-2024.pdf",
+    "pageNumber": 8,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "management",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 43,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Якій стратегії дій відповідає адаптація та виведення існуючих товарів на нові ринки за матрицею Ансоффа?",
+    "rawOptions": [
+      "Диверсифікації.",
+      "Проникнення на ринок.",
+      "Інтеграції.",
+      "Розвитку ринку."
+    ],
+    "rawCorrectAnswer": 3,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Upravlinnya-ta-administruvannya-na_sajt.pdf",
+    "sourceFile": "data/raw/management/management-yefvv-2024.pdf",
+    "pageNumber": 8,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "management",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 44,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Який план відображає поточну діяльність підприємства на рівні окремих структурних підрозділів?",
+    "rawOptions": [
+      "Матеріально-технічного забезпечення.",
+      "Операційний.",
+      "Фінансовий.",
+      "Поточний."
+    ],
+    "rawCorrectAnswer": 1,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Upravlinnya-ta-administruvannya-na_sajt.pdf",
+    "sourceFile": "data/raw/management/management-yefvv-2024.pdf",
+    "pageNumber": 8,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "management",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 45,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Який етап життєвого циклу товару характеризується значною кількістю конкурентів і замалою кількістю нових покупців?",
+    "rawOptions": [
+      "Впровадження.",
+      "Зростання.",
+      "Зрілість.",
+      "Занепад."
+    ],
+    "rawCorrectAnswer": 2,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Upravlinnya-ta-administruvannya-na_sajt.pdf",
+    "sourceFile": "data/raw/management/management-yefvv-2024.pdf",
+    "pageNumber": 8,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "management",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 46,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Суть якої функції підприємництва полягає у реалізації нових ідей, пов’язаних із господарським ризиком?",
+    "rawOptions": [
+      "Особистісної.",
+      "Управлінської.",
+      "Творчої.",
+      "Ризикової."
+    ],
+    "rawCorrectAnswer": 2,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Upravlinnya-ta-administruvannya-na_sajt.pdf",
+    "sourceFile": "data/raw/management/management-yefvv-2024.pdf",
+    "pageNumber": 8,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "management",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 47,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "До якої групи споживчих товарів належить спортивний автомобіль?",
+    "rawOptions": [
+      "Постійного попиту.",
+      "Пасивного попиту.",
+      "Особливого попиту.",
+      "Імпульсивної купівлі."
+    ],
+    "rawCorrectAnswer": 2,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Upravlinnya-ta-administruvannya-na_sajt.pdf",
+    "sourceFile": "data/raw/management/management-yefvv-2024.pdf",
+    "pageNumber": 9,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "management",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 48,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Який ступінь розвитку соціальної відповідальності бізнесу є загальнообов’язковим в умовах правової держави?",
+    "rawOptions": [
+      "Базовий ‒ дії, зумовлені виконанням законодавчо встановлених норм і правил.",
+      "Розширений ‒ дії є результатом вибору компанії з метою отримання економічних вигод.",
+      "Вищий ‒ дії, що мають характер свідомо прийнятих добровільних зобов’язань.",
+      "Розвинений ‒ дії, спрямовані на соціальний розвиток і показують міру відповідальності."
+    ],
+    "rawCorrectAnswer": 0,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Upravlinnya-ta-administruvannya-na_sajt.pdf",
+    "sourceFile": "data/raw/management/management-yefvv-2024.pdf",
+    "pageNumber": 9,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "management",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 49,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Яке з понять маркетингу відображає представлену на ринку потребу в товарах, підкріплену платоспроможністю?",
+    "rawOptions": [
+      "Насиченість ринку.",
+      "Попит.",
+      "Місткість ринку.",
+      "Пропозиція."
+    ],
+    "rawCorrectAnswer": 1,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Upravlinnya-ta-administruvannya-na_sajt.pdf",
+    "sourceFile": "data/raw/management/management-yefvv-2024.pdf",
+    "pageNumber": 9,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "management",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 50,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Інформація про нове призначення керівника відділу стала доступною без офіційного представлення. Яка перешкода у комунікаціях виникла?",
+    "rawOptions": [
+      "Шуми у комунікаціях.",
+      "Брак зворотного зв’язку.",
+      "Несанкціонований доступ до інформації.",
+      "Брак фільтрів."
+    ],
+    "rawCorrectAnswer": 2,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Upravlinnya-ta-administruvannya-na_sajt.pdf",
+    "sourceFile": "data/raw/management/management-yefvv-2024.pdf",
+    "pageNumber": 9,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "management",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 51,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Що являє собою дисконтування?",
+    "rawOptions": [
+      "Приведення майбутньої вартості грошей до теперішнього часу.",
+      "Приведення теперішньої вартості грошей до майбутнього часу.",
+      "Розрахунок знижки в ціні на сезонні товари.",
+      "Розрахунок надбавки в ціні на сезонні товари."
+    ],
+    "rawCorrectAnswer": 0,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Upravlinnya-ta-administruvannya-na_sajt.pdf",
+    "sourceFile": "data/raw/management/management-yefvv-2024.pdf",
+    "pageNumber": 9,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "management",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 52,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Який вид департаменталізації відображає процес розподілу організації на окремі елементи, кожен з яких має визначене, конкретне завдання та обов’язки?",
+    "rawOptions": [
+      "Функціональний.",
+      "Продуктовий.",
+      "Лінійно-функціональний.",
+      "Матричний."
+    ],
+    "rawCorrectAnswer": 0,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Upravlinnya-ta-administruvannya-na_sajt.pdf",
+    "sourceFile": "data/raw/management/management-yefvv-2024.pdf",
+    "pageNumber": 10,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "management",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 53,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Які мотиваційні потреби притаманні людям згідно із змістовою теорією Д. МакКлеланда?",
+    "rawOptions": [
+      "Влада, успіх і причетність.",
+      "Визнання, успіх і соціальні потреби.",
+      "Соціальні потреби та потреби безпеки.",
+      "Повага, самовираження, захист."
+    ],
+    "rawCorrectAnswer": 0,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Upravlinnya-ta-administruvannya-na_sajt.pdf",
+    "sourceFile": "data/raw/management/management-yefvv-2024.pdf",
+    "pageNumber": 10,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "management",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 54,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "У чому полягає зміст маркетингової стратегії «існуючий товар – новий ринок» за матрицею Ансоффа?",
+    "rawOptions": [
+      "Глибше проникнення на ринок.",
+      "Розширення меж ринку.",
+      "Виробництво товару.",
+      "Диверсифікація."
+    ],
+    "rawCorrectAnswer": 1,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Upravlinnya-ta-administruvannya-na_sajt.pdf",
+    "sourceFile": "data/raw/management/management-yefvv-2024.pdf",
+    "pageNumber": 10,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "management",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 55,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Яка з характеристик зовнішнього середовища відображає вплив зміни одного фактора на зміну стану всього середовища?",
+    "rawOptions": [
+      "Конкурентність.",
+      "Рухомість.",
+      "Взаєпов'язаність.",
+      "Невизначеність."
+    ],
+    "rawCorrectAnswer": 2,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Upravlinnya-ta-administruvannya-na_sajt.pdf",
+    "sourceFile": "data/raw/management/management-yefvv-2024.pdf",
+    "pageNumber": 10,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "management",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 56,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Яке значення коефіцієнта еластичності за ціною у мийного засобу марки «А», якщо попит на нього нееластичний?",
+    "rawOptions": [
+      "-1,5.",
+      "1,5.",
+      "-0,5.",
+      "0,5."
+    ],
+    "rawCorrectAnswer": 2,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Upravlinnya-ta-administruvannya-na_sajt.pdf",
+    "sourceFile": "data/raw/management/management-yefvv-2024.pdf",
+    "pageNumber": 10,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "management",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 57,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "В якому звітному документі підприємства відображено поточну заборгованість з податку на прибуток як джерело формування майна підприємницької діяльності?",
+    "rawOptions": [
+      "Звіт про власний капітал.",
+      "Баланс (Звіт про фінансовий стан).",
+      "Звіт про фінансові результати.",
+      "Звіт про рух грошових коштів."
+    ],
+    "rawCorrectAnswer": 1,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Upravlinnya-ta-administruvannya-na_sajt.pdf",
+    "sourceFile": "data/raw/management/management-yefvv-2024.pdf",
+    "pageNumber": 10,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "management",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 58,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Під час якого процесу аналізують схему споживчих преференцій?",
+    "rawOptions": [
+      "Ринкового позиціонування.",
+      "Виокремлення сегментів ринку.",
+      "PEST-аналізу.",
+      "Ринкового таргетування."
+    ],
+    "rawCorrectAnswer": 0,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Upravlinnya-ta-administruvannya-na_sajt.pdf",
+    "sourceFile": "data/raw/management/management-yefvv-2024.pdf",
+    "pageNumber": 11,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "management",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 59,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Що таке NPV у проєктному управлінні?",
+    "rawOptions": [
+      "Нормативна вартість проєкту.",
+      "Чиста приведена вартість.",
+      "Номер проєкту в порядку виконання.",
+      "Індекс прибутковості проєкту."
+    ],
+    "rawCorrectAnswer": 1,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Upravlinnya-ta-administruvannya-na_sajt.pdf",
+    "sourceFile": "data/raw/management/management-yefvv-2024.pdf",
+    "pageNumber": 11,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "management",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 60,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Яку інформацію містить бізнес-план інтернет-магазину?",
+    "rawOptions": [
+      "Розклад робочого дня працівників.",
+      "Посадові інструкції працівників.",
+      "План ведення обліку фінансів.",
+      "Стратегію просування."
+    ],
+    "rawCorrectAnswer": 3,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Upravlinnya-ta-administruvannya-na_sajt.pdf",
+    "sourceFile": "data/raw/management/management-yefvv-2024.pdf",
+    "pageNumber": 11,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "management",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 61,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Який різновид ціноутворення використовує компанія, призначаючи єдину ціну для всіх клієнтів із урахуванням середніх витрат на транспортування товару, незалежно від місць їх розташування?",
+    "rawOptions": [
+      "Географічний принцип.",
+      "Використання умов поставки FOB.",
+      "Зональне.",
+      "Встановлення ціни щодо єдиного базисного пункту."
+    ],
+    "rawCorrectAnswer": 0,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Upravlinnya-ta-administruvannya-na_sajt.pdf",
+    "sourceFile": "data/raw/management/management-yefvv-2024.pdf",
+    "pageNumber": 11,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "management",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 62,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Підприємство отримало 200 тис. грн прибутку за рівня рентабельності 25%. Який обсяг витрат підприємства?",
+    "rawOptions": [
+      "50 тис. грн.",
+      "150 тис. грн.",
+      "250 тис. грн.",
+      "800 тис. грн."
+    ],
+    "rawCorrectAnswer": 3,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Upravlinnya-ta-administruvannya-na_sajt.pdf",
+    "sourceFile": "data/raw/management/management-yefvv-2024.pdf",
+    "pageNumber": 11,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "management",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 63,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Який принцип ціноутворення в рамках товарної номенклатури застосовує компанія, реалізуючи недорогі станки для гоління і дорогі змінні леза до них, продаж яких забезпечує її основні прибутки?",
+    "rawOptions": [
+      "Встановлення цін на обов’язкові предмети.",
+      "Встановлення цін на супутні товари.",
+      "Встановлення цін на побічні продукти виробника.",
+      "Встановлення цін на товарні набори."
+    ],
+    "rawCorrectAnswer": 0,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Upravlinnya-ta-administruvannya-na_sajt.pdf",
+    "sourceFile": "data/raw/management/management-yefvv-2024.pdf",
+    "pageNumber": 11,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "management",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 64,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Яким підходом до прийняття управлінського рішення скористався директор підприємства, досліджуючи взаємозв’язок проблем енергозабезпечення підприємства в зимовий період?",
+    "rawOptions": [
+      "Комплексним.",
+      "Системним.",
+      "Експериментальним.",
+      "Моделювання."
+    ],
+    "rawCorrectAnswer": 0,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Upravlinnya-ta-administruvannya-na_sajt.pdf",
+    "sourceFile": "data/raw/management/management-yefvv-2024.pdf",
+    "pageNumber": 12,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "management",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 65,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Керуючись етичними міркуваннями захисту довкілля, керівник прийняв управлінське рішення перейти на використання ресурсоощадних екологічних технологій, наслідками якого є збільшення витрат і втрата споживачів. Який чинник вплинув на прийняття такого управлінського рішення?",
+    "rawOptions": [
+      "Особистісні оцінки керівника.",
+      "Зовнішнє середовище, що змінюється.",
+      "Інформаційні обмеження.",
+      "Негативні наслідки рішення."
+    ],
+    "rawCorrectAnswer": 0,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Upravlinnya-ta-administruvannya-na_sajt.pdf",
+    "sourceFile": "data/raw/management/management-yefvv-2024.pdf",
+    "pageNumber": 12,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "management",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 66,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "На якому етапі життєвого циклу товару компанія має найвищі витрати в розрахунку на покупця?",
+    "rawOptions": [
+      "Впровадження.",
+      "Зростання.",
+      "Зрілість.",
+      "Спад."
+    ],
+    "rawCorrectAnswer": 0,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Upravlinnya-ta-administruvannya-na_sajt.pdf",
+    "sourceFile": "data/raw/management/management-yefvv-2024.pdf",
+    "pageNumber": 12,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "management",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 67,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Які витрати характеризує собівартість товарної продукції?",
+    "rawOptions": [
+      "На виробництво і реалізацію продукції, що перебуває на всіх стадіях виробничого циклу.",
+      "На виробництво і збут, понесені підприємством-виробником.",
+      "На виробництво продукції, понесені підприємством-виробником.",
+      "На виробництво та/або придбання реалізованих протягом звітного періоду товарів."
+    ],
+    "rawCorrectAnswer": 2,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Upravlinnya-ta-administruvannya-na_sajt.pdf",
+    "sourceFile": "data/raw/management/management-yefvv-2024.pdf",
+    "pageNumber": 12,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "management",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 68,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Яка складова належить до внутрішнього середовища підприємства?",
+    "rawOptions": [
+      "Попит на продукцію.",
+      "Кваліфікація персоналу.",
+      "Ціна на сировину.",
+      "Політична нестабільність."
+    ],
+    "rawCorrectAnswer": 1,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Upravlinnya-ta-administruvannya-na_sajt.pdf",
+    "sourceFile": "data/raw/management/management-yefvv-2024.pdf",
+    "pageNumber": 12,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "management",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 69,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Різновидом якого виду підприємств є суб’єкт господарювання, що здійснює спільну підприємницьку діяльність?",
+    "rawOptions": [
+      "Змішане.",
+      "Іноземне.",
+      "Закордонне.",
+      "Національне."
+    ],
+    "rawCorrectAnswer": 0,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Upravlinnya-ta-administruvannya-na_sajt.pdf",
+    "sourceFile": "data/raw/management/management-yefvv-2024.pdf",
+    "pageNumber": 12,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "management",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 70,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Для якого з наведених нижче товарів виробнику доцільно обрати канал розподілу «виробник ‒ оптовий посередник – споживач»?",
+    "rawOptions": [
+      "Цукерки ручної роботи.",
+      "Вантажні автомобілі.",
+      "арчові продукти нетривалого зберігання.",
+      "Меблі для дому на замовлення."
+    ],
+    "rawCorrectAnswer": 1,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Upravlinnya-ta-administruvannya-na_sajt.pdf",
+    "sourceFile": "data/raw/management/management-yefvv-2024.pdf",
+    "pageNumber": 13,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "management",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 71,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Невід’ємною частиною якого елемента товару є марковання?",
+    "rawOptions": [
+      "Упаковання.",
+      "Торгової марки.",
+      "Дизайну.",
+      "Ціни."
+    ],
+    "rawCorrectAnswer": 0,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Upravlinnya-ta-administruvannya-na_sajt.pdf",
+    "sourceFile": "data/raw/management/management-yefvv-2024.pdf",
+    "pageNumber": 13,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "management",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 72,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Оберіть варіант, який містить виключно перелік факторів макромаркетингового середовища підприємства за Ф. Котлером.",
+    "rawOptions": [
+      "Політичні, природні, культурні.",
+      "Демографічні, фізичні, економічні.",
+      "Політичні, природні, етнологічні.",
+      "Економічні, демографічні, соціологічні."
+    ],
+    "rawCorrectAnswer": 0,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Upravlinnya-ta-administruvannya-na_sajt.pdf",
+    "sourceFile": "data/raw/management/management-yefvv-2024.pdf",
+    "pageNumber": 13,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "management",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 73,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Оберіть твердження, яке відображає особливість реальних інвестицій.",
+    "rawOptions": [
+      "Основний засіб зовнішнього інвестування.",
+      "Відсутність ризиків морального старіння.",
+      "Тісний зв'язок з операційною діяльністю.",
+      "Низький рівень захисту від інфляції."
+    ],
+    "rawCorrectAnswer": 2,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Upravlinnya-ta-administruvannya-na_sajt.pdf",
+    "sourceFile": "data/raw/management/management-yefvv-2024.pdf",
+    "pageNumber": 13,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "management",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 74,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "На якому принципі має базуватися підприємницька ідея?",
+    "rawOptions": [
+      "Задовольнити потребу ринку з метою отримання прибутку.",
+      "Прийняття рішення про створення власної справи.",
+      "Відчути необхідність зародження нового бізнесу.",
+      "Задовольнити власні потреби компанії."
+    ],
+    "rawCorrectAnswer": 0,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Upravlinnya-ta-administruvannya-na_sajt.pdf",
+    "sourceFile": "data/raw/management/management-yefvv-2024.pdf",
+    "pageNumber": 13,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "management",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 75,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "На рисунку наведено графік беззбитковості та цільового прибутку. Яку мінімальну кількість товарів (од.) має продати підприємство, щоб досягти рівня беззбитковості, якщо ціна за одиницю товару фіксована?",
+    "rawOptions": [
+      "500.",
+      "250.",
+      "600.",
+      "700."
+    ],
+    "rawCorrectAnswer": 0,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Upravlinnya-ta-administruvannya-na_sajt.pdf",
+    "sourceFile": "data/raw/management/management-yefvv-2024.pdf",
+    "pageNumber": 13,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "management",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 76,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Який вид аналізу ринкового середовища дає змогу сформувати оптимальну маркетингову стратегію фірми?",
+    "rawOptions": [
+      "SMART.",
+      "Економічний.",
+      "SWOT.",
+      "Функціонально-вартісний."
+    ],
+    "rawCorrectAnswer": 2,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Upravlinnya-ta-administruvannya-na_sajt.pdf",
+    "sourceFile": "data/raw/management/management-yefvv-2024.pdf",
+    "pageNumber": 14,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "management",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 77,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Який нормативно-правовий акт встановлює правові основи господарської діяльності в Україні?",
+    "rawOptions": [
+      "Цивільний кодекс України.",
+      "Господарський кодекс України.",
+      "Митний кодекс України.",
+      "Податковий кодекс України."
+    ],
+    "rawCorrectAnswer": 1,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Upravlinnya-ta-administruvannya-na_sajt.pdf",
+    "sourceFile": "data/raw/management/management-yefvv-2024.pdf",
+    "pageNumber": 14,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "management",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 78,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Яка трудомісткість виготовленої продукції, якщо загальний випуск підприємства становив 1500 тис. грн, а річний фонд робочого часу ‒ 1860 годин?",
+    "rawOptions": [
+      "1,53 год/ грн.",
+      "0,81 год/ тис. грн.",
+      "1,24 год/ тис. грн.",
+      "1,4 год/ грн."
+    ],
+    "rawCorrectAnswer": 2,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Upravlinnya-ta-administruvannya-na_sajt.pdf",
+    "sourceFile": "data/raw/management/management-yefvv-2024.pdf",
+    "pageNumber": 14,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "management",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 79,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Що таке управлінське рішення?",
+    "rawOptions": [
+      "Вибір альтернативи.",
+      "Аналіз проблеми.",
+      "Передача інформації.",
+      "Делегування задачі."
+    ],
+    "rawCorrectAnswer": 0,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Upravlinnya-ta-administruvannya-na_sajt.pdf",
+    "sourceFile": "data/raw/management/management-yefvv-2024.pdf",
+    "pageNumber": 15,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "management",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 80,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Що НЕ є метою діяльності некомерційного підприємства?",
+    "rawOptions": [
+      "Економічний результат.",
+      "Соціальний ефект.",
+      "Отримання прибутку.",
+      "Громадська діяльність."
+    ],
+    "rawCorrectAnswer": 2,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Upravlinnya-ta-administruvannya-na_sajt.pdf",
+    "sourceFile": "data/raw/management/management-yefvv-2024.pdf",
+    "pageNumber": 15,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "management",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 81,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Який кількісний метод прогнозування продажів товарів використовує компанія у бізнес-плані, якщо прогноз базується на історичних статистичних даних?",
+    "rawOptions": [
+      "Аналіз часових рядів.",
+      "Дельфійський метод.",
+      "Асоціативна модель.",
+      "Модель очікування споживачів."
+    ],
+    "rawCorrectAnswer": 0,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Upravlinnya-ta-administruvannya-na_sajt.pdf",
+    "sourceFile": "data/raw/management/management-yefvv-2024.pdf",
+    "pageNumber": 15,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "management",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 82,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Що являє собою влада в менеджменті?",
+    "rawOptions": [
+      "Будь-яка поведінка однієї особи, яка вносить зміни у поведінку, почуття іншої особи.",
+      "Розумовий і фізичний процес, результатом якого є виконання підлеглими офіційних доручень.",
+      "Право керівників контролювати особисті інтереси підлеглих.",
+      "Можливість впливати на поведінку інших осіб та змінювати її у визначеному напрямі."
+    ],
+    "rawCorrectAnswer": 3,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Upravlinnya-ta-administruvannya-na_sajt.pdf",
+    "sourceFile": "data/raw/management/management-yefvv-2024.pdf",
+    "pageNumber": 15,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "management",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 83,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Недоліком якої організаційної структури управління є порушення принципу єдиноначальності?",
+    "rawOptions": [
+      "Лінійної.",
+      "Лінійно-функціональної.",
+      "Функціональної.",
+      "Дивізіональної."
+    ],
+    "rawCorrectAnswer": 2,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Upravlinnya-ta-administruvannya-na_sajt.pdf",
+    "sourceFile": "data/raw/management/management-yefvv-2024.pdf",
+    "pageNumber": 15,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "management",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 84,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Який метод маркетингового ціноутворення ґрунтується на аналізі беззбитковості?",
+    "rawOptions": [
+      "Забезпечення цільового прибутку.",
+      "Відчутної цінності товару.",
+      "На основі рівня поточних цін.",
+      "«Середні витрати плюс прибуток»."
+    ],
+    "rawCorrectAnswer": 0,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Upravlinnya-ta-administruvannya-na_sajt.pdf",
+    "sourceFile": "data/raw/management/management-yefvv-2024.pdf",
+    "pageNumber": 15,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "management",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 85,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Який фактор маркетингового середовища аналізує підприємство, досліджуючи цінності у суспільстві?",
+    "rawOptions": [
+      "Політичний.",
+      "Економічний.",
+      "Демографічний.",
+      "Культурний."
+    ],
+    "rawCorrectAnswer": 3,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Upravlinnya-ta-administruvannya-na_sajt.pdf",
+    "sourceFile": "data/raw/management/management-yefvv-2024.pdf",
+    "pageNumber": 16,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "management",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 86,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Яка основна мета функціонування біржі праці?",
+    "rawOptions": [
+      "Підвищення рівня добробуту робітників і роботодавців через задоволення потреб.",
+      "Створення передумов для забезпечення трудових ресурсів привабливою роботою.",
+      "Забезпечення в економічній системі максимального рівня зайнятості трудових ресурсів.",
+      "Надання посередницьких послуг з працевлаштування на ринку праці."
+    ],
+    "rawCorrectAnswer": 3,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Upravlinnya-ta-administruvannya-na_sajt.pdf",
+    "sourceFile": "data/raw/management/management-yefvv-2024.pdf",
+    "pageNumber": 16,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "management",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 87,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Які показники характеризують товарну номенклатуру?",
+    "rawOptions": [
+      "Постійність, глибина.",
+      "Гармонійність, насиченість.",
+      "Пропорційність, ширина.",
+      "Комплексність, новизна."
+    ],
+    "rawCorrectAnswer": 1,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Upravlinnya-ta-administruvannya-na_sajt.pdf",
+    "sourceFile": "data/raw/management/management-yefvv-2024.pdf",
+    "pageNumber": 16,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "management",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 88,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Що являє собою функція менеджменту «організування»?",
+    "rawOptions": [
+      "Процес створення структури організації, що дає змогу людям працювати разом задля досягнення її цілей.",
+      "Процес формування структурних зв’язків всередині колективу організації з метою досягнення його цілей.",
+      "Процес оптимізації взаємовідносин між працівниками організації з метою поліпшення їх взаємодії.",
+      "Процес визначення норм і процедур керованості всередині організації задля досягнення її цілей."
+    ],
+    "rawCorrectAnswer": 0,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Upravlinnya-ta-administruvannya-na_sajt.pdf",
+    "sourceFile": "data/raw/management/management-yefvv-2024.pdf",
+    "pageNumber": 16,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "management",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 89,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "За якою матрицею оцінюється макросередовище функціонування організації?",
+    "rawOptions": [
+      "General Eleсtric.",
+      "Boston Consulting Group.",
+      "PEST.",
+      "McKinsey."
+    ],
+    "rawCorrectAnswer": 2,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Upravlinnya-ta-administruvannya-na_sajt.pdf",
+    "sourceFile": "data/raw/management/management-yefvv-2024.pdf",
+    "pageNumber": 16,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "management",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 90,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "До якого виду належить інформація щодо обсягів сировини для виробництва продукції?",
+    "rawOptions": [
+      "Масової.",
+      "Управлінської.",
+      "Облікової.",
+      "Звітної."
+    ],
+    "rawCorrectAnswer": 1,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Upravlinnya-ta-administruvannya-na_sajt.pdf",
+    "sourceFile": "data/raw/management/management-yefvv-2024.pdf",
+    "pageNumber": 17,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "management",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 91,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Який вид вартості використовують для розрахунку рентабельності основних засобів?",
+    "rawOptions": [
+      "Середньорічну.",
+      "Балансову.",
+      "Залишкову.",
+      "Первісну."
+    ],
+    "rawCorrectAnswer": 0,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Upravlinnya-ta-administruvannya-na_sajt.pdf",
+    "sourceFile": "data/raw/management/management-yefvv-2024.pdf",
+    "pageNumber": 17,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "management",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 92,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Що належить до об’єктів авторського права та суміжних прав?",
+    "rawOptions": [
+      "Винаходи, промислові зразки, корисні моделі, знаки для товарів і послуг.",
+      "Комп'ютерні програми, бази даних, твори у галузі науки, літератури та мистецтва.",
+      "Ноу-хау, комерційна таємниця, гудвіл.",
+      "Цінні папери, казначейські векселі, депозитні сертифікати."
+    ],
+    "rawCorrectAnswer": 1,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Upravlinnya-ta-administruvannya-na_sajt.pdf",
+    "sourceFile": "data/raw/management/management-yefvv-2024.pdf",
+    "pageNumber": 17,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "management",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 93,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Який фактор, за теорією Фредерика Герцберга, мотивує працівника до високої продуктивності (результативності) праці?",
+    "rawOptions": [
+      "Окремий кабінет зі зручним робочим місцем і зоною відпочинку.",
+      "Поліс страхування життя коштом компанії.",
+      "Прозора система переходу на наступний посадовий рівень.",
+      "Висока заробітна плата порівняно зі середнім значенням у цій професійній сфері."
+    ],
+    "rawCorrectAnswer": 2,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Upravlinnya-ta-administruvannya-na_sajt.pdf",
+    "sourceFile": "data/raw/management/management-yefvv-2024.pdf",
+    "pageNumber": 17,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "management",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 94,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Що покладено в основу поведінкового підходу в теорії лідерства?",
+    "rawOptions": [
+      "Сукупність особистих якостей керівника.",
+      "Стиль поводження керівника зі своїми підлеглими.",
+      "Конкретна ситуація, що вимагає певного засобу впливу.",
+      "Урахування мінливих змінних для вибору засобу впливу."
+    ],
+    "rawCorrectAnswer": 1,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Upravlinnya-ta-administruvannya-na_sajt.pdf",
+    "sourceFile": "data/raw/management/management-yefvv-2024.pdf",
+    "pageNumber": 17,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "management",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 95,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Який елемент комплексу маркетингових комунікацій має суспільну форму звернення та створює позитивний імідж бренду?",
+    "rawOptions": [
+      "Нативна реклама.",
+      "Реклама на телебаченні.",
+      "Зв’язки з громадськістю.",
+      "Спонсорство спортивних подій."
+    ],
+    "rawCorrectAnswer": 2,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Upravlinnya-ta-administruvannya-na_sajt.pdf",
+    "sourceFile": "data/raw/management/management-yefvv-2024.pdf",
+    "pageNumber": 17,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "management",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 96,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Через вплив якого чинника знижується прибуток на етапі зрілості продукту?",
+    "rawOptions": [
+      "Зменшення кількості конкурентів.",
+      "Збільшення витрат виробництва.",
+      "Посилення цінової конкуренції.",
+      "Зменшення кількості покупців."
+    ],
+    "rawCorrectAnswer": 2,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Upravlinnya-ta-administruvannya-na_sajt.pdf",
+    "sourceFile": "data/raw/management/management-yefvv-2024.pdf",
+    "pageNumber": 17,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "management",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 97,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Який вид підприємства є відокремленим підрозділом юридичної особи, розташований поза її місцезнаходженням та не має юридичної самостійності?",
+    "rawOptions": [
+      "Філія.",
+      "Дочірнє.",
+      "Асоційоване.",
+      "Материнське."
+    ],
+    "rawCorrectAnswer": 0,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Upravlinnya-ta-administruvannya-na_sajt.pdf",
+    "sourceFile": "data/raw/management/management-yefvv-2024.pdf",
+    "pageNumber": 18,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "management",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 98,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Що є загальним критерієм ефективності організаційного рішення?",
+    "rawOptions": [
+      "Забезпечення досягнення цілей організації.",
+      "Відсутність негативних наслідків.",
+      "Ступінь популярності.",
+      "Сума витрат на реалізацію."
+    ],
+    "rawCorrectAnswer": 0,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Upravlinnya-ta-administruvannya-na_sajt.pdf",
+    "sourceFile": "data/raw/management/management-yefvv-2024.pdf",
+    "pageNumber": 18,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "management",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 99,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Яка функція посередника у каналі розподілу?",
+    "rawOptions": [
+      "Визначення ціни на товар.",
+      "Забезпечення ланцюга постачання від виробника до споживача.",
+      "Розроблення рекламної стратегії.",
+      "Надання гарантії на товар."
+    ],
+    "rawCorrectAnswer": 1,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Upravlinnya-ta-administruvannya-na_sajt.pdf",
+    "sourceFile": "data/raw/management/management-yefvv-2024.pdf",
+    "pageNumber": 18,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "management",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 100,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Яку систему оплати праці слід застосувати для працівників, результати праці яких неможливо нормувати з метою стимулювання якісного виконання ними обов’язків?",
+    "rawOptions": [
+      "Пряму відрядну.",
+      "Відрядно-преміальну.",
+      "Погодинну.",
+      "Погодинно-преміальну."
+    ],
+    "rawCorrectAnswer": 3,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Upravlinnya-ta-administruvannya-na_sajt.pdf",
+    "sourceFile": "data/raw/management/management-yefvv-2024.pdf",
+    "pageNumber": 18,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "management",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 101,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Які ключові процеси характеризують утворення та функціонування акціонерного підприємства?",
+    "rawOptions": [
+      "Визначення кількості акцій, виникнення корпоративних прав, колективний розподіл прибутку.",
+      "Визначення номінальної вартості акцій, корпоративні зобов’язання.",
+      "Формування статутного капіталу, управління діяльністю підприємства, солідарна відповідальність за зобов’язаннями.",
+      "Формування складу акціонерів, розподіл корпоративних прав, відповідальність за зобов’язаннями компанії."
+    ],
+    "rawCorrectAnswer": 2,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Upravlinnya-ta-administruvannya-na_sajt.pdf",
+    "sourceFile": "data/raw/management/management-yefvv-2024.pdf",
+    "pageNumber": 18,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "management",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 102,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Яку складову комплексу маркетингових комунікацій активно застосовують на етапі занепаду життєвого циклу товару за різкого скорочення інших складових?",
+    "rawOptions": [
+      "Прямий маркетинг.",
+      "Стимулювання збуту.",
+      "Особисті продажі.",
+      "Зв’язки з громадськістю."
+    ],
+    "rawCorrectAnswer": 1,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Upravlinnya-ta-administruvannya-na_sajt.pdf",
+    "sourceFile": "data/raw/management/management-yefvv-2024.pdf",
+    "pageNumber": 19,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "management",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 103,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Яка концепція управління маркетингом ґрунтується на тому, що запорукою досягнення цілей підприємства є визначення потреб споживачів та їх задоволення ефективнішими, порівняно з конкурентами, методами з урахуванням інтересів усіх членів суспільства?",
+    "rawOptions": [
+      "Концепція маркетингу.",
+      "Удосконалення товару.",
+      "Інтенсифікація комерційних зусиль.",
+      "Соціально-етичний маркетинг."
+    ],
+    "rawCorrectAnswer": 3,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Upravlinnya-ta-administruvannya-na_sajt.pdf",
+    "sourceFile": "data/raw/management/management-yefvv-2024.pdf",
+    "pageNumber": 19,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "management",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 104,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Що означає поняття «ROI» в контексті планування бізнесу?",
+    "rawOptions": [
+      "Рентабельність інвестицій.",
+      "Рентабельність операцій.",
+      "Ринкова оцінка інновацій.",
+      "Розробка офісної інфраструктури."
+    ],
+    "rawCorrectAnswer": 0,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Upravlinnya-ta-administruvannya-na_sajt.pdf",
+    "sourceFile": "data/raw/management/management-yefvv-2024.pdf",
+    "pageNumber": 19,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "management",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 105,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Який вид виробничого підприємництва характеризується виробництвом товарів у невеликих обсягах та часто на замовлення?",
+    "rawOptions": [
+      "Серійний.",
+      "Масовий.",
+      "Спеціалізований.",
+      "Ексклюзивний."
+    ],
+    "rawCorrectAnswer": 2,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Upravlinnya-ta-administruvannya-na_sajt.pdf",
+    "sourceFile": "data/raw/management/management-yefvv-2024.pdf",
+    "pageNumber": 19,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "management",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 106,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Які показники є основними для розрахунку чистого прибутку підприємства?",
+    "rawOptions": [
+      "Валовий прибуток, собівартість продукції, податок на прибуток.",
+      "Чистий грошовий потік, ціна продукції (послуг), основні засоби.",
+      "Статутний капітал, фінансові інвестиції, виробничі витрати.",
+      "Залишки продукції, зобов’язання, податок на додану вартість."
+    ],
+    "rawCorrectAnswer": 0,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Upravlinnya-ta-administruvannya-na_sajt.pdf",
+    "sourceFile": "data/raw/management/management-yefvv-2024.pdf",
+    "pageNumber": 19,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "management",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 107,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "До якої категорії персоналу за характером виконуваних функцій належить адміністратор підприємства?",
+    "rawOptions": [
+      "Професіонал.",
+      "Фахівець.",
+      "Службовець.",
+      "Менеджер."
+    ],
+    "rawCorrectAnswer": 1,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Upravlinnya-ta-administruvannya-na_sajt.pdf",
+    "sourceFile": "data/raw/management/management-yefvv-2024.pdf",
+    "pageNumber": 19,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "management",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 108,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Що з переліченого НЕ належить до основних засобів?",
+    "rawOptions": [
+      "Плодоносні рослини.",
+      "Бібліотечні фонди.",
+      "Трудові ресурси.",
+      "Предмети прокату."
+    ],
+    "rawCorrectAnswer": 2,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Upravlinnya-ta-administruvannya-na_sajt.pdf",
+    "sourceFile": "data/raw/management/management-yefvv-2024.pdf",
+    "pageNumber": 20,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "management",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 109,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Оберіть визначення сутності стратегічного планування.",
+    "rawOptions": [
+      "Розроблення ефективних стратегій організації, зокрема короткострокових стратегій, а також планування ресурсів для їх реалізації.",
+      "Процес вибору цілей організації та рішення про те, що потрібно виконати працівникам організації для їх досягнення.",
+      "Планування реалізації стратегії організації, зокрема розроблення бюджету стратегії.",
+      "Встановлення стратегічних цілей, розроблення стратегій їх досягнення та застосування способів ефективної реалізації стратегій."
+    ],
+    "rawCorrectAnswer": 1,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Upravlinnya-ta-administruvannya-na_sajt.pdf",
+    "sourceFile": "data/raw/management/management-yefvv-2024.pdf",
+    "pageNumber": 20,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "management",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 110,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Яке з тверджень описує показник рентабельності інвестицій Return of Investment (ROI)?",
+    "rawOptions": [
+      "Вартість сукупних інвестицій у проєкт.",
+      "Відношення прибутку до суми інвестицій.",
+      "Період окупності проєкту.",
+      "Ризик неповернення інвестицій."
+    ],
+    "rawCorrectAnswer": 1,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Upravlinnya-ta-administruvannya-na_sajt.pdf",
+    "sourceFile": "data/raw/management/management-yefvv-2024.pdf",
+    "pageNumber": 20,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "management",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 111,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "У межах якої функції менеджменту директор приймає і реалізує рішення щодо реорганізації відділу маркетингу в організації?",
+    "rawOptions": [
+      "Планування.",
+      "Організування.",
+      "Мотивування.",
+      "Контролювання."
+    ],
+    "rawCorrectAnswer": 1,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Upravlinnya-ta-administruvannya-na_sajt.pdf",
+    "sourceFile": "data/raw/management/management-yefvv-2024.pdf",
+    "pageNumber": 20,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "management",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 112,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Яка основна мета створення Єдиного державного реєстру юридичних осіб, фізичних осіб-підприємців і громадських формувань?",
+    "rawOptions": [
+      "Ведення податкового обліку юридичних і фізичних осіб.",
+      "Збір, накопичення, обробка, захист, облік та надання інформації про юридичних і фізичних осіб.",
+      "Ведення управлінського та фінансового обліку юридичних і фізичних осіб.",
+      "Врегулювання відносин між суб’єктами господарювання."
+    ],
+    "rawCorrectAnswer": 1,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Upravlinnya-ta-administruvannya-na_sajt.pdf",
+    "sourceFile": "data/raw/management/management-yefvv-2024.pdf",
+    "pageNumber": 20,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "management",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 113,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "На які види розподіляється управлінська відповідальність з позиції делегування повноважень?",
+    "rawOptions": [
+      "Загальна та часткова.",
+      "Організаційна та індивідуальна.",
+      "Визначена та невизначена.",
+      "Колективна та персональна."
+    ],
+    "rawCorrectAnswer": 0,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Upravlinnya-ta-administruvannya-na_sajt.pdf",
+    "sourceFile": "data/raw/management/management-yefvv-2024.pdf",
+    "pageNumber": 20,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "management",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 114,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "За яким критерієм підприємства поділяють на приватні, колективні, комунальні, державні та засновані на змішаній формі власності?",
+    "rawOptions": [
+      "Кількість засновників.",
+      "Національна належність капіталу.",
+      "Принцип розподілу прибутку.",
+      "Форма власності майна."
+    ],
+    "rawCorrectAnswer": 3,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Upravlinnya-ta-administruvannya-na_sajt.pdf",
+    "sourceFile": "data/raw/management/management-yefvv-2024.pdf",
+    "pageNumber": 21,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "management",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 115,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Що з переліченого НЕ є етапом проєктування організаційної структури?",
+    "rawOptions": [
+      "Поділ організації на блоки на горизонтальному рівні.",
+      "Визначення співвідношення повноважень різних посад.",
+      "Розроблення органіграми організаційної структури управління.",
+      "Визначення посадових обов'язків."
+    ],
+    "rawCorrectAnswer": 2,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Upravlinnya-ta-administruvannya-na_sajt.pdf",
+    "sourceFile": "data/raw/management/management-yefvv-2024.pdf",
+    "pageNumber": 21,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "management",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 116,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Яке рішення доцільно ухвалити, якщо в процесі контролю виявилося, що цех може випустити на 15% більше продукції, ніж було заплановано у стандарті на першому етапі контролювання, при цьому попит на ринку перевищує пропозицію?",
+    "rawOptions": [
+      "Залишити стандарт таким самим, адже, прийнятий один раз, він не змінюється.",
+      "Підвищити рівень стандарту до можливого рівня.",
+      "Підвищити рівень стандарту набагато більше. Недосяжний рівень мотивує співробітників працювати ще краще.",
+      "Зменшити рівень стандарту. Плани мають якомога більше перевиконуватися."
+    ],
+    "rawCorrectAnswer": 1,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Upravlinnya-ta-administruvannya-na_sajt.pdf",
+    "sourceFile": "data/raw/management/management-yefvv-2024.pdf",
+    "pageNumber": 21,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "management",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 117,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Яке завдання в організації можна виконати за допомогою планування?",
+    "rawOptions": [
+      "Окреслювати цілі організації та забезпечувати єдиний напрям зусиль персоналу для їх досягнення.",
+      "Постійно координувати роботу персоналу для досягнення цілей організації.",
+      "Вчасно коригувати робочі процеси для досягнення цілей організації.",
+      "Забезпечувати ефективне мотивування персоналу для реалізації цілей організації."
+    ],
+    "rawCorrectAnswer": 0,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Upravlinnya-ta-administruvannya-na_sajt.pdf",
+    "sourceFile": "data/raw/management/management-yefvv-2024.pdf",
+    "pageNumber": 21,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "management",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 118,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Керівник під час презентації проєкту використовував вузькоспеціалізовані технічні терміни. Як результат, члени команди відчували стрес через неспроможність зрозуміти важливу інформацію, що спричинило затримку реалізації проєкту. На якому етапі комунікаційного процесу відбувся збій?",
+    "rawOptions": [
+      "Формулювання повідомлення відправником.",
+      "Кодування повідомлення.",
+      "Вибір каналу комунікації.",
+      "Декодування інформації одержувачами."
+    ],
+    "rawCorrectAnswer": 3,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Upravlinnya-ta-administruvannya-na_sajt.pdf",
+    "sourceFile": "data/raw/management/management-yefvv-2024.pdf",
+    "pageNumber": 21,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "management",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 119,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Який різновид маркетингу за типом попиту використовують, якщо на упаковках цигарок друкується повідомлення про шкідливість здоров’ю?",
+    "rawOptions": [
+      "Демаркетинг.",
+      "Протидіючий.",
+      "Конверсійний.",
+      "Синхромаркетинг."
+    ],
+    "rawCorrectAnswer": 1,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Upravlinnya-ta-administruvannya-na_sajt.pdf",
+    "sourceFile": "data/raw/management/management-yefvv-2024.pdf",
+    "pageNumber": 22,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "management",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 120,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Дослідження якої міжнародної консалтингової компанії з «великої трійки» може бути джерелом інформації для виконання завдань стратегічного управління під час розробки бізнес-плану?",
+    "rawOptions": [
+      "McKinsey & Company.",
+      "Genisis.",
+      "Statista.",
+      "Google Trends."
+    ],
+    "rawCorrectAnswer": 0,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Upravlinnya-ta-administruvannya-na_sajt.pdf",
+    "sourceFile": "data/raw/management/management-yefvv-2024.pdf",
+    "pageNumber": 22,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "management",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 121,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Що характерно для стратегії інтенсивного маркетингу у разі виведення на ринок нового товару?",
+    "rawOptions": [
+      "Високі ціни і великі витрати на стимулювання збуту.",
+      "Високі ціни і низькі витрати на стимулювання збуту.",
+      "Низькі ціни і великі витрати на стимулювання збуту.",
+      "Низькі ціни і низькі витрати на стимулювання збуту."
+    ],
+    "rawCorrectAnswer": 0,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Upravlinnya-ta-administruvannya-na_sajt.pdf",
+    "sourceFile": "data/raw/management/management-yefvv-2024.pdf",
+    "pageNumber": 22,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "management",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 122,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Що є вихідним етапом процесу маркетингового ціноутворення?",
+    "rawOptions": [
+      "Розрахунок витрат на виробництво та реалізацію продукції.",
+      "Визначення цілей ціноутворення.",
+      "Аналіз цін і товарів конкурентів.",
+      "Дослідження ринкової кон’юнктури."
+    ],
+    "rawCorrectAnswer": 1,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Upravlinnya-ta-administruvannya-na_sajt.pdf",
+    "sourceFile": "data/raw/management/management-yefvv-2024.pdf",
+    "pageNumber": 22,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "management",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 123,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "До якого наслідку можуть призвести шуми у комунікаціях?",
+    "rawOptions": [
+      "Розголошення інформації.",
+      "Втрата інформації.",
+      "Спотворення інформації.",
+      "Несанкціонований доступ до інформації."
+    ],
+    "rawCorrectAnswer": 2,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Upravlinnya-ta-administruvannya-na_sajt.pdf",
+    "sourceFile": "data/raw/management/management-yefvv-2024.pdf",
+    "pageNumber": 22,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "management",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 124,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Який засіб застосовують для попереднього контролю?",
+    "rawOptions": [
+      "Встановлення підготовчих процедур.",
+      "Розроблення стратегічних планів.",
+      "Впровадження критеріїв оцінювання.",
+      "Використання мотиваційних винагород."
+    ],
+    "rawCorrectAnswer": 0,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Upravlinnya-ta-administruvannya-na_sajt.pdf",
+    "sourceFile": "data/raw/management/management-yefvv-2024.pdf",
+    "pageNumber": 22,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "management",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 125,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Яке твердження поняття «винагорода» правильне?",
+    "rawOptions": [
+      "Цінність (зовнішня і/або внутрішня), яку отримує працівник як результат виконаної роботи.",
+      "Елемент структури системи управління, на який спрямовано вплив функції управління.",
+      "Вплив на працівників через делегування повноважень.",
+      "Задоволення первинних і вторинних потреб людини."
+    ],
+    "rawCorrectAnswer": 0,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Upravlinnya-ta-administruvannya-na_sajt.pdf",
+    "sourceFile": "data/raw/management/management-yefvv-2024.pdf",
+    "pageNumber": 22,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "management",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 126,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Яке визначення характеризує товар ринкової новизни?",
+    "rawOptions": [
+      "Принципово новий.",
+      "Під час виробництва якого використано нові товари.",
+      "Є на інших ринках, але новий для цього.",
+      "З деяким вдосконаленням."
+    ],
+    "rawCorrectAnswer": 2,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Upravlinnya-ta-administruvannya-na_sajt.pdf",
+    "sourceFile": "data/raw/management/management-yefvv-2024.pdf",
+    "pageNumber": 23,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "management",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 127,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Що таке «товарний франчайзинг»?",
+    "rawOptions": [
+      "Співпраця між відділами підприємства для просування бренду.",
+      "Право на реалізацію бренду.",
+      "Передавання товарів на інші ринки.",
+      "Виробництво товарів великими обсягами."
+    ],
+    "rawCorrectAnswer": 1,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Upravlinnya-ta-administruvannya-na_sajt.pdf",
+    "sourceFile": "data/raw/management/management-yefvv-2024.pdf",
+    "pageNumber": 23,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "management",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 128,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Що являє собою довжина каналу розподілу в маркетингу?",
+    "rawOptions": [
+      "Кількість посередників на одному рівні каналу розподілу.",
+      "Кількість посередників у каналі розподілу на різних географічних ринках.",
+      "Кількість посередників на всіх цільових ринках підприємства.",
+      "Кількість проміжних рівнів у каналі розподілу."
+    ],
+    "rawCorrectAnswer": 3,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Upravlinnya-ta-administruvannya-na_sajt.pdf",
+    "sourceFile": "data/raw/management/management-yefvv-2024.pdf",
+    "pageNumber": 23,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "management",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 129,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Який комунікаційний канал варто обрати маркетологу під час продажу товарів високого цінового рівня, обтяжених ризиком?",
+    "rawOptions": [
+      "Засоби масової інформації.",
+      "Особистої комунікації.",
+      "Засоби друкованої реклами.",
+      "Неособистої комунікації."
+    ],
+    "rawCorrectAnswer": 1,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Upravlinnya-ta-administruvannya-na_sajt.pdf",
+    "sourceFile": "data/raw/management/management-yefvv-2024.pdf",
+    "pageNumber": 23,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "management",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 130,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Який елемент комплексу маркетингових комунікацій вважають найбільш значимим під час просування споживчих товарів?",
+    "rawOptions": [
+      "Реклама.",
+      "Особистий продаж.",
+      "Стимулювання збуту.",
+      "Зв’язки з громадськістю."
+    ],
+    "rawCorrectAnswer": 0,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Upravlinnya-ta-administruvannya-na_sajt.pdf",
+    "sourceFile": "data/raw/management/management-yefvv-2024.pdf",
+    "pageNumber": 23,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "management",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 131,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Розшифруйте абревіатуру CAGR у бізнес-плануванні.",
+    "rawOptions": [
+      "Постійний обсяг виробництва.",
+      "Зростання середньорічної рентабельності.",
+      "Загальний обсяг капіталу.",
+      "Сукупний середньорічний темп зростання."
+    ],
+    "rawCorrectAnswer": 3,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Upravlinnya-ta-administruvannya-na_sajt.pdf",
+    "sourceFile": "data/raw/management/management-yefvv-2024.pdf",
+    "pageNumber": 23,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "management",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 132,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Який розмір річного доходу має бути у малого підприємства відповідно до класифікації за розмірами?",
+    "rawOptions": [
+      "Не перевищує 10 мільйонів євро.",
+      "У межах 12-15 мільйонів євро.",
+      "Більше ніж 50 мільйонів євро.",
+      "Більше ніж 15 мільйонів євро."
+    ],
+    "rawCorrectAnswer": 0,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Upravlinnya-ta-administruvannya-na_sajt.pdf",
+    "sourceFile": "data/raw/management/management-yefvv-2024.pdf",
+    "pageNumber": 24,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "management",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 133,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Керівник делегує підлеглому виконання завдання, що є критичним для завершення поточного проєкту. Якими видами влади він користується?",
+    "rawOptions": [
+      "Заснованою на винагороді та законною (традиційною).",
+      "Експертною та еталонною.",
+      "Законною (традиційною) та експертною.",
+      "Заснованою на примусі та еталонною владою."
+    ],
+    "rawCorrectAnswer": 2,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Upravlinnya-ta-administruvannya-na_sajt.pdf",
+    "sourceFile": "data/raw/management/management-yefvv-2024.pdf",
+    "pageNumber": 24,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "management",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 134,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "У чому полягає функція мотивування в організації?",
+    "rawOptions": [
+      "Доведенні окремих завдань до персоналу з метою реалізації цілей організації.",
+      "Формуванні організаційної культури для ефективної роботи.",
+      "Спонуканні себе та інших до діяльності для досягнення особистих цілей або цілей організації.",
+      "Розробленні ефективних механізмів впливу на персонал організації."
+    ],
+    "rawCorrectAnswer": 2,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Upravlinnya-ta-administruvannya-na_sajt.pdf",
+    "sourceFile": "data/raw/management/management-yefvv-2024.pdf",
+    "pageNumber": 24,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "management",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 135,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Оберіть ключові кроки реалізації проєкту.",
+    "rawOptions": [
+      "Визначення цілей і завдань.",
+      "Планування й оцінювання.",
+      "Розподіл ресурсів і формування команди.",
+      "Моніторинг та оцінювання результатів."
+    ],
+    "rawCorrectAnswer": 1,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Upravlinnya-ta-administruvannya-na_sajt.pdf",
+    "sourceFile": "data/raw/management/management-yefvv-2024.pdf",
+    "pageNumber": 24,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "management",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 136,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Керівник приймає рішення щодо виходу на новий ринок, оскільки йому подобається культурна спадщина цього регіону. До якого типу належить таке управлінське рішення?",
+    "rawOptions": [
+      "Запрограмоване.",
+      "Інтуїтивне.",
+      "Засноване на судженнях.",
+      "Раціональне."
+    ],
+    "rawCorrectAnswer": 1,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Upravlinnya-ta-administruvannya-na_sajt.pdf",
+    "sourceFile": "data/raw/management/management-yefvv-2024.pdf",
+    "pageNumber": 24,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "management",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 137,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Який спосіб охоплення ринку обрала компанія, якщо вона постачає кілька видів товарів декільком цільовим сегментам ринку?",
+    "rawOptions": [
+      "Орієнтація на споживчу потребу.",
+      "Орієнтація на групу споживачів.",
+      "Вибіркова спеціалізація.",
+      "Повне охоплення."
+    ],
+    "rawCorrectAnswer": 2,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Upravlinnya-ta-administruvannya-na_sajt.pdf",
+    "sourceFile": "data/raw/management/management-yefvv-2024.pdf",
+    "pageNumber": 24,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "management",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 138,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Який з товарів належить до споживчих товарів особливого попиту?",
+    "rawOptions": [
+      "Локшина швидкого приготування «Мівіна».",
+      "Фотокамера Canon.",
+      "Годинник Rolex.",
+      "Моторна олива Mobil."
+    ],
+    "rawCorrectAnswer": 2,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Upravlinnya-ta-administruvannya-na_sajt.pdf",
+    "sourceFile": "data/raw/management/management-yefvv-2024.pdf",
+    "pageNumber": 25,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "management",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 139,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Яка з ознак зовнішнього середовища характеризує кількість і розмаїття чинників, на які організація зобов'язана реагувати?",
+    "rawOptions": [
+      "Взаємоповʼязаність.",
+      "Складність.",
+      "Рухомість.",
+      "Невизначеність."
+    ],
+    "rawCorrectAnswer": 1,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Upravlinnya-ta-administruvannya-na_sajt.pdf",
+    "sourceFile": "data/raw/management/management-yefvv-2024.pdf",
+    "pageNumber": 25,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "management",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 140,
+    "tags": [
+      "official_collection"
+    ]
+  }
+]

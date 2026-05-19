@@ -1,0 +1,3362 @@
+[
+  {
+    "rawQuestionText": "Яка умова сприятиме кращому запам’ятовуванню дошкільником чималого переліку, наприклад, овочів?",
+    "rawOptions": [
+      "Цікава гра «в супермаркет».",
+      "Санкції за помилки у пригадуванні.",
+      "Змагання з однолітками.",
+      "Солодощі як винагорода."
+    ],
+    "rawCorrectAnswer": 0,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Psyhologiya-ta-sotsiologiya-na_sajt.pdf",
+    "sourceFile": "data/raw/psychology-sociology/psychology-sociology-yefvv-2024.pdf",
+    "pageNumber": 1,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "psychology-sociology",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 1,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "На якому етапі розвитку суїцидальної поведінки людина втрачає здатність переживати радість, її починає приваблювати тема смерті у побутових розмовах або творчості?",
+    "rawOptions": [
+      "Досуїцидальному.",
+      "Пресуїцидальному.",
+      "Суїцидальному.",
+      "Постсуїцидальному."
+    ],
+    "rawCorrectAnswer": 0,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Psyhologiya-ta-sotsiologiya-na_sajt.pdf",
+    "sourceFile": "data/raw/psychology-sociology/psychology-sociology-yefvv-2024.pdf",
+    "pageNumber": 1,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "psychology-sociology",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 2,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Керівник подякував Еліс за ініціативу допомогти колезі, за що остання звинуватила її у прагненні «вислужитися». Еліс промовчала, бо сама колись була у такій ситуації. Які механізми міжособистісного сприймання продемонстрували колеги?",
+    "rawOptions": [
+      "Атракцію, соціальну установка.",
+      "Каузальну атрибуцію, ідентифікацію.",
+      "Стереотипізацію, егоцентризм.",
+      "Емпатію, соціальну рефлексію."
+    ],
+    "rawCorrectAnswer": 1,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Psyhologiya-ta-sotsiologiya-na_sajt.pdf",
+    "sourceFile": "data/raw/psychology-sociology/psychology-sociology-yefvv-2024.pdf",
+    "pageNumber": 1,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "psychology-sociology",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 3,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Якою є послідовність розміщення наук у класифікації наук Огюста Конта?",
+    "rawOptions": [
+      "імія – математика – астрономія – фізика – соціологія ‒ біологія.",
+      "Математика – астрономія – фізика – соціологія – біологія ‒ хімія.",
+      "Математика – астрономія – фізика – соціологія – хімія ‒ біологія.",
+      "Математика – астрономія – фізика – хімія – біологія ‒ соціологія."
+    ],
+    "rawCorrectAnswer": 3,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Psyhologiya-ta-sotsiologiya-na_sajt.pdf",
+    "sourceFile": "data/raw/psychology-sociology/psychology-sociology-yefvv-2024.pdf",
+    "pageNumber": 1,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "psychology-sociology",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 4,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "За яким критерієм класифікації військовий і педагогічний університети потрапляють до різних груп?",
+    "rawOptions": [
+      "Тривалістю існування.",
+      "арактером організованості.",
+      "Опосередкованістю взаємодії.",
+      "Ступенем відкритості."
+    ],
+    "rawCorrectAnswer": 3,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Psyhologiya-ta-sotsiologiya-na_sajt.pdf",
+    "sourceFile": "data/raw/psychology-sociology/psychology-sociology-yefvv-2024.pdf",
+    "pageNumber": 1,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "psychology-sociology",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 5,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Яка ознака є проявом позитивної девіації особистості?",
+    "rawOptions": [
+      "Обдарованість.",
+      "Трудоголізм.",
+      "Гіперсексуальність.",
+      "Ігроманія."
+    ],
+    "rawCorrectAnswer": 0,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Psyhologiya-ta-sotsiologiya-na_sajt.pdf",
+    "sourceFile": "data/raw/psychology-sociology/psychology-sociology-yefvv-2024.pdf",
+    "pageNumber": 2,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "psychology-sociology",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 6,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Про яке психічне явище йдеться в описі: «Щоразу після палких дискусій на засіданні наукового гуртка його охоплювало нестримне бажання всебічно вивчити обговорюване питання»?",
+    "rawOptions": [
+      "Мотивацію діяльності.",
+      "Вольові процеси.",
+      "Ціннісні орієнтації.",
+      "Пізнавальні процеси."
+    ],
+    "rawCorrectAnswer": 0,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Psyhologiya-ta-sotsiologiya-na_sajt.pdf",
+    "sourceFile": "data/raw/psychology-sociology/psychology-sociology-yefvv-2024.pdf",
+    "pageNumber": 2,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "psychology-sociology",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 7,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Молода жінка, аби постійно «бути в тренді», слідкує за інстаграм-сторінками кількох модних блогерок і одягається виключно за їхніми фотопропозиціями. Про який принцип соціалізації йдеться?",
+    "rawOptions": [
+      "Взаємодії.",
+      "Відтворення.",
+      "Діяльності.",
+      "Системності."
+    ],
+    "rawCorrectAnswer": 1,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Psyhologiya-ta-sotsiologiya-na_sajt.pdf",
+    "sourceFile": "data/raw/psychology-sociology/psychology-sociology-yefvv-2024.pdf",
+    "pageNumber": 2,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "psychology-sociology",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 8,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Що покладено в основу класової системи стратифікації?",
+    "rawOptions": [
+      "Економічні відмінності.",
+      "Правові обмеження та заборони.",
+      "Анатомо-фізіологічні особливості.",
+      "Етнічно-релігійні відмінності."
+    ],
+    "rawCorrectAnswer": 0,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Psyhologiya-ta-sotsiologiya-na_sajt.pdf",
+    "sourceFile": "data/raw/psychology-sociology/psychology-sociology-yefvv-2024.pdf",
+    "pageNumber": 2,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "psychology-sociology",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 9,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Який додатковий аспект поведінки необхідно актуалізувати керівнику групи у підлеглих для отримання схвалення свого рішення через інтерналізацію (вищий рівень конформної поведінки)?",
+    "rawOptions": [
+      "Певні особистісні цінності.",
+      "Відповідні рольові очікування.",
+      "Базова потреба у безпеці.",
+      "Стан тривоги, занепокоєння."
+    ],
+    "rawCorrectAnswer": 0,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Psyhologiya-ta-sotsiologiya-na_sajt.pdf",
+    "sourceFile": "data/raw/psychology-sociology/psychology-sociology-yefvv-2024.pdf",
+    "pageNumber": 2,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "psychology-sociology",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 10,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Хто із вчених першим увів поняття «стиль життя» як детермінанти поведінки людини та формування структур її особистості?",
+    "rawOptions": [
+      "Альфред Адлер.",
+      "Еріх Фромм.",
+      "Карл Густав Юнг.",
+      "Мартін Гайдеґґер."
+    ],
+    "rawCorrectAnswer": 0,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Psyhologiya-ta-sotsiologiya-na_sajt.pdf",
+    "sourceFile": "data/raw/psychology-sociology/psychology-sociology-yefvv-2024.pdf",
+    "pageNumber": 2,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "psychology-sociology",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 11,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "У романі Олександра Дюма охоронець-протестант гарантує полоненій- католичці право «виконувати обряди ВАШОЇ церкви та відвідувати її служби», а також «читати ВАШІ молитви». З яким груповим феноменом пов’язані почуття полоненої, до яких апелює охоронець, використовуючи двічі наголошений займенник «ВАШЕ»?",
+    "rawOptions": [
+      "Групова ідентичність.",
+      "Групова роль.",
+      "Груповий конформізм.",
+      "Групова думка."
+    ],
+    "rawCorrectAnswer": 0,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Psyhologiya-ta-sotsiologiya-na_sajt.pdf",
+    "sourceFile": "data/raw/psychology-sociology/psychology-sociology-yefvv-2024.pdf",
+    "pageNumber": 3,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "psychology-sociology",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 12,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Довірчі інтервали для відсотка одружених і неодружених містян, які цікавляться модою, є такими: (0,777; 0,837) та (0,832; 0,882) відповідно. Який висновок є релевантним?",
+    "rawOptions": [
+      "Сімейний статус містян впливає на їхню зацікавленість модою.",
+      "І одружені, і неодружені містяни однаково цікавляться модою.",
+      "Неодружені містяни більше цікавляться модою, ніж одружені.",
+      "У одружених містян знижується інтерес до моди."
+    ],
+    "rawCorrectAnswer": 1,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Psyhologiya-ta-sotsiologiya-na_sajt.pdf",
+    "sourceFile": "data/raw/psychology-sociology/psychology-sociology-yefvv-2024.pdf",
+    "pageNumber": 3,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "psychology-sociology",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 13,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Рівняння регресії для змінних «зарплата» і «стаж роботи» є таким: y=0,32x. Яке пояснення результату є правильним, якщо шкала змінної «зарплата» має градацію у 500 грн, а змінної «стаж роботи» – один рік?",
+    "rawOptions": [
+      "Стаж роботи залежить лише від зарплати; статистична залежність є прямою.",
+      "Зі зростанням стажу на один рік зарплата зростає в середньому на 160 грн.",
+      "Залежність існує лише, якщо зарплата змінюється приблизно на 500 грн щороку.",
+      "Зі щорічним зростанням стажу зарплата зростає орієнтовно на 500 грн."
+    ],
+    "rawCorrectAnswer": 1,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Psyhologiya-ta-sotsiologiya-na_sajt.pdf",
+    "sourceFile": "data/raw/psychology-sociology/psychology-sociology-yefvv-2024.pdf",
+    "pageNumber": 3,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "psychology-sociology",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 14,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Хто із наведених осіб може бути респондентом в експертному опитуванні про найефективніші методи розвитку уваги у дітей із синдромом дефіциту уваги?",
+    "rawOptions": [
+      "Батьки дітей, у яких діагностовано синдром дефіциту уваги.",
+      "Діти, у яких діагностовано синдром дефіциту уваги.",
+      "Вчителі, які навчають дітей, у яких діагностовано синдром дефіциту уваги.",
+      "Психологи, досвідчені у роботі зі синдромом дефіциту уваги."
+    ],
+    "rawCorrectAnswer": 3,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Psyhologiya-ta-sotsiologiya-na_sajt.pdf",
+    "sourceFile": "data/raw/psychology-sociology/psychology-sociology-yefvv-2024.pdf",
+    "pageNumber": 3,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "psychology-sociology",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 15,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Які потреби виділяють за суб’єктами вияву?",
+    "rawOptions": [
+      "Групові.",
+      "Статусні.",
+      "Трудові.",
+      "Абсолютні."
+    ],
+    "rawCorrectAnswer": 0,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Psyhologiya-ta-sotsiologiya-na_sajt.pdf",
+    "sourceFile": "data/raw/psychology-sociology/psychology-sociology-yefvv-2024.pdf",
+    "pageNumber": 3,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "psychology-sociology",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 16,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Передача власності у спадок – це прояв функціонування одного із соціальних інститутів. Якого саме?",
+    "rawOptions": [
+      "Економічного.",
+      "Правового.",
+      "Культурного.",
+      "Політичного."
+    ],
+    "rawCorrectAnswer": 1,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Psyhologiya-ta-sotsiologiya-na_sajt.pdf",
+    "sourceFile": "data/raw/psychology-sociology/psychology-sociology-yefvv-2024.pdf",
+    "pageNumber": 4,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "psychology-sociology",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 17,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Дівчина вважає, що чоловіки бояться жінок, рівних їм за соціальним статусом, тому не відразу говорить хлопцеві, що працює суддею. Якого стилю поведінки вона дотримується?",
+    "rawOptions": [
+      "Уникнення ґендерно-рольового конфлікту.",
+      "Жертвування статусом заради стосунків.",
+      "Пристосування до статусу обранця.",
+      "Поступливість щодо майбутніх стосунків."
+    ],
+    "rawCorrectAnswer": 0,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Psyhologiya-ta-sotsiologiya-na_sajt.pdf",
+    "sourceFile": "data/raw/psychology-sociology/psychology-sociology-yefvv-2024.pdf",
+    "pageNumber": 4,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "psychology-sociology",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 18,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Якому типу соціальної мобільності відповідає переміщення з посади керівника відділу однієї компанії на заступника керівника іншої компанії?",
+    "rawOptions": [
+      "Вертикальному.",
+      "Горизонтальному.",
+      "Внутрішньоорганізаційному.",
+      "Груповому."
+    ],
+    "rawCorrectAnswer": 0,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Psyhologiya-ta-sotsiologiya-na_sajt.pdf",
+    "sourceFile": "data/raw/psychology-sociology/psychology-sociology-yefvv-2024.pdf",
+    "pageNumber": 4,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "psychology-sociology",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 19,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Героїня Бернарда Шоу знає, що суспільство очікує від неї поведінки аристократки, однак, щоразу в її поведінці «проявляється» продавчиня квітів. Яка пара інтеракціоністських понять тут проілюстрована?",
+    "rawOptions": [
+      "«Я» та «мене».",
+      "Групи первинні і вторинні.",
+      "Визначення ситуації та установка.",
+      "Імпульс і консумація."
+    ],
+    "rawCorrectAnswer": 0,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Psyhologiya-ta-sotsiologiya-na_sajt.pdf",
+    "sourceFile": "data/raw/psychology-sociology/psychology-sociology-yefvv-2024.pdf",
+    "pageNumber": 4,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "psychology-sociology",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 20,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Чому для аналізу рівня задоволеності умовами праці слід використати порядковий рівень вимірювання (за С. Стівенсом)?",
+    "rawOptions": [
+      "Він уможливлює розподіл респондентів за групами від високого до низького рівня задоволеності.",
+      "Він дає змогу зафіксувати позиції респондентів без можливості співставлення.",
+      "Завдяки йому можна отримати абсолютні показники задоволеності умовами праці.",
+      "Він дає змогу виявити різноманіття думок респондентів щодо умов праці."
+    ],
+    "rawCorrectAnswer": 0,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Psyhologiya-ta-sotsiologiya-na_sajt.pdf",
+    "sourceFile": "data/raw/psychology-sociology/psychology-sociology-yefvv-2024.pdf",
+    "pageNumber": 4,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "psychology-sociology",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 21,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Яке з висловлювань є проявом ейджизму?",
+    "rawOptions": [
+      "Старшим людям потрібна додаткова підтримка в їх повсякденних справах.",
+      "Старші громадяни заслуговують на повагу за свій досвід та мудрість.",
+      "Вік не впливає на здатність працювати ефективно.",
+      "Старші люди не здатні пристосуватися до нових технологій."
+    ],
+    "rawCorrectAnswer": 3,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Psyhologiya-ta-sotsiologiya-na_sajt.pdf",
+    "sourceFile": "data/raw/psychology-sociology/psychology-sociology-yefvv-2024.pdf",
+    "pageNumber": 4,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "psychology-sociology",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 22,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "У чому полягає основний недолік спостереження як методу збирання інформації, який пов'язаний з особою спостерігача?",
+    "rawOptions": [
+      "У наявному соціальному статусі спостерігача.",
+      "У відсутності опосередкованих ланок.",
+      "У необ'єктивності суджень спостерігача.",
+      "У фіксації даних відразу за кількома параметрами."
+    ],
+    "rawCorrectAnswer": 2,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Psyhologiya-ta-sotsiologiya-na_sajt.pdf",
+    "sourceFile": "data/raw/psychology-sociology/psychology-sociology-yefvv-2024.pdf",
+    "pageNumber": 5,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "psychology-sociology",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 23,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Який рівень вияву психіки є своєрідним резервуаром, де зберігається накопичена протягом усього життя інформація та осідає у пам'яті як досвід?",
+    "rawOptions": [
+      "Свідоме.",
+      "Надсвідоме.",
+      "Підсвідоме.",
+      "Несвідоме."
+    ],
+    "rawCorrectAnswer": 2,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Psyhologiya-ta-sotsiologiya-na_sajt.pdf",
+    "sourceFile": "data/raw/psychology-sociology/psychology-sociology-yefvv-2024.pdf",
+    "pageNumber": 5,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "psychology-sociology",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 24,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Дівчина не відповіла на кілька телефонних дзвінків від хлопця, бо пів робочого дня була на нараді. Згадавши пізно ввечері, вона з розпачем подумала: «О ні, він вирішив, що я його ігнорую». Який механізм міжособистісного сприймання вона демонструє?",
+    "rawOptions": [
+      "Каузальну атрибуцію.",
+      "Стереотипізацію.",
+      "Ідентифікацію.",
+      "Соціальну рефлексію."
+    ],
+    "rawCorrectAnswer": 0,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Psyhologiya-ta-sotsiologiya-na_sajt.pdf",
+    "sourceFile": "data/raw/psychology-sociology/psychology-sociology-yefvv-2024.pdf",
+    "pageNumber": 5,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "psychology-sociology",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 25,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Сутність якого соціально-психологічного механізму моди полягає у несвідомому засвоєнні віянь моди через багаторазове посилення специфічних станів (потреба в оновленні, емоційне збудження, інтерес) у процесі соціальної взаємодії?",
+    "rawOptions": [
+      "Зараження.",
+      "Наслідування.",
+      "Навіювання.",
+      "Ідентифікація."
+    ],
+    "rawCorrectAnswer": 1,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Psyhologiya-ta-sotsiologiya-na_sajt.pdf",
+    "sourceFile": "data/raw/psychology-sociology/psychology-sociology-yefvv-2024.pdf",
+    "pageNumber": 5,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "psychology-sociology",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 26,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Яку назву має властивість індивіда розв’язувати конфлікт на користь групи, переконуючи себе в необхідності вибрати позицію більшості?",
+    "rawOptions": [
+      "Конформність.",
+      "Сумісність.",
+      "Пристосування.",
+      "Спрацьовування."
+    ],
+    "rawCorrectAnswer": 0,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Psyhologiya-ta-sotsiologiya-na_sajt.pdf",
+    "sourceFile": "data/raw/psychology-sociology/psychology-sociology-yefvv-2024.pdf",
+    "pageNumber": 5,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "psychology-sociology",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 27,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Що таке соціальна мобільність?",
+    "rawOptions": [
+      "Зміна соціального статусу індивіда або групи.",
+      "Зміна ціннісних пріоритетів особистості.",
+      "Розширення професійного світогляду людини.",
+      "Розширення можливостей людей подорожувати."
+    ],
+    "rawCorrectAnswer": 0,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Psyhologiya-ta-sotsiologiya-na_sajt.pdf",
+    "sourceFile": "data/raw/psychology-sociology/psychology-sociology-yefvv-2024.pdf",
+    "pageNumber": 5,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "psychology-sociology",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 28,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Яка свідомість за своїм змістом є ширшою?",
+    "rawOptions": [
+      "Громадська.",
+      "Індивідуальна.",
+      "Групова.",
+      "Масова."
+    ],
+    "rawCorrectAnswer": 0,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Psyhologiya-ta-sotsiologiya-na_sajt.pdf",
+    "sourceFile": "data/raw/psychology-sociology/psychology-sociology-yefvv-2024.pdf",
+    "pageNumber": 6,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "psychology-sociology",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 29,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Яка галузь психологічної науки вивчає об’єктивні процеси зародження психічних явищ на основі попередніх і становлення нових психічних механізмів?",
+    "rawOptions": [
+      "Педагогічна.",
+      "Генетична.",
+      "Порівняльна.",
+      "Соціальна."
+    ],
+    "rawCorrectAnswer": 0,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Psyhologiya-ta-sotsiologiya-na_sajt.pdf",
+    "sourceFile": "data/raw/psychology-sociology/psychology-sociology-yefvv-2024.pdf",
+    "pageNumber": 6,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "psychology-sociology",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 30,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Для експерименту, окрім пари експериментальної та контрольної груп з початковим і кінцевим вимірюванням, дослідник обрав іще одну таку пару, але лише з кінцевим вимірюванням. З якою метою він це зробив?",
+    "rawOptions": [
+      "Уникнення ефекту першого вимірювання.",
+      "Посилення ефекту експериментального вимірювання.",
+      "Забезпечення рівномірності груп через вибування учасників.",
+      "Дотримання еквівалентності груп за певними ознаками."
+    ],
+    "rawCorrectAnswer": 0,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Psyhologiya-ta-sotsiologiya-na_sajt.pdf",
+    "sourceFile": "data/raw/psychology-sociology/psychology-sociology-yefvv-2024.pdf",
+    "pageNumber": 6,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "psychology-sociology",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 31,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "В основі якої теорії є припущення, що ситуації соціальної взаємодії нагадують драматичні спектаклі, у яких люди, як актори, прагнуть створювати і підтримувати сприятливі відчуття?",
+    "rawOptions": [
+      "Теорії керування враженнями.",
+      "Теорії символічного інтеракціонізму.",
+      "Теорії соціального обміну.",
+      "Психоаналітичної теорії."
+    ],
+    "rawCorrectAnswer": 0,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Psyhologiya-ta-sotsiologiya-na_sajt.pdf",
+    "sourceFile": "data/raw/psychology-sociology/psychology-sociology-yefvv-2024.pdf",
+    "pageNumber": 6,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "psychology-sociology",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 32,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "У чому полягає суть макросоціологічного підходу?",
+    "rawOptions": [
+      "У дослідженні свідомості та поведінки людини у повсякденному житті.",
+      "У вивченні особливості розвитку людства від зародження до наших днів.",
+      "У розгляді суспільства як цілісного системного соціального організму.",
+      "У розумінні суспільства як символічної взаємодії індивідів і груп."
+    ],
+    "rawCorrectAnswer": 2,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Psyhologiya-ta-sotsiologiya-na_sajt.pdf",
+    "sourceFile": "data/raw/psychology-sociology/psychology-sociology-yefvv-2024.pdf",
+    "pageNumber": 6,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "psychology-sociology",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 33,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Яку назву мають дослідження, що здійснюються на аналогічних вибірках з інтервалами у часі з метою аналізу змін на рівні певної групи?",
+    "rawOptions": [
+      "Когортні.",
+      "Лонгітюдні.",
+      "Пілотажні.",
+      "Трендові."
+    ],
+    "rawCorrectAnswer": 3,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Psyhologiya-ta-sotsiologiya-na_sajt.pdf",
+    "sourceFile": "data/raw/psychology-sociology/psychology-sociology-yefvv-2024.pdf",
+    "pageNumber": 6,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "psychology-sociology",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 34,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Хто з дослідників НЕ вивчав несвідоме?",
+    "rawOptions": [
+      "Р. Ассаджіолі.",
+      "З. Фройд.",
+      "М. Бернштейн.",
+      "К.Г. Юнг."
+    ],
+    "rawCorrectAnswer": 2,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Psyhologiya-ta-sotsiologiya-na_sajt.pdf",
+    "sourceFile": "data/raw/psychology-sociology/psychology-sociology-yefvv-2024.pdf",
+    "pageNumber": 7,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "psychology-sociology",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 35,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "За Гербертом Спенсером, будь-яке розвинене суспільство має декілька основних систем соціальних інститутів. До якої з цих систем належать гроші?",
+    "rawOptions": [
+      "Підтримувальна.",
+      "Розподільча.",
+      "Регулятивна.",
+      "Конфліктна."
+    ],
+    "rawCorrectAnswer": 1,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Psyhologiya-ta-sotsiologiya-na_sajt.pdf",
+    "sourceFile": "data/raw/psychology-sociology/psychology-sociology-yefvv-2024.pdf",
+    "pageNumber": 7,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "psychology-sociology",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 36,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Частка яких запитань є суттєво більшою у глибинних інтерв’ю порівняно з іншими видами досліджень?",
+    "rawOptions": [
+      "Відкритих.",
+      "Закритих.",
+      "Контрольних.",
+      "Процедурних."
+    ],
+    "rawCorrectAnswer": 0,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Psyhologiya-ta-sotsiologiya-na_sajt.pdf",
+    "sourceFile": "data/raw/psychology-sociology/psychology-sociology-yefvv-2024.pdf",
+    "pageNumber": 7,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "psychology-sociology",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 37,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Яке твердження є прикладом сексистського переконання?",
+    "rawOptions": [
+      "Домашня праця має розподілятися між партнерами рівномірно або за інтересами.",
+      "Відповідальність за матеріальне забезпечення родини, оплату спільного дозвілля несе чоловік.",
+      "Жінка має право на побудову власної кар’єри, відтермінування або відмову від народження дітей.",
+      "Чоловік має право йти у декретну відпустку, якщо такий варіант влаштовує подружжя."
+    ],
+    "rawCorrectAnswer": 1,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Psyhologiya-ta-sotsiologiya-na_sajt.pdf",
+    "sourceFile": "data/raw/psychology-sociology/psychology-sociology-yefvv-2024.pdf",
+    "pageNumber": 7,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "psychology-sociology",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 38,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Про який рівень професійного вигорання свідчить поява у людини негативного оцінювання себе, своїх професійних досягнень, успіхів і нівелювання особистої гідності?",
+    "rawOptions": [
+      "Деперсоналізації.",
+      "ронічної втоми.",
+      "Редукції особистих досягнень.",
+      "Резистенції."
+    ],
+    "rawCorrectAnswer": 2,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Psyhologiya-ta-sotsiologiya-na_sajt.pdf",
+    "sourceFile": "data/raw/psychology-sociology/psychology-sociology-yefvv-2024.pdf",
+    "pageNumber": 7,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "psychology-sociology",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 39,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Дослідник підбирав респондентів за формальними характеристиками: стаж (не менше 3 років) на посаді, яка передбачає надання адміністративних послуг військовослужбовцям (не менше 10 послуг). Яке дослідження планується?",
+    "rawOptions": [
+      "Біографічне.",
+      "Експериментальне.",
+      "Соціометричне.",
+      "Експертне."
+    ],
+    "rawCorrectAnswer": 3,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Psyhologiya-ta-sotsiologiya-na_sajt.pdf",
+    "sourceFile": "data/raw/psychology-sociology/psychology-sociology-yefvv-2024.pdf",
+    "pageNumber": 8,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "psychology-sociology",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 40,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Яка форма пізнання заснована на відчутті симпатії іншої людини та прихильності до неї?",
+    "rawOptions": [
+      "Атракція.",
+      "Емпатія.",
+      "Ідентифікація.",
+      "Рефлексія."
+    ],
+    "rawCorrectAnswer": 0,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Psyhologiya-ta-sotsiologiya-na_sajt.pdf",
+    "sourceFile": "data/raw/psychology-sociology/psychology-sociology-yefvv-2024.pdf",
+    "pageNumber": 8,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "psychology-sociology",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 41,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Що означає, коли особа використовує термін «Квір (Queer)» для самоідентифікації?",
+    "rawOptions": [
+      "Вважає себе гомосексуалом.",
+      "Ідентифікує себе як чоловік або жінка.",
+      "Не розуміє своєї ґендерної ідентичності.",
+      "Вважає, що її ґендерна ідентичність відрізняється від ґендерних стандартів."
+    ],
+    "rawCorrectAnswer": 3,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Psyhologiya-ta-sotsiologiya-na_sajt.pdf",
+    "sourceFile": "data/raw/psychology-sociology/psychology-sociology-yefvv-2024.pdf",
+    "pageNumber": 8,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "psychology-sociology",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 42,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Який статусний набір молодого чоловіка є НЕузгодженим?",
+    "rawOptions": [
+      "Безробітний, син, колега.",
+      "Брат, менеджер, пасажир.",
+      "Покупець, вчитель, вірянин.",
+      "Військовий, батько, спортсмен."
+    ],
+    "rawCorrectAnswer": 0,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Psyhologiya-ta-sotsiologiya-na_sajt.pdf",
+    "sourceFile": "data/raw/psychology-sociology/psychology-sociology-yefvv-2024.pdf",
+    "pageNumber": 8,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "psychology-sociology",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 43,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "З яких двох сторін, за думкою Огюста Конта, має вивчатися будь-який соціальний об'єкт?",
+    "rawOptions": [
+      "Прагматичної і аналітичної.",
+      "Статичної і динамічної.",
+      "Абстрактної і позитивної.",
+      "Загальнонаукової і галузевої."
+    ],
+    "rawCorrectAnswer": 1,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Psyhologiya-ta-sotsiologiya-na_sajt.pdf",
+    "sourceFile": "data/raw/psychology-sociology/psychology-sociology-yefvv-2024.pdf",
+    "pageNumber": 8,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "psychology-sociology",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 44,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Який статистичний аналіз використовують для визначення взаємозв'язку між рівнем вербального та невербального інтелекту?",
+    "rawOptions": [
+      "Визначення коефіцієнта регресії.",
+      "Однофакторний дисперсійний аналіз.",
+      "Двофакторний дисперсійний аналіз.",
+      "Кореляційний аналіз."
+    ],
+    "rawCorrectAnswer": 3,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Psyhologiya-ta-sotsiologiya-na_sajt.pdf",
+    "sourceFile": "data/raw/psychology-sociology/psychology-sociology-yefvv-2024.pdf",
+    "pageNumber": 8,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "psychology-sociology",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 45,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Яка функція соціальної групи полягає у задоволенні потреб людей у схваленні, повазі та довірі?",
+    "rawOptions": [
+      "Експресивна.",
+      "Соціалізації.",
+      "Інструментальна.",
+      "Підтримувальна."
+    ],
+    "rawCorrectAnswer": 0,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Psyhologiya-ta-sotsiologiya-na_sajt.pdf",
+    "sourceFile": "data/raw/psychology-sociology/psychology-sociology-yefvv-2024.pdf",
+    "pageNumber": 9,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "psychology-sociology",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 46,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Працівник великої компанії відмовив колегам у висуванні своєї кандидатури на посаду очільника відділу, мотивуючи тим, що він не має підтримки власного бачення розвитку відділу керівниками компанії. Якого стилю поведінки він дотримується?",
+    "rawOptions": [
+      "Жертвування статусом заради колективу.",
+      "Пристосування до стилю керівників компанії.",
+      "Уникнення статусно-рольового конфлікту.",
+      "Колаборація."
+    ],
+    "rawCorrectAnswer": 2,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Psyhologiya-ta-sotsiologiya-na_sajt.pdf",
+    "sourceFile": "data/raw/psychology-sociology/psychology-sociology-yefvv-2024.pdf",
+    "pageNumber": 9,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "psychology-sociology",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 47,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Розподіл роботи у відділі відбувається так: керівник доручає завдання підлеглому; якщо той відмовляється його виконувати або виконує абияк, то керівник намагається делегувати завдання іншому працівнику; якщо ж цього йому зробити не вдається, то він сам його виконує; зазвичай, саме так і стається. Який стиль поведінки демонструє керівник?",
+    "rawOptions": [
+      "Порозуміння.",
+      "Співробітництво.",
+      "Компроміс.",
+      "Поступливість."
+    ],
+    "rawCorrectAnswer": 3,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Psyhologiya-ta-sotsiologiya-na_sajt.pdf",
+    "sourceFile": "data/raw/psychology-sociology/psychology-sociology-yefvv-2024.pdf",
+    "pageNumber": 9,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "psychology-sociology",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 48,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "До якого типу соціальних груп належить така група, як «чоловіки»?",
+    "rawOptions": [
+      "Професійна група.",
+      "Квазігрупа.",
+      "Первинна група.",
+      "Демографічна група."
+    ],
+    "rawCorrectAnswer": 3,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Psyhologiya-ta-sotsiologiya-na_sajt.pdf",
+    "sourceFile": "data/raw/psychology-sociology/psychology-sociology-yefvv-2024.pdf",
+    "pageNumber": 9,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "psychology-sociology",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 49,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Яка реальність, на думку Еміля Дюркгайма, є основною детермінантою людської свідомості та поведінки?",
+    "rawOptions": [
+      "Соціальна.",
+      "Біологічна.",
+      "Психічна.",
+      "Індивідуальна."
+    ],
+    "rawCorrectAnswer": 0,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Psyhologiya-ta-sotsiologiya-na_sajt.pdf",
+    "sourceFile": "data/raw/psychology-sociology/psychology-sociology-yefvv-2024.pdf",
+    "pageNumber": 9,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "psychology-sociology",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 50,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Як називається спосіб реалізації особистістю власної життєвої позиції?",
+    "rawOptions": [
+      "Життєва стратегія.",
+      "Поведінка.",
+      "Ціннісна орієнтація.",
+      "Самореалізація."
+    ],
+    "rawCorrectAnswer": 0,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Psyhologiya-ta-sotsiologiya-na_sajt.pdf",
+    "sourceFile": "data/raw/psychology-sociology/psychology-sociology-yefvv-2024.pdf",
+    "pageNumber": 9,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "psychology-sociology",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 51,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Яким терміном називають здатність вибіркової сукупності відтворювати основні характеристики генеральної сукупності?",
+    "rawOptions": [
+      "Валідність.",
+      "Надійність.",
+      "Релевантність.",
+      "Репрезентативність."
+    ],
+    "rawCorrectAnswer": 3,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Psyhologiya-ta-sotsiologiya-na_sajt.pdf",
+    "sourceFile": "data/raw/psychology-sociology/psychology-sociology-yefvv-2024.pdf",
+    "pageNumber": 10,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "psychology-sociology",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 52,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Який перелік статусів є статусним набором?",
+    "rawOptions": [
+      "Безробітний, брат, колега.",
+      "Племінник, покупець, сестра.",
+      "Пасажир, лікар, вірянин.",
+      "Священник, водій, бабуся."
+    ],
+    "rawCorrectAnswer": 2,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Psyhologiya-ta-sotsiologiya-na_sajt.pdf",
+    "sourceFile": "data/raw/psychology-sociology/psychology-sociology-yefvv-2024.pdf",
+    "pageNumber": 10,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "psychology-sociology",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 53,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Підприємець стоїть перед вибором: ризикнути, порушити закон та отримати додатковий прибуток чи не ризикувати, не порушувати закон, але й не отримати додатковий прибуток. Якого типу конфлікт описано у цій ситуації?",
+    "rawOptions": [
+      "Міжособистісний.",
+      "Вутрішньоособистісний.",
+      "Внутрішньогруповий.",
+      "Міжгруповий."
+    ],
+    "rawCorrectAnswer": 1,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Psyhologiya-ta-sotsiologiya-na_sajt.pdf",
+    "sourceFile": "data/raw/psychology-sociology/psychology-sociology-yefvv-2024.pdf",
+    "pageNumber": 10,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "psychology-sociology",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 54,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Який соціальний інститут готує до виконання різних видів професійної діяльності?",
+    "rawOptions": [
+      "Релігійний.",
+      "Політичний.",
+      "Освітній.",
+      "Економічний."
+    ],
+    "rawCorrectAnswer": 2,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Psyhologiya-ta-sotsiologiya-na_sajt.pdf",
+    "sourceFile": "data/raw/psychology-sociology/psychology-sociology-yefvv-2024.pdf",
+    "pageNumber": 10,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "psychology-sociology",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 55,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Який механізм соціально-психологічного впливу використовує психолог під час проведення тренінгу для клієнта: «Коли ви розплющите очі, то відчуєте себе спокійним, сповненим сил й енергії»?",
+    "rawOptions": [
+      "Навіювання.",
+      "Наслідування.",
+      "Переконання.",
+      "Зараження."
+    ],
+    "rawCorrectAnswer": 0,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Psyhologiya-ta-sotsiologiya-na_sajt.pdf",
+    "sourceFile": "data/raw/psychology-sociology/psychology-sociology-yefvv-2024.pdf",
+    "pageNumber": 10,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "psychology-sociology",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 56,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Яка функція соціології забезпечує появу нового знання про всі сфери суспільного життя, узагальнення суспільних явищ і процесів?",
+    "rawOptions": [
+      "Гуманістичної.",
+      "Теоретико-пізнавальної.",
+      "Світоглядно-ідеологічної.",
+      "Інформаційної."
+    ],
+    "rawCorrectAnswer": 1,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Psyhologiya-ta-sotsiologiya-na_sajt.pdf",
+    "sourceFile": "data/raw/psychology-sociology/psychology-sociology-yefvv-2024.pdf",
+    "pageNumber": 10,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "psychology-sociology",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 57,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Який приклад ілюструє пасивність соціальної ролі?",
+    "rawOptions": [
+      "Прогулянка матері з дитиною на дитячому майданчику.",
+      "Перебування керівника закладу на лікарняному.",
+      "Доповідь вченого на науковій конференції.",
+      "Тренування спортсменів перед змаганням."
+    ],
+    "rawCorrectAnswer": 1,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Psyhologiya-ta-sotsiologiya-na_sajt.pdf",
+    "sourceFile": "data/raw/psychology-sociology/psychology-sociology-yefvv-2024.pdf",
+    "pageNumber": 11,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "psychology-sociology",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 58,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Після вступу в шлюб українка переїжджає на батьківщину свого чоловіка у країну Близького Сходу, поступово пристосовуючись до нових умов життя. Який процес відбувається в цьому випадку?",
+    "rawOptions": [
+      "Мобілізація.",
+      "Ідентифікація.",
+      "Акультурація.",
+      "Десоціалізація."
+    ],
+    "rawCorrectAnswer": 2,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Psyhologiya-ta-sotsiologiya-na_sajt.pdf",
+    "sourceFile": "data/raw/psychology-sociology/psychology-sociology-yefvv-2024.pdf",
+    "pageNumber": 11,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "psychology-sociology",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 59,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Хлопчик-дошкільник здивував рідних емоційним коментарем: «Тато поганий, давайте його поміняємо!», а вже за якусь годину наполіг на тому, що не хоче гуляти ні з ким іншим, тільки зі своїм татом. Який феномен почуттів тут описано?",
+    "rawOptions": [
+      "Амбівалентність.",
+      "Витіснення агресії.",
+      "Неусвідомленість.",
+      "Інстинктивне поводження."
+    ],
+    "rawCorrectAnswer": 0,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Psyhologiya-ta-sotsiologiya-na_sajt.pdf",
+    "sourceFile": "data/raw/psychology-sociology/psychology-sociology-yefvv-2024.pdf",
+    "pageNumber": 11,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "psychology-sociology",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 60,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Яка функція соціальної групи полягає у здійсненні її членами спільної діяльності для досягнення загальної мети?",
+    "rawOptions": [
+      "Інструментальна.",
+      "Підтримувальна.",
+      "Експресивна.",
+      "Соціалізації."
+    ],
+    "rawCorrectAnswer": 0,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Psyhologiya-ta-sotsiologiya-na_sajt.pdf",
+    "sourceFile": "data/raw/psychology-sociology/psychology-sociology-yefvv-2024.pdf",
+    "pageNumber": 11,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "psychology-sociology",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 61,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Герой Бальзака Гобсек погано ставився до будь-яких змін у суспільстві. Він залишив після себе колосальний обсяг грошей та речей, які, однак, чималою часткою були в негідному стані. Який тип соціального характеру, згідно з Ерихом Фроммом, має Гобсек?",
+    "rawOptions": [
+      "Накопичувальний.",
+      "Ринковий.",
+      "Експлуататорський.",
+      "Рецептивний."
+    ],
+    "rawCorrectAnswer": 0,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Psyhologiya-ta-sotsiologiya-na_sajt.pdf",
+    "sourceFile": "data/raw/psychology-sociology/psychology-sociology-yefvv-2024.pdf",
+    "pageNumber": 11,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "psychology-sociology",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 62,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Складниками якого чинника психічного розвитку дитини є статеві ознаки, тип вищої нервової діяльності, задатки та темпи дозрівання нервової системи?",
+    "rawOptions": [
+      "Ендогенного.",
+      "Соціального.",
+      "Морального.",
+      "Екзогенного."
+    ],
+    "rawCorrectAnswer": 0,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Psyhologiya-ta-sotsiologiya-na_sajt.pdf",
+    "sourceFile": "data/raw/psychology-sociology/psychology-sociology-yefvv-2024.pdf",
+    "pageNumber": 11,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "psychology-sociology",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 63,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Під час професійної діяльності Аманда внесла пропозиції щодо впровадження інноваційних підходів у виробничий процес, спираючись на свої теоретичні знання. На якому етапі професіоналізації вона перебуває?",
+    "rawOptions": [
+      "Професійного навчання.",
+      "Професійної реалізації.",
+      "Професійного становлення.",
+      "Професійної адаптації."
+    ],
+    "rawCorrectAnswer": 3,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Psyhologiya-ta-sotsiologiya-na_sajt.pdf",
+    "sourceFile": "data/raw/psychology-sociology/psychology-sociology-yefvv-2024.pdf",
+    "pageNumber": 12,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "psychology-sociology",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 64,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Яке твердження є прикладом гендерного стереотипу?",
+    "rawOptions": [
+      "Справжні норвежці завжди рудоволосі.",
+      "Справжні чоловіки також плачуть.",
+      "Краса жінки – запорука успішної кар’єри.",
+      "Відпустку по догляду за дитиною частіше беруть чоловіки."
+    ],
+    "rawCorrectAnswer": 2,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Psyhologiya-ta-sotsiologiya-na_sajt.pdf",
+    "sourceFile": "data/raw/psychology-sociology/psychology-sociology-yefvv-2024.pdf",
+    "pageNumber": 12,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "psychology-sociology",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 65,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Яка спільнота людей за визначенням є професійною соціальною групою?",
+    "rawOptions": [
+      "Колекціонери марок.",
+      "Пасажири маршрутки.",
+      "Покупці супермаркету.",
+      "Працівники цеху."
+    ],
+    "rawCorrectAnswer": 3,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Psyhologiya-ta-sotsiologiya-na_sajt.pdf",
+    "sourceFile": "data/raw/psychology-sociology/psychology-sociology-yefvv-2024.pdf",
+    "pageNumber": 12,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "psychology-sociology",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 66,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Як називають людину, яка заклопотана питаннями вибору або змушеної зміни професії?",
+    "rawOptions": [
+      "Оптант.",
+      "Адепт.",
+      "Адаптант.",
+      "Інтернал."
+    ],
+    "rawCorrectAnswer": 0,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Psyhologiya-ta-sotsiologiya-na_sajt.pdf",
+    "sourceFile": "data/raw/psychology-sociology/psychology-sociology-yefvv-2024.pdf",
+    "pageNumber": 12,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "psychology-sociology",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 67,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Дослідник виокремив показники «релігійна поведінка» і «релігійна належність» складовими поняття «релігійність» та надав визначення усім поняттям. Фрагментом якого процесу є ця процедура?",
+    "rawOptions": [
+      "Концептуалізації.",
+      "Шкалування.",
+      "Операціоналізації.",
+      "Типологізації."
+    ],
+    "rawCorrectAnswer": 0,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Psyhologiya-ta-sotsiologiya-na_sajt.pdf",
+    "sourceFile": "data/raw/psychology-sociology/psychology-sociology-yefvv-2024.pdf",
+    "pageNumber": 12,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "psychology-sociology",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 68,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Обсяг випадкової вибірки становив 2500 осіб. Скільки анкет повернулося з «поля», якщо недосяжність респондентів становила 10%?",
+    "rawOptions": [
+      "2250.",
+      "250.",
+      "1150.",
+      "1500."
+    ],
+    "rawCorrectAnswer": 0,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Psyhologiya-ta-sotsiologiya-na_sajt.pdf",
+    "sourceFile": "data/raw/psychology-sociology/psychology-sociology-yefvv-2024.pdf",
+    "pageNumber": 12,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "psychology-sociology",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 69,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Які два типи соціально-психологічного впливу чергуються у розвитку людства, згідно з концепцією Габріеля Тарда?",
+    "rawOptions": [
+      "Навіювання та чутки.",
+      "Звичай та мода.",
+      "Зараження та переконання.",
+      "Наслідування та навчання."
+    ],
+    "rawCorrectAnswer": 1,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Psyhologiya-ta-sotsiologiya-na_sajt.pdf",
+    "sourceFile": "data/raw/psychology-sociology/psychology-sociology-yefvv-2024.pdf",
+    "pageNumber": 13,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "psychology-sociology",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 70,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Як результат застосування якого методу збору інформації отримано такі дані: «70% вважають, що Новий рік – це сімейне свято; 15% – що це свято друзів; 10% – не вважають Новий рік святом взагалі; 5% не змогли визначитися з відповіддю»?",
+    "rawOptions": [
+      "Аналіз документів.",
+      "Опитування.",
+      "Спостереження.",
+      "Експеримент."
+    ],
+    "rawCorrectAnswer": 1,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Psyhologiya-ta-sotsiologiya-na_sajt.pdf",
+    "sourceFile": "data/raw/psychology-sociology/psychology-sociology-yefvv-2024.pdf",
+    "pageNumber": 13,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "psychology-sociology",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 71,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Дитина йде до школи, щоб навчатися, але при цьому батьки отримують можливість займатися роботою та вивільняють свій час. Якою категорією Роберта Мертона можна було б описати таку ситуацію?",
+    "rawOptions": [
+      "Дисфункція структури.",
+      "Структурне обмеження.",
+      "Латентна функція.",
+      "Функціональна вимога."
+    ],
+    "rawCorrectAnswer": 2,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Psyhologiya-ta-sotsiologiya-na_sajt.pdf",
+    "sourceFile": "data/raw/psychology-sociology/psychology-sociology-yefvv-2024.pdf",
+    "pageNumber": 13,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "psychology-sociology",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 72,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Якому саме рівню несвідомого належить, за К. Г. Юнгом, архетип «дерево життя»?",
+    "rawOptions": [
+      "Індивідуального.",
+      "Колективного.",
+      "Національного.",
+      "Сімейного."
+    ],
+    "rawCorrectAnswer": 1,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Psyhologiya-ta-sotsiologiya-na_sajt.pdf",
+    "sourceFile": "data/raw/psychology-sociology/psychology-sociology-yefvv-2024.pdf",
+    "pageNumber": 13,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "psychology-sociology",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 73,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Винахіднику просто цікаво з наявного витворити щось невідоме до нього. До якого типу відніс би це явище Вільфредо Парето?",
+    "rawOptions": [
+      "Соціальності.",
+      "Комбінацій.",
+      "Збереження агрегатів.",
+      "Цілісності індивіда."
+    ],
+    "rawCorrectAnswer": 1,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Psyhologiya-ta-sotsiologiya-na_sajt.pdf",
+    "sourceFile": "data/raw/psychology-sociology/psychology-sociology-yefvv-2024.pdf",
+    "pageNumber": 13,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "psychology-sociology",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 74,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "До якого типу соціальних груп належить натовп?",
+    "rawOptions": [
+      "Квазігрупа.",
+      "Мала група.",
+      "Професійна група.",
+      "Формальна група."
+    ],
+    "rawCorrectAnswer": 0,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Psyhologiya-ta-sotsiologiya-na_sajt.pdf",
+    "sourceFile": "data/raw/psychology-sociology/psychology-sociology-yefvv-2024.pdf",
+    "pageNumber": 13,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "psychology-sociology",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 75,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "На якій стадії кар’єрного росту в організації перебуває індивід, якщо він має беззаперечний авторитет у професійному колі, достатньо багато однодумців та учнів?",
+    "rawOptions": [
+      "Наставник.",
+      "Адепт.",
+      "Майстер.",
+      "Інтернал."
+    ],
+    "rawCorrectAnswer": 0,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Psyhologiya-ta-sotsiologiya-na_sajt.pdf",
+    "sourceFile": "data/raw/psychology-sociology/psychology-sociology-yefvv-2024.pdf",
+    "pageNumber": 14,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "psychology-sociology",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 76,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Які соціальні групи для індивіда є еталонними під час формування своїх поглядів?",
+    "rawOptions": [
+      "Штучні.",
+      "Референтні.",
+      "Статичні.",
+      "Цільові."
+    ],
+    "rawCorrectAnswer": 1,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Psyhologiya-ta-sotsiologiya-na_sajt.pdf",
+    "sourceFile": "data/raw/psychology-sociology/psychology-sociology-yefvv-2024.pdf",
+    "pageNumber": 14,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "psychology-sociology",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 77,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Якщо досліджується випадок масового триденного страйку, який завершився застосуванням зброї і конфліктом з місцевою владою, то яка теорія має пояснювальний потенціал в цьому випадку?",
+    "rawOptions": [
+      "Теорія «Дзеркального Я» Ч. Х. Кулі.",
+      "Теорія символічного інтеракціонізму Дж Г. Міда.",
+      "Теорія психології натовпу Г. Лебона.",
+      "Теорія «соціального організму» Г. Спенсера."
+    ],
+    "rawCorrectAnswer": 2,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Psyhologiya-ta-sotsiologiya-na_sajt.pdf",
+    "sourceFile": "data/raw/psychology-sociology/psychology-sociology-yefvv-2024.pdf",
+    "pageNumber": 14,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "psychology-sociology",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 78,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Який вчений використовував метафоричні терміни «лиси» та «леви» для позначення різних типів еліт?",
+    "rawOptions": [
+      "Вільфредо Парето.",
+      "Толкотт Парсонс.",
+      "Гюстав Лебон.",
+      "Джордж Герберт Мід."
+    ],
+    "rawCorrectAnswer": 0,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Psyhologiya-ta-sotsiologiya-na_sajt.pdf",
+    "sourceFile": "data/raw/psychology-sociology/psychology-sociology-yefvv-2024.pdf",
+    "pageNumber": 14,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "psychology-sociology",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 79,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Статистична похибка вибірки соціологічного дослідження, проведеного напередодні виборів міського голови, не перевищує ±3,0% для показників, близьких до 25%. Яким є висновок для трьох кандидатів на посаду А, В і С, які отримали 20,4%, 22,8% та 27,4% відповідно?",
+    "rawOptions": [
+      "Усі кандидати мають однакові шанси на перемогу у виборах, бо довірчі інтервали для їхніх показників перетинаються.",
+      "Кандидат С переможе у виборах, бо довірчий інтервал для отриманого ним відсотка не перетинається з іншими інтервалами.",
+      "Кандидати В і С мають шанс на перемогу у виборах, бо довірчі інтервали для їхніх показників перетинаються.",
+      "Кандидат А не має шансу за умови зняття кандидатури С, бо довірчі інтервали для показників кандидатів А і В не перетинаються."
+    ],
+    "rawCorrectAnswer": 2,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Psyhologiya-ta-sotsiologiya-na_sajt.pdf",
+    "sourceFile": "data/raw/psychology-sociology/psychology-sociology-yefvv-2024.pdf",
+    "pageNumber": 14,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "psychology-sociology",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 80,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Яка ознака є універсальною для будь-якої соціальної групи?",
+    "rawOptions": [
+      "Вибудовування взаємодії на основі емоцій.",
+      "Наявність формалізованих правил взаємодії в групі.",
+      "Наявність ролей та статусів.",
+      "Безособовий характер взаємодії."
+    ],
+    "rawCorrectAnswer": 2,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Psyhologiya-ta-sotsiologiya-na_sajt.pdf",
+    "sourceFile": "data/raw/psychology-sociology/psychology-sociology-yefvv-2024.pdf",
+    "pageNumber": 15,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "psychology-sociology",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 81,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "До запитання про власну релігійність респонденту запропонували одинадцятибальну шкалу із підписами окремих градацій: 0 – зовсім не релігійний, 1 – малорелігійний, …, 10 – повністю релігійний. Яка це шкала?",
+    "rawOptions": [
+      "Номінальна.",
+      "Інтервальна.",
+      "Порядкова.",
+      "Відношень."
+    ],
+    "rawCorrectAnswer": 2,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Psyhologiya-ta-sotsiologiya-na_sajt.pdf",
+    "sourceFile": "data/raw/psychology-sociology/psychology-sociology-yefvv-2024.pdf",
+    "pageNumber": 15,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "psychology-sociology",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 82,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "До якої галузі психології варто звернутися за необхідності отримання інформації про особливості розвитку психіки в онтогенезі?",
+    "rawOptions": [
+      "Педагогічної.",
+      "Медичної.",
+      "Юридичної.",
+      "Вікової."
+    ],
+    "rawCorrectAnswer": 3,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Psyhologiya-ta-sotsiologiya-na_sajt.pdf",
+    "sourceFile": "data/raw/psychology-sociology/psychology-sociology-yefvv-2024.pdf",
+    "pageNumber": 15,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "psychology-sociology",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 83,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Що є предметом соціології за Емілем Дюркгаймом?",
+    "rawOptions": [
+      "Соціальна солідарність.",
+      "Соціальна дія.",
+      "Соціальний організм.",
+      "Соціальні форми."
+    ],
+    "rawCorrectAnswer": 0,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Psyhologiya-ta-sotsiologiya-na_sajt.pdf",
+    "sourceFile": "data/raw/psychology-sociology/psychology-sociology-yefvv-2024.pdf",
+    "pageNumber": 15,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "psychology-sociology",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 84,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Який механізм міжособистісного сприймання виявляється за наслідування дитиною тих дій, мовленнєвих висловлювань, звичок інших, які вона спостерігала під час взаємодії з батьками, братами і сестрами?",
+    "rawOptions": [
+      "Емпатія.",
+      "Соціальна установка.",
+      "Ідентифікація.",
+      "Соціальна рефлексія."
+    ],
+    "rawCorrectAnswer": 2,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Psyhologiya-ta-sotsiologiya-na_sajt.pdf",
+    "sourceFile": "data/raw/psychology-sociology/psychology-sociology-yefvv-2024.pdf",
+    "pageNumber": 15,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "psychology-sociology",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 85,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Який з наведених термінів визначає спосіб пізнання іншої людини, коли припущення про внутрішній стан будується на основі спроби поставити себе на її місце?",
+    "rawOptions": [
+      "Ідентифікація.",
+      "Атракція.",
+      "Емпатія.",
+      "Каузальна атрибуція."
+    ],
+    "rawCorrectAnswer": 0,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Psyhologiya-ta-sotsiologiya-na_sajt.pdf",
+    "sourceFile": "data/raw/psychology-sociology/psychology-sociology-yefvv-2024.pdf",
+    "pageNumber": 15,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "psychology-sociology",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 86,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Чого у ставленні з боку інших ми просимо фразою: «Поставте себе на моє місце»?",
+    "rawOptions": [
+      "Ідентифікації.",
+      "Атракції.",
+      "Атрибуції.",
+      "Комунікації."
+    ],
+    "rawCorrectAnswer": 0,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Psyhologiya-ta-sotsiologiya-na_sajt.pdf",
+    "sourceFile": "data/raw/psychology-sociology/psychology-sociology-yefvv-2024.pdf",
+    "pageNumber": 16,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "psychology-sociology",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 87,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Викладач, пропрацювавши 9 років доцентом, отримує посаду професора на тій самій кафедрі. Який тип соціальної мобільності тут здійснюється?",
+    "rawOptions": [
+      "Міжгенераційна.",
+      "Горизонтальна.",
+      "Вертикальна.",
+      "Внутрішньогенераційна."
+    ],
+    "rawCorrectAnswer": 2,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Psyhologiya-ta-sotsiologiya-na_sajt.pdf",
+    "sourceFile": "data/raw/psychology-sociology/psychology-sociology-yefvv-2024.pdf",
+    "pageNumber": 16,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "psychology-sociology",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 88,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Яка з наведених форм девіації, за типологією Р. Мертона, описує поведінку науковця, який у пошуках істини пориває із прийнятою у науковому середовищі парадигмою?",
+    "rawOptions": [
+      "Інновація.",
+      "Конформізм.",
+      "Ретритизм.",
+      "Ритуалізм."
+    ],
+    "rawCorrectAnswer": 0,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Psyhologiya-ta-sotsiologiya-na_sajt.pdf",
+    "sourceFile": "data/raw/psychology-sociology/psychology-sociology-yefvv-2024.pdf",
+    "pageNumber": 16,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "psychology-sociology",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 89,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Проявом якої функції соціальної системи, за Т. Парсонсом, є дії вчительки, які мотивують школярів до навчання?",
+    "rawOptions": [
+      "Адаптації.",
+      "Цілепокладання.",
+      "Інтеграції.",
+      "Латентності."
+    ],
+    "rawCorrectAnswer": 3,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Psyhologiya-ta-sotsiologiya-na_sajt.pdf",
+    "sourceFile": "data/raw/psychology-sociology/psychology-sociology-yefvv-2024.pdf",
+    "pageNumber": 16,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "psychology-sociology",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 90,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Педагог ініціює чимало загальношкільних заходів, охоче та багато спілкується з учнями та колегами, з інтересом опановує інноваційні технології навчання, проєктує власну кар'єру. Про який етап професіоналізації йдеться?",
+    "rawOptions": [
+      "Професійного становлення.",
+      "Професійної підготовки.",
+      "Професійної адаптації.",
+      "Професійної майстерності."
+    ],
+    "rawCorrectAnswer": 0,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Psyhologiya-ta-sotsiologiya-na_sajt.pdf",
+    "sourceFile": "data/raw/psychology-sociology/psychology-sociology-yefvv-2024.pdf",
+    "pageNumber": 16,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "psychology-sociology",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 91,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "У країні, де відбулася зміна влади, спостерігається міграція в іншу країну політично активних діячів колишнього уряду, які чекають можливості повернутися назад. До якого виду міграції належить це переміщення?",
+    "rawOptions": [
+      "Економічної.",
+      "Тимчасової.",
+      "Постійної.",
+      "Незворотньої."
+    ],
+    "rawCorrectAnswer": 1,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Psyhologiya-ta-sotsiologiya-na_sajt.pdf",
+    "sourceFile": "data/raw/psychology-sociology/psychology-sociology-yefvv-2024.pdf",
+    "pageNumber": 17,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "psychology-sociology",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 92,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Яке з тверджень описує відмінність між поняттями «людина» та «індивід»?",
+    "rawOptions": [
+      "«Людина» описує фізичні характеристики особи, «індивід» – особистісні риси особи.",
+      "«Людина» вказує на загальну категорію людства, «індивід» описує окрему особу.",
+      "«Людина» належить до фізичного аспекту особи, «індивід» охоплює соціальну роль і статус особи.",
+      "«Людина» використовується для опису соціальних ролей особи, «індивід» вказує на унікальні особистісні риси особи."
+    ],
+    "rawCorrectAnswer": 1,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Psyhologiya-ta-sotsiologiya-na_sajt.pdf",
+    "sourceFile": "data/raw/psychology-sociology/psychology-sociology-yefvv-2024.pdf",
+    "pageNumber": 17,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "psychology-sociology",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 93,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Яку шкалу потрібно використати для вимірювання рівня задоволеності розміром заробітної платні?",
+    "rawOptions": [
+      "Номінальну.",
+      "Порядкову.",
+      "Відношень.",
+      "Інтервальну."
+    ],
+    "rawCorrectAnswer": 1,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Psyhologiya-ta-sotsiologiya-na_sajt.pdf",
+    "sourceFile": "data/raw/psychology-sociology/psychology-sociology-yefvv-2024.pdf",
+    "pageNumber": 17,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "psychology-sociology",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 94,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Студентка завершує своє навчання. У процесі вибору з-поміж двох пропозицій роботи вона аналізує подібні попередні ситуації зі свого життя, щоб зрозуміти, які рішення були успішними, а які – ні. Яку стратегію творчого конструювання життєвого шляху В. О. Моляко вона використала?",
+    "rawOptions": [
+      "Комбінаторних дій.",
+      "Універсальну.",
+      "Спонтанну.",
+      "Пошуку аналогів."
+    ],
+    "rawCorrectAnswer": 3,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Psyhologiya-ta-sotsiologiya-na_sajt.pdf",
+    "sourceFile": "data/raw/psychology-sociology/psychology-sociology-yefvv-2024.pdf",
+    "pageNumber": 17,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "psychology-sociology",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 95,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Яка функція соціології виявляється у цілеспрямованій дії щодо соціальних систем і процесів з метою оптимізації напряму, темпів їх розвитку й функціонування?",
+    "rawOptions": [
+      "Інформаційна.",
+      "Управлінська.",
+      "Описова.",
+      "Критична."
+    ],
+    "rawCorrectAnswer": 1,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Psyhologiya-ta-sotsiologiya-na_sajt.pdf",
+    "sourceFile": "data/raw/psychology-sociology/psychology-sociology-yefvv-2024.pdf",
+    "pageNumber": 17,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "psychology-sociology",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 96,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Який тип девіантної поведінки пов'язаний зі шкідливими звичками?",
+    "rawOptions": [
+      "Адиктивний.",
+      "Аморальний.",
+      "Суїцидальний.",
+      "Делінквентний."
+    ],
+    "rawCorrectAnswer": 0,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Psyhologiya-ta-sotsiologiya-na_sajt.pdf",
+    "sourceFile": "data/raw/psychology-sociology/psychology-sociology-yefvv-2024.pdf",
+    "pageNumber": 17,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "psychology-sociology",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 97,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Який вид діяльності, не будучи виробництвом матеріального чи ідеального продукту, є першим етапом в процесі соціалізації, що виникла під впливом актуальних потреб людини?",
+    "rawOptions": [
+      "Гра.",
+      "Навчання.",
+      "Праця.",
+      "Спілкування."
+    ],
+    "rawCorrectAnswer": 0,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Psyhologiya-ta-sotsiologiya-na_sajt.pdf",
+    "sourceFile": "data/raw/psychology-sociology/psychology-sociology-yefvv-2024.pdf",
+    "pageNumber": 18,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "psychology-sociology",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 98,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Яка з потреб особистості НЕ належить до переліку соціальних, за класифікацією А. Маслоу?",
+    "rawOptions": [
+      "У належності до колективу.",
+      "У турботі про інших.",
+      "У безпеці існування.",
+      "У самоактуалізації."
+    ],
+    "rawCorrectAnswer": 2,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Psyhologiya-ta-sotsiologiya-na_sajt.pdf",
+    "sourceFile": "data/raw/psychology-sociology/psychology-sociology-yefvv-2024.pdf",
+    "pageNumber": 18,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "psychology-sociology",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 99,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Що є предметом вчення Огюста Конта про соціальну динаміку?",
+    "rawOptions": [
+      "Соціальні норми та порядок.",
+      "Соціальна структура та стратифікація.",
+      "Типові взаємодії між компонентами соціальної системи.",
+      "Розумовий розвиток людства."
+    ],
+    "rawCorrectAnswer": 3,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Psyhologiya-ta-sotsiologiya-na_sajt.pdf",
+    "sourceFile": "data/raw/psychology-sociology/psychology-sociology-yefvv-2024.pdf",
+    "pageNumber": 18,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "psychology-sociology",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 100,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "«Найбільше новин із позитивною тональністю тексту – це новини, які висвітлюють позицію Президента України (65% від усіх його повідомлень та 47% від загальної кількості «позитивних» новин)». Результатом якого дослідження є цей фрагмент?",
+    "rawOptions": [
+      "Контент-аналітичного.",
+      "Фокус-групового.",
+      "Соціометричного.",
+      "Експертного."
+    ],
+    "rawCorrectAnswer": 0,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Psyhologiya-ta-sotsiologiya-na_sajt.pdf",
+    "sourceFile": "data/raw/psychology-sociology/psychology-sociology-yefvv-2024.pdf",
+    "pageNumber": 18,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "psychology-sociology",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 101,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Яким поняттям позначають бажання людини заспокоїти, втішити чи розділити переживання з іншими?",
+    "rawOptions": [
+      "Емпатія.",
+      "Атракція.",
+      "Симпатія.",
+      "Ідентифікація."
+    ],
+    "rawCorrectAnswer": 0,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Psyhologiya-ta-sotsiologiya-na_sajt.pdf",
+    "sourceFile": "data/raw/psychology-sociology/psychology-sociology-yefvv-2024.pdf",
+    "pageNumber": 18,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "psychology-sociology",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 102,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Результати соціологічного дослідження засвідчили, що 40% лікарів і викладачів час від часу змінювали свої сімейні плани через професійні обов'язки; робота ускладнювала для них виконання сімейних ролей. Який вид конфлікту описано у цій ситуації?",
+    "rawOptions": [
+      "Міжгруповий.",
+      "Міжрольовий.",
+      "Міжособистісний.",
+      "Внутрішньогруповий."
+    ],
+    "rawCorrectAnswer": 1,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Psyhologiya-ta-sotsiologiya-na_sajt.pdf",
+    "sourceFile": "data/raw/psychology-sociology/psychology-sociology-yefvv-2024.pdf",
+    "pageNumber": 19,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "psychology-sociology",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 103,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Після багатьох років успішної кар’єри керівник відчув страх втрати перспектив розвитку впоратися і вирішив поки зосередитися на збереженні свого статусу та власного добробуту і здоров’я. Чим зумовлена така його поведінка?",
+    "rawOptions": [
+      "Професійною деформацією.",
+      "Професійною ідентичністю.",
+      "Професійною кризою.",
+      "Професійним становленням."
+    ],
+    "rawCorrectAnswer": 2,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Psyhologiya-ta-sotsiologiya-na_sajt.pdf",
+    "sourceFile": "data/raw/psychology-sociology/psychology-sociology-yefvv-2024.pdf",
+    "pageNumber": 19,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "psychology-sociology",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 104,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Який соціально-психологічний механізм моди призводить і до уніфікації індивідів, і до поширення нових соціально цінних ідей, соціальних стандартів поведінки у великих групах?",
+    "rawOptions": [
+      "Наслідування.",
+      "Зараження.",
+      "Навіювання.",
+      "Ідентифікація."
+    ],
+    "rawCorrectAnswer": 0,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Psyhologiya-ta-sotsiologiya-na_sajt.pdf",
+    "sourceFile": "data/raw/psychology-sociology/psychology-sociology-yefvv-2024.pdf",
+    "pageNumber": 19,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "psychology-sociology",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 105,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "За результатами вимірювання ознаки дослідник розрахував усі показники описової статистики. Який тип шкали використано під час вимірювання цієї ознаки?",
+    "rawOptions": [
+      "Інтервальна.",
+      "Відношень.",
+      "Порядкова.",
+      "Номінальна."
+    ],
+    "rawCorrectAnswer": 1,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Psyhologiya-ta-sotsiologiya-na_sajt.pdf",
+    "sourceFile": "data/raw/psychology-sociology/psychology-sociology-yefvv-2024.pdf",
+    "pageNumber": 19,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "psychology-sociology",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 106,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Дослідження якого автора сприяли тому, що предметом психології, замість «душі», почали вважати «свідомість»?",
+    "rawOptions": [
+      "Фоми Аквінського.",
+      "Платона.",
+      "Декарта.",
+      "Фройда."
+    ],
+    "rawCorrectAnswer": 2,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Psyhologiya-ta-sotsiologiya-na_sajt.pdf",
+    "sourceFile": "data/raw/psychology-sociology/psychology-sociology-yefvv-2024.pdf",
+    "pageNumber": 19,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "psychology-sociology",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 107,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Досліднику потрібно порівняти здатність змінюватися двох величин, які мають різну розмірність. Який коефіцієнт необхідно використати, крім дисперсії та стандартного відхилення?",
+    "rawOptions": [
+      "Рангової кореляції.",
+      "Коефіцієнт варіації.",
+      "Коефіцієнт Джині.",
+      "Коефіцієнт детермінації."
+    ],
+    "rawCorrectAnswer": 1,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Psyhologiya-ta-sotsiologiya-na_sajt.pdf",
+    "sourceFile": "data/raw/psychology-sociology/psychology-sociology-yefvv-2024.pdf",
+    "pageNumber": 20,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "psychology-sociology",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 108,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "До якого типу соціальних груп належить молодь?",
+    "rawOptions": [
+      "Демографічної.",
+      "Класової.",
+      "Професійної.",
+      "Територіальної."
+    ],
+    "rawCorrectAnswer": 0,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Psyhologiya-ta-sotsiologiya-na_sajt.pdf",
+    "sourceFile": "data/raw/psychology-sociology/psychology-sociology-yefvv-2024.pdf",
+    "pageNumber": 20,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "psychology-sociology",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 109,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Яка характеристика НЕ входить до портрету потенційного суїциданта?",
+    "rawOptions": [
+      "Наявність самогубців серед близьких родичів.",
+      "Наявність спроб суїциду, нав’язливі думки про суїцид.",
+      "Акцентуйованість особистості, незбалансована психіка.",
+      "Типова гіперактивність, одночасне виконання декількох справ."
+    ],
+    "rawCorrectAnswer": 3,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Psyhologiya-ta-sotsiologiya-na_sajt.pdf",
+    "sourceFile": "data/raw/psychology-sociology/psychology-sociology-yefvv-2024.pdf",
+    "pageNumber": 20,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "psychology-sociology",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 110,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Як характеризується зв'язок між Х та У, якщо коефіцієнт кореляції показує r=0,85?",
+    "rawOptions": [
+      "Сильний позитивний.",
+      "Слабкий позитивний.",
+      "Сильний негативний.",
+      "Немає."
+    ],
+    "rawCorrectAnswer": 0,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Psyhologiya-ta-sotsiologiya-na_sajt.pdf",
+    "sourceFile": "data/raw/psychology-sociology/psychology-sociology-yefvv-2024.pdf",
+    "pageNumber": 20,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "psychology-sociology",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 111,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Який метод збору інформації використовують під час дослідження тенденції розвитку мобільних додатків через з'ясування думки програмістів і дизайнерів, які їх створюють?",
+    "rawOptions": [
+      "Експертне інтерв'ю.",
+      "Соціометрія.",
+      "Спостереження.",
+      "Аналіз документів."
+    ],
+    "rawCorrectAnswer": 0,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Psyhologiya-ta-sotsiologiya-na_sajt.pdf",
+    "sourceFile": "data/raw/psychology-sociology/psychology-sociology-yefvv-2024.pdf",
+    "pageNumber": 20,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "psychology-sociology",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 112,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Яким поняттям Макс Вебер описує поведінку, засновану на вірі в соціальний порядок?",
+    "rawOptions": [
+      "Легітимність.",
+      "Легальність.",
+      "Значущість.",
+      "Орієнтація."
+    ],
+    "rawCorrectAnswer": 0,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Psyhologiya-ta-sotsiologiya-na_sajt.pdf",
+    "sourceFile": "data/raw/psychology-sociology/psychology-sociology-yefvv-2024.pdf",
+    "pageNumber": 20,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "psychology-sociology",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 113,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "«– Кого саме ви очікуєте? – запитав Бошан. – Одного аристократа та одного дипломата, – відповів Альбер». Якою з основних категорій соціології та психології описуються обидві характеристики, що їх дав гостям Альбер де Морсер, герой Дюма?",
+    "rawOptions": [
+      "Людина.",
+      "Індивід.",
+      "Індивідуальність.",
+      "Соціальні статуси та ролі."
+    ],
+    "rawCorrectAnswer": 3,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Psyhologiya-ta-sotsiologiya-na_sajt.pdf",
+    "sourceFile": "data/raw/psychology-sociology/psychology-sociology-yefvv-2024.pdf",
+    "pageNumber": 21,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "psychology-sociology",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 114,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Як називаються групи, які беруть участь у дослідженні та підлягають цілеспрямованому впливу з боку дослідників?",
+    "rawOptions": [
+      "Еталонні.",
+      "Контрольні.",
+      "Нейтральні.",
+      "Експериментальні."
+    ],
+    "rawCorrectAnswer": 3,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Psyhologiya-ta-sotsiologiya-na_sajt.pdf",
+    "sourceFile": "data/raw/psychology-sociology/psychology-sociology-yefvv-2024.pdf",
+    "pageNumber": 21,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "psychology-sociology",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 115,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Яка ознака є типовою для кризових періодів у процесі професійного розвитку особистості?",
+    "rawOptions": [
+      "Зниження задоволеності діяльністю та умовами її здійснення.",
+      "Здійснення позитивно-мобілізаційного впливу на інших суб'єктів діяльності.",
+      "Протистояння деструктивним чинникам професійного середовища.",
+      "Самовизначення в складних ситуаціях професійної діяльності."
+    ],
+    "rawCorrectAnswer": 0,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Psyhologiya-ta-sotsiologiya-na_sajt.pdf",
+    "sourceFile": "data/raw/psychology-sociology/psychology-sociology-yefvv-2024.pdf",
+    "pageNumber": 21,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "psychology-sociology",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 116,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Дослідники отримали 850 заповнених анкет із 1000 запланованих. Яким є показник досяжності респондентів для цього опитування?",
+    "rawOptions": [
+      "85%.",
+      "15%.",
+      "18%.",
+      "82%."
+    ],
+    "rawCorrectAnswer": 0,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Psyhologiya-ta-sotsiologiya-na_sajt.pdf",
+    "sourceFile": "data/raw/psychology-sociology/psychology-sociology-yefvv-2024.pdf",
+    "pageNumber": 21,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "psychology-sociology",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 117,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Яка ситуація є прикладом висхідної групової мобільності?",
+    "rawOptions": [
+      "Звільнення працівників у зв’язку з ліквідацією підприємства.",
+      "Зростання чисельності футбольного фан-клубу.",
+      "Перемога опозиційної політичної партії на виборах.",
+      "Зникнення професії телефоніст."
+    ],
+    "rawCorrectAnswer": 2,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Psyhologiya-ta-sotsiologiya-na_sajt.pdf",
+    "sourceFile": "data/raw/psychology-sociology/psychology-sociology-yefvv-2024.pdf",
+    "pageNumber": 21,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "psychology-sociology",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 118,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Під час проведення фокус-групи її учасники взаємодіють один з одним, як результат складається система взаємовідносин, яка базується на неформальних статусах та ролях і змінюється від початку до завершення групової дискусії. Про що йдеться в описаній ситуації?",
+    "rawOptions": [
+      "Соціальна адаптація.",
+      "Групова динаміка.",
+      "Самоідентифікація.",
+      "Соціальна інтеграція."
+    ],
+    "rawCorrectAnswer": 1,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Psyhologiya-ta-sotsiologiya-na_sajt.pdf",
+    "sourceFile": "data/raw/psychology-sociology/psychology-sociology-yefvv-2024.pdf",
+    "pageNumber": 21,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "psychology-sociology",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 119,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Що з переліченого найповніше відображає об'єкт соціології як науки?",
+    "rawOptions": [
+      "Сфери соціального буття.",
+      "Закони розвитку виробничих організацій.",
+      "Соціальні дії членів референтних груп.",
+      "Соціальні зв’язки між соціальними інститутами."
+    ],
+    "rawCorrectAnswer": 0,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Psyhologiya-ta-sotsiologiya-na_sajt.pdf",
+    "sourceFile": "data/raw/psychology-sociology/psychology-sociology-yefvv-2024.pdf",
+    "pageNumber": 22,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "psychology-sociology",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 120,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Який підхід до роботи уможливлює уникнення професійних криз?",
+    "rawOptions": [
+      "Переключення і перебудова активності.",
+      "Уникання будь-яких конфліктів.",
+      "Опозиційне ставлення до колег.",
+      "Формалізація виконуваних завдань."
+    ],
+    "rawCorrectAnswer": 0,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Psyhologiya-ta-sotsiologiya-na_sajt.pdf",
+    "sourceFile": "data/raw/psychology-sociology/psychology-sociology-yefvv-2024.pdf",
+    "pageNumber": 22,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "psychology-sociology",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 121,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Яка форма спільності людей складається історично з різних етносів у процесі розвитку суспільства і ґрунтується на спільності мови, території, культури, економічних зв’язків?",
+    "rawOptions": [
+      "Етнос.",
+      "Плем’я.",
+      "Клан.",
+      "Народність."
+    ],
+    "rawCorrectAnswer": 0,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Psyhologiya-ta-sotsiologiya-na_sajt.pdf",
+    "sourceFile": "data/raw/psychology-sociology/psychology-sociology-yefvv-2024.pdf",
+    "pageNumber": 22,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "psychology-sociology",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 122,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Які елементи виділяв О. Конт у структурі соціологічного знання?",
+    "rawOptions": [
+      "Соціальну фізіологію та соціальну морфологію.",
+      "Теоретичну та емпіричну соціологію.",
+      "Макросоціологію та мікросоціологію.",
+      "Соціальну статику та соціальну динаміку."
+    ],
+    "rawCorrectAnswer": 3,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Psyhologiya-ta-sotsiologiya-na_sajt.pdf",
+    "sourceFile": "data/raw/psychology-sociology/psychology-sociology-yefvv-2024.pdf",
+    "pageNumber": 22,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "psychology-sociology",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 123,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Перед проведенням стандартизованого спостереження за невербальною комунікацією було визначено її емпіричні показники та одиниці спостереження. Яку процедуру здійснили дослідники?",
+    "rawOptions": [
+      "Екстеріоризацію.",
+      "Квантифікацію.",
+      "Операціоналізацію.",
+      "Формалізацію."
+    ],
+    "rawCorrectAnswer": 2,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Psyhologiya-ta-sotsiologiya-na_sajt.pdf",
+    "sourceFile": "data/raw/psychology-sociology/psychology-sociology-yefvv-2024.pdf",
+    "pageNumber": 22,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "psychology-sociology",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 124,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Який вид соціальної дії, за М. Вебером, відповідає ідеальному типу панування у суспільстві?",
+    "rawOptions": [
+      "Традиційний.",
+      "Цілераціональний.",
+      "Ціннісно-раціональний.",
+      "Афективний."
+    ],
+    "rawCorrectAnswer": 1,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Psyhologiya-ta-sotsiologiya-na_sajt.pdf",
+    "sourceFile": "data/raw/psychology-sociology/psychology-sociology-yefvv-2024.pdf",
+    "pageNumber": 22,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "psychology-sociology",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 125,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Який метод підвищення якості інформації НЕ застосовують до складної випадкової вибірки задля забезпечення її репрезентативності?",
+    "rawOptions": [
+      "Адаптування.",
+      "Валідизація.",
+      "Калібрування.",
+      "Відсікання."
+    ],
+    "rawCorrectAnswer": 1,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Psyhologiya-ta-sotsiologiya-na_sajt.pdf",
+    "sourceFile": "data/raw/psychology-sociology/psychology-sociology-yefvv-2024.pdf",
+    "pageNumber": 23,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "psychology-sociology",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 126,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Яка підструктура особистості поєднує набуті індивідом у ході соціалізації знання, уміння і навички?",
+    "rawOptions": [
+      "Соціального досвіду.",
+      "Психологічна.",
+      "Біологічна.",
+      "Спрямованості особистості."
+    ],
+    "rawCorrectAnswer": 0,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Psyhologiya-ta-sotsiologiya-na_sajt.pdf",
+    "sourceFile": "data/raw/psychology-sociology/psychology-sociology-yefvv-2024.pdf",
+    "pageNumber": 23,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "psychology-sociology",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 127,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "У якому випадку варто використати стиль конкуренції?",
+    "rawOptions": [
+      "Рішення необхідно прийняти швидко, і для цього є достатньо влади.",
+      "Неможливо уникнути додаткових неприємностей під час розв’язання проблеми.",
+      "Був важкий день, а розв’язання цієї проблеми може принести додаткові неприємності.",
+      "очеться зберегти мир і добрі стосунки з іншими людьми."
+    ],
+    "rawCorrectAnswer": 0,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Psyhologiya-ta-sotsiologiya-na_sajt.pdf",
+    "sourceFile": "data/raw/psychology-sociology/psychology-sociology-yefvv-2024.pdf",
+    "pageNumber": 23,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "psychology-sociology",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 128,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Внаслідок застосування якого методу збору інформації отримано результат: «75% покупців ретельно розглядають товар і лише потім його купують; 20% – роздивляються кілька товарів, достатньо ретельно, але не купують нічого; 5% – підходячи до прилавка, питають про конкретний товар і відразу купують його»?",
+    "rawOptions": [
+      "Спостереження.",
+      "Опитування.",
+      "Аналізу документів.",
+      "Експерименту."
+    ],
+    "rawCorrectAnswer": 0,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Psyhologiya-ta-sotsiologiya-na_sajt.pdf",
+    "sourceFile": "data/raw/psychology-sociology/psychology-sociology-yefvv-2024.pdf",
+    "pageNumber": 23,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "psychology-sociology",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 129,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Менеджер вивчає ринок і конкурентну ситуацію дуже деталізовано під час роботи. Плануючи родинні свята чи відпочинок, організовує все заздалегідь і ставить детальні плани. Яке явище проявляється в ситуації?",
+    "rawOptions": [
+      "Емоційне вигорання.",
+      "Професійна деформація.",
+      "Професійне вигорання.",
+      "Деперсоналізація."
+    ],
+    "rawCorrectAnswer": 1,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Psyhologiya-ta-sotsiologiya-na_sajt.pdf",
+    "sourceFile": "data/raw/psychology-sociology/psychology-sociology-yefvv-2024.pdf",
+    "pageNumber": 23,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "psychology-sociology",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 130,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Які внутрішні механізми спонукають людину до дії?",
+    "rawOptions": [
+      "Поведінка.",
+      "Цінність.",
+      "Мотив.",
+      "Мета."
+    ],
+    "rawCorrectAnswer": 2,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Psyhologiya-ta-sotsiologiya-na_sajt.pdf",
+    "sourceFile": "data/raw/psychology-sociology/psychology-sociology-yefvv-2024.pdf",
+    "pageNumber": 23,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "psychology-sociology",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 131,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Що з наведеного НЕ може бути принципом застосування контент-аналізу?",
+    "rawOptions": [
+      "Необхідність у високому ступені точності аналізу.",
+      "Наявність великого за обсягом і несистематизованого матеріалу.",
+      "Категорії, важливі для цілей дослідження, трапляються часто.",
+      "Мова джерела інформації жорстко формалізована."
+    ],
+    "rawCorrectAnswer": 3,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Psyhologiya-ta-sotsiologiya-na_sajt.pdf",
+    "sourceFile": "data/raw/psychology-sociology/psychology-sociology-yefvv-2024.pdf",
+    "pageNumber": 24,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "psychology-sociology",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 132,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "З яким рівнем об’єкта соціології співвідноситься дослідження «Ставлення молоді до власного бізнесу у сучасному українському суспільстві»?",
+    "rawOptions": [
+      "Мікрорівнем.",
+      "Мезорівнем.",
+      "Макрорівнем.",
+      "Мегарівнем."
+    ],
+    "rawCorrectAnswer": 1,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Psyhologiya-ta-sotsiologiya-na_sajt.pdf",
+    "sourceFile": "data/raw/psychology-sociology/psychology-sociology-yefvv-2024.pdf",
+    "pageNumber": 24,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "psychology-sociology",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 133,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Який вид нерівності проявляється в ситуації, коли соціальна група не має доступу до інформаційних комп'ютерних технологій?",
+    "rawOptions": [
+      "Правова.",
+      "Цифрова.",
+      "Мобільна.",
+      "Культурна."
+    ],
+    "rawCorrectAnswer": 1,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Psyhologiya-ta-sotsiologiya-na_sajt.pdf",
+    "sourceFile": "data/raw/psychology-sociology/psychology-sociology-yefvv-2024.pdf",
+    "pageNumber": 24,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "psychology-sociology",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 134,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Яка потреба є найвищою згідно з «пірамідою потреб» А. Маслоу?",
+    "rawOptions": [
+      "Самоактуалізація.",
+      "Любов.",
+      "Самоповага.",
+      "Здоров'я."
+    ],
+    "rawCorrectAnswer": 0,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Psyhologiya-ta-sotsiologiya-na_sajt.pdf",
+    "sourceFile": "data/raw/psychology-sociology/psychology-sociology-yefvv-2024.pdf",
+    "pageNumber": 24,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "psychology-sociology",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 135,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Що саме Макс Вебер визначав як теоретичну конструкцію, що являє собою певний аспект або момент соціальної реальності в індивідуальній своєрідності, логічній непротирічності та раціональній правильності?",
+    "rawOptions": [
+      "Абстрагування.",
+      "Ідеалізація.",
+      "Раціоналізація.",
+      "Типізація."
+    ],
+    "rawCorrectAnswer": 1,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Psyhologiya-ta-sotsiologiya-na_sajt.pdf",
+    "sourceFile": "data/raw/psychology-sociology/psychology-sociology-yefvv-2024.pdf",
+    "pageNumber": 24,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "psychology-sociology",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 136,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Якому виду адаптації відповідає ситуація, коли студент-першокурсник прийняв норми та цінності академічної культури, але не має бажання та прагнення щось змінювати в оточенні?",
+    "rawOptions": [
+      "Гіперадаптація.",
+      "Активна адаптація.",
+      "Пасивна адаптація.",
+      "Дезадаптація."
+    ],
+    "rawCorrectAnswer": 2,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Psyhologiya-ta-sotsiologiya-na_sajt.pdf",
+    "sourceFile": "data/raw/psychology-sociology/psychology-sociology-yefvv-2024.pdf",
+    "pageNumber": 24,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "psychology-sociology",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 137,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Який тип девіантної поведінки пов'язаний з діями, що порушують закон?",
+    "rawOptions": [
+      "Аморальний.",
+      "Делінквентний.",
+      "Суїцидальний.",
+      "Адиктивний."
+    ],
+    "rawCorrectAnswer": 1,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Psyhologiya-ta-sotsiologiya-na_sajt.pdf",
+    "sourceFile": "data/raw/psychology-sociology/psychology-sociology-yefvv-2024.pdf",
+    "pageNumber": 25,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "psychology-sociology",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 138,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Яка функція психіки забезпечується приведенням суб’єкта у відповідний стан?",
+    "rawOptions": [
+      "Регулятивна.",
+      "Пізнавальна.",
+      "Інструментальна.",
+      "Інформаційна."
+    ],
+    "rawCorrectAnswer": 0,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Psyhologiya-ta-sotsiologiya-na_sajt.pdf",
+    "sourceFile": "data/raw/psychology-sociology/psychology-sociology-yefvv-2024.pdf",
+    "pageNumber": 25,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "psychology-sociology",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 139,
+    "tags": [
+      "official_collection"
+    ]
+  },
+  {
+    "rawQuestionText": "Героїня п’єси Лопе де Веги «Собака на сіні» не може наважитися вийти заміж за свого секретаря, не дивлячись на власну закоханість, оскільки він низького походження. Який з видів соціальної стратифікації тут актуалізується?",
+    "rawOptions": [
+      "Каста.",
+      "Стан.",
+      "Клас.",
+      "Рабство."
+    ],
+    "rawCorrectAnswer": 1,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2025/04/YEFVV_2024-Psyhologiya-ta-sotsiologiya-na_sajt.pdf",
+    "sourceFile": "data/raw/psychology-sociology/psychology-sociology-yefvv-2024.pdf",
+    "pageNumber": 25,
+    "confidence": "high",
+    "extractionNotes": "Parsed from `(x)` marked option in official PDF.",
+    "sourceType": "official_collection",
+    "subject": "psychology-sociology",
+    "sourceSlug": "yefvv-2024",
+    "sourceYear": "2024",
+    "originalNumber": 140,
+    "tags": [
+      "official_collection"
+    ]
+  }
+]

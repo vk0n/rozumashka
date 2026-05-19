@@ -1,0 +1,132 @@
+[
+  {
+    "rawQuestionText": "What is mentioned about pearls in PARAGRAGH 1?",
+    "rawPassage": "Confirm your choic Many thousands of years ago, long before written history, human beings probably discovered the first pearl while searching the seashore for food. Throughout history, the pearl, with its warm inner glow and shimmering, has been one of the most highly prized and desired gems. Countless references to the pearl can be found in the religions and mythology of cultures from the earliest times. Legend has it that the ancient Egyptian Queen Cleopatra dissolved a single pearl in a glass of wine and drank it, simply to prove to Mark Antony, the Roman General visiting her palace, that she could swallow the wealth of an entire nation in just one meal. In ancient Rome, pearls were considered a symbol of wealth and social standing. The Greeks valued the pearl for both its extraordinary beauty and association with love and marriage. During the Dark Ages, while ladies from wealthy families adored delicate pearl necklaces, gallant knights often wore pearls into battle. They believed the magic of these glossy gems would keep them unharmed. The Renaissance saw the royal courts of Europe full of pearls. Because pearls were so highly regarded, a number of European countries actually passed laws forbidding anyone but the nobility to decorate themselves with pearls. During the European expansion into the New World, the discovery of pearls in Central American waters added to the wealth of Europe. Unfortunately, wish for the sea-grown gems resulted in the reduction of virtually all the American pearl oyster populations by the 17th century. Until the early 1900s, natural pearls were accessible only to the rich and famous. In 1916, famed French jeweller Jacques Cartier bought his landmark store on New York’s famous Fifth Avenue by trading two pearl necklaces for the valuable property. But today, with the development of pearl cultivating industry, pearls are available and affordable to all.",
+    "rawOptions": [
+      "Pearls were used as currency in the earliest times.",
+      "Seamen caught tons of shells to find prized gems.",
+      "The value of a pearl could equal a country’s wealth.",
+      "Pearls were used as ingredients in cooking seafood."
+    ],
+    "rawCorrectAnswer": 2,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2023/05/YEVI-2023_angl_mova_demo.pdf",
+    "sourceFile": "data/raw/english/english-2023-demo.pdf",
+    "pageNumber": null,
+    "confidence": "medium",
+    "extractionNotes": "Parsed English reading single-choice task from two-column PDF text.",
+    "sourceType": "official_demo",
+    "subject": "english",
+    "sourceSlug": "english-demo-2023",
+    "sourceYear": "2023",
+    "originalNumber": 7,
+    "topic": "Reading",
+    "tags": [
+      "official_demo"
+    ]
+  },
+  {
+    "rawQuestionText": "Why did Cleopatra drink a glass of wine with a pearl dissolved in it?",
+    "rawPassage": "Confirm your choic Many thousands of years ago, long before written history, human beings probably discovered the first pearl while searching the seashore for food. Throughout history, the pearl, with its warm inner glow and shimmering, has been one of the most highly prized and desired gems. Countless references to the pearl can be found in the religions and mythology of cultures from the earliest times. Legend has it that the ancient Egyptian Queen Cleopatra dissolved a single pearl in a glass of wine and drank it, simply to prove to Mark Antony, the Roman General visiting her palace, that she could swallow the wealth of an entire nation in just one meal. In ancient Rome, pearls were considered a symbol of wealth and social standing. The Greeks valued the pearl for both its extraordinary beauty and association with love and marriage. During the Dark Ages, while ladies from wealthy families adored delicate pearl necklaces, gallant knights often wore pearls into battle. They believed the magic of these glossy gems would keep them unharmed. The Renaissance saw the royal courts of Europe full of pearls. Because pearls were so highly regarded, a number of European countries actually passed laws forbidding anyone but the nobility to decorate themselves with pearls. During the European expansion into the New World, the discovery of pearls in Central American waters added to the wealth of Europe. Unfortunately, wish for the sea-grown gems resulted in the reduction of virtually all the American pearl oyster populations by the 17th century. Until the early 1900s, natural pearls were accessible only to the rich and famous. In 1916, famed French jeweller Jacques Cartier bought his landmark store on New York’s famous Fifth Avenue by trading two pearl necklaces for the valuable property. But today, with the development of pearl cultivating industry, pearls are available and affordable to all.",
+    "rawOptions": [
+      "to boost her immunity",
+      "to preserve her beauty",
+      "to become famous",
+      "to impress her guest"
+    ],
+    "rawCorrectAnswer": 3,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2023/05/YEVI-2023_angl_mova_demo.pdf",
+    "sourceFile": "data/raw/english/english-2023-demo.pdf",
+    "pageNumber": null,
+    "confidence": "medium",
+    "extractionNotes": "Parsed English reading single-choice task from two-column PDF text.",
+    "sourceType": "official_demo",
+    "subject": "english",
+    "sourceSlug": "english-demo-2023",
+    "sourceYear": "2023",
+    "originalNumber": 8,
+    "topic": "Reading",
+    "tags": [
+      "official_demo"
+    ]
+  },
+  {
+    "rawQuestionText": "Why did medieval warriors bring pearls to battlefields?",
+    "rawPassage": "Confirm your choic Many thousands of years ago, long before written history, human beings probably discovered the first pearl while searching the seashore for food. Throughout history, the pearl, with its warm inner glow and shimmering, has been one of the most highly prized and desired gems. Countless references to the pearl can be found in the religions and mythology of cultures from the earliest times. Legend has it that the ancient Egyptian Queen Cleopatra dissolved a single pearl in a glass of wine and drank it, simply to prove to Mark Antony, the Roman General visiting her palace, that she could swallow the wealth of an entire nation in just one meal. In ancient Rome, pearls were considered a symbol of wealth and social standing. The Greeks valued the pearl for both its extraordinary beauty and association with love and marriage. During the Dark Ages, while ladies from wealthy families adored delicate pearl necklaces, gallant knights often wore pearls into battle. They believed the magic of these glossy gems would keep them unharmed. The Renaissance saw the royal courts of Europe full of pearls. Because pearls were so highly regarded, a number of European countries actually passed laws forbidding anyone but the nobility to decorate themselves with pearls. During the European expansion into the New World, the discovery of pearls in Central American waters added to the wealth of Europe. Unfortunately, wish for the sea-grown gems resulted in the reduction of virtually all the American pearl oyster populations by the 17th century. Until the early 1900s, natural pearls were accessible only to the rich and famous. In 1916, famed French jeweller Jacques Cartier bought his landmark store on New York’s famous Fifth Avenue by trading two pearl necklaces for the valuable property. But today, with the development of pearl cultivating industry, pearls are available and affordable to all.",
+    "rawOptions": [
+      "to prevent their defeat",
+      "to raise their fighting spirit",
+      "to show their military rank",
+      "to protect themselves from wounds"
+    ],
+    "rawCorrectAnswer": 3,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2023/05/YEVI-2023_angl_mova_demo.pdf",
+    "sourceFile": "data/raw/english/english-2023-demo.pdf",
+    "pageNumber": null,
+    "confidence": "medium",
+    "extractionNotes": "Parsed English reading single-choice task from two-column PDF text.",
+    "sourceType": "official_demo",
+    "subject": "english",
+    "sourceSlug": "english-demo-2023",
+    "sourceYear": "2023",
+    "originalNumber": 9,
+    "topic": "Reading",
+    "tags": [
+      "official_demo"
+    ]
+  },
+  {
+    "rawQuestionText": "How did Renaissance aristocrats ensure that pearls could be worn only by them?",
+    "rawPassage": "Confirm your choic Many thousands of years ago, long before written history, human beings probably discovered the first pearl while searching the seashore for food. Throughout history, the pearl, with its warm inner glow and shimmering, has been one of the most highly prized and desired gems. Countless references to the pearl can be found in the religions and mythology of cultures from the earliest times. Legend has it that the ancient Egyptian Queen Cleopatra dissolved a single pearl in a glass of wine and drank it, simply to prove to Mark Antony, the Roman General visiting her palace, that she could swallow the wealth of an entire nation in just one meal. In ancient Rome, pearls were considered a symbol of wealth and social standing. The Greeks valued the pearl for both its extraordinary beauty and association with love and marriage. During the Dark Ages, while ladies from wealthy families adored delicate pearl necklaces, gallant knights often wore pearls into battle. They believed the magic of these glossy gems would keep them unharmed. The Renaissance saw the royal courts of Europe full of pearls. Because pearls were so highly regarded, a number of European countries actually passed laws forbidding anyone but the nobility to decorate themselves with pearls. During the European expansion into the New World, the discovery of pearls in Central American waters added to the wealth of Europe. Unfortunately, wish for the sea-grown gems resulted in the reduction of virtually all the American pearl oyster populations by the 17th century. Until the early 1900s, natural pearls were accessible only to the rich and famous. In 1916, famed French jeweller Jacques Cartier bought his landmark store on New York’s famous Fifth Avenue by trading two pearl necklaces for the valuable property. But today, with the development of pearl cultivating industry, pearls are available and affordable to all.",
+    "rawOptions": [
+      "They set legal limits on wearing pearls.",
+      "They offered commoners man-made pearls.",
+      "They stopped selling family pearls.",
+      "They charged very high prices for pearls."
+    ],
+    "rawCorrectAnswer": 0,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2023/05/YEVI-2023_angl_mova_demo.pdf",
+    "sourceFile": "data/raw/english/english-2023-demo.pdf",
+    "pageNumber": null,
+    "confidence": "medium",
+    "extractionNotes": "Parsed English reading single-choice task from two-column PDF text.",
+    "sourceType": "official_demo",
+    "subject": "english",
+    "sourceSlug": "english-demo-2023",
+    "sourceYear": "2023",
+    "originalNumber": 10,
+    "topic": "Reading",
+    "tags": [
+      "official_demo"
+    ]
+  },
+  {
+    "rawQuestionText": "Which statement is TRUE, according to PARAGRAGH 3?",
+    "rawPassage": "Confirm your choic Many thousands of years ago, long before written history, human beings probably discovered the first pearl while searching the seashore for food. Throughout history, the pearl, with its warm inner glow and shimmering, has been one of the most highly prized and desired gems. Countless references to the pearl can be found in the religions and mythology of cultures from the earliest times. Legend has it that the ancient Egyptian Queen Cleopatra dissolved a single pearl in a glass of wine and drank it, simply to prove to Mark Antony, the Roman General visiting her palace, that she could swallow the wealth of an entire nation in just one meal. In ancient Rome, pearls were considered a symbol of wealth and social standing. The Greeks valued the pearl for both its extraordinary beauty and association with love and marriage. During the Dark Ages, while ladies from wealthy families adored delicate pearl necklaces, gallant knights often wore pearls into battle. They believed the magic of these glossy gems would keep them unharmed. The Renaissance saw the royal courts of Europe full of pearls. Because pearls were so highly regarded, a number of European countries actually passed laws forbidding anyone but the nobility to decorate themselves with pearls. During the European expansion into the New World, the discovery of pearls in Central American waters added to the wealth of Europe. Unfortunately, wish for the sea-grown gems resulted in the reduction of virtually all the American pearl oyster populations by the 17th century. Until the early 1900s, natural pearls were accessible only to the rich and famous. In 1916, famed French jeweller Jacques Cartier bought his landmark store on New York’s famous Fifth Avenue by trading two pearl necklaces for the valuable property. But today, with the development of pearl cultivating industry, pearls are available and affordable to all.",
+    "rawOptions": [
+      "Jacques Cartier became famous due to his pearl necklaces.",
+      "Pearls stopped being a status symbol in the 20th century.",
+      "Pearl oyster hunting made American population richer.",
+      "Europeans introduced pearl fashion into Central America."
+    ],
+    "rawCorrectAnswer": 1,
+    "rawExplanation": null,
+    "sourceUrl": "https://testportal.gov.ua/wp-content/uploads/2023/05/YEVI-2023_angl_mova_demo.pdf",
+    "sourceFile": "data/raw/english/english-2023-demo.pdf",
+    "pageNumber": null,
+    "confidence": "medium",
+    "extractionNotes": "Parsed English reading single-choice task from two-column PDF text.",
+    "sourceType": "official_demo",
+    "subject": "english",
+    "sourceSlug": "english-demo-2023",
+    "sourceYear": "2023",
+    "originalNumber": 11,
+    "topic": "Reading",
+    "tags": [
+      "official_demo"
+    ]
+  }
+]
