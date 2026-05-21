@@ -11,6 +11,8 @@ interface FormattedTextProps {
 
 const numberedLinePattern = /^\s*\d+[.)]\s+/;
 const bulletedLinePattern = /^\s*[-*•]\s+/;
+const explanationHeadingPattern =
+  /^(\d+\.\s+(Ключове поняття|Ключова ідея|Чому правильна відповідь|Чому не інші варіанти|Як запам’ятати).*|Коротко:)$/u;
 
 function classNames(...values: Array<string | false | null | undefined>): string {
   return values.filter(Boolean).join(" ");
@@ -29,6 +31,10 @@ function renderTextWithLineBreaks(text: string) {
       {line}
     </Fragment>
   ));
+}
+
+function isExplanationHeading(block: string): boolean {
+  return explanationHeadingPattern.test(block.trim());
 }
 
 export function FormattedText({
@@ -58,6 +64,20 @@ export function FormattedText({
           .filter((line) => line.trim().length > 0);
         const isNumberedList = lines.length > 1 && lines.every((line) => numberedLinePattern.test(line));
         const isBulletedList = lines.length > 1 && lines.every((line) => bulletedLinePattern.test(line));
+
+        if (lines.length === 1 && isExplanationHeading(lines[0])) {
+          return (
+            <p
+              key={`${blockIndex}-${block.slice(0, 24)}`}
+              className={classNames(
+                "mb-2 mt-5 font-black leading-snug text-ink first:mt-0 last:mb-0",
+                paragraphClassName
+              )}
+            >
+              {lines[0]}
+            </p>
+          );
+        }
 
         if (isNumberedList) {
           return (

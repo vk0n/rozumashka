@@ -9,6 +9,7 @@ import {
   formatPercentage,
   getQuestionSourceBadge
 } from "../lib/format";
+import { getOptionLetter } from "../lib/options";
 import { formatSourceFilter } from "../lib/sourceFilters";
 import { getAttempt } from "../storage/progress";
 import type { Question } from "../types";
@@ -168,7 +169,7 @@ export function ResultsPage() {
                           : "border-white bg-white/60 text-ink/65"
                     ].join(" ")}
                   >
-                    <span className="mr-2 font-black">{String.fromCharCode(65 + optionIndex)}.</span>
+                    <span className="mr-2 font-black">{getOptionLetter(result.question, optionIndex)}.</span>
                     {option}
                   </div>
                 ))}
@@ -182,7 +183,7 @@ export function ResultsPage() {
                     {result.question.explanationByOption.map((explanation, optionIndex) => (
                       <div key={`${optionIndex}-${explanation}`} className="rounded-2xl bg-ink/[0.03] p-3">
                         <p className="text-xs font-black uppercase tracking-[0.14em] text-ink/45">
-                          Варіант {String.fromCharCode(65 + optionIndex)}
+                          Варіант {getOptionLetter(result.question, optionIndex)}
                         </p>
                         <FormattedText text={explanation} compact className="mt-1 text-ink/65" />
                       </div>

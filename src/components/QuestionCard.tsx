@@ -1,5 +1,6 @@
 import type { Question } from "../types";
 import { formatDifficulty, getQuestionSourceBadge } from "../lib/format";
+import { getOptionLetter } from "../lib/options";
 import { FormattedText } from "./FormattedText";
 import { PassageBlock } from "./PassageBlock";
 import { QuestionImage } from "./QuestionImage";
@@ -84,7 +85,7 @@ export function QuestionCard({
                 ].join(" ")}
               >
                 <span className="mr-3 inline-flex h-7 w-7 items-center justify-center rounded-full bg-ink/10 text-sm">
-                  {String.fromCharCode(65 + index)}
+                  {getOptionLetter(question, index)}
                 </span>
                 <span className="align-middle leading-6">{option}</span>
               </button>
@@ -103,7 +104,7 @@ export function QuestionCard({
                 {question.explanationByOption.map((explanation, index) => (
                   <div key={`${index}-${explanation}`} className="rounded-2xl bg-ink/[0.03] p-3">
                     <p className="text-xs font-black uppercase tracking-[0.14em] text-ink/45">
-                      Варіант {String.fromCharCode(65 + index)}
+                      Варіант {getOptionLetter(question, index)}
                     </p>
                     <FormattedText text={explanation} compact className="mt-1 text-ink/65" />
                   </div>
