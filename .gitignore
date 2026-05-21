@@ -23,3 +23,14 @@ yarn-error.log*
 # Offline import artifacts that are not required at runtime
 data/backups/
 data/raw/
+
+# Offline OpenAI explanation batch artifacts
+data/explanations/explanation-improvement-input.json
+data/explanations/explanation-improvement-output.json
+data/explanations/explanation-improvement-prompt.md
+data/explanations/explanation-style-v2-report.md
+data/explanations/openai-batches/
+data/explanations/openai-explanation-batch-*.json
+data/explanations/openai-explanation-batch-*.jsonl
+data/explanations/openai-explanation-batch-*.md
+data/explanations/openai-explanation-retry-report.md

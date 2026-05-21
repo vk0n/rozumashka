@@ -76,18 +76,6 @@ npm run build
 
 ## Деплой на S3 + CloudFront
 
-Поточний bucket:
-
-```text
-maga-rozumashka
-```
-
-Поточний CloudFront distribution:
-
-```text
-E37PJA1WXZNSR8
-```
-
 Команди для редеплою:
 
 ```bash
@@ -97,7 +85,7 @@ npm run build
 aws s3 sync dist/ s3://maga-rozumashka --delete
 
 aws cloudfront create-invalidation \
-  --distribution-id E37PJA1WXZNSR8 \
+  --distribution-id <DISTRIBUTION_ID> \
   --paths "/*"
 ```
 
@@ -159,7 +147,45 @@ npm run import:zno-osvita
 npm run review:third-party
 npm run merge:third-party
 npm run generate:explanations
+npm run explanations:prepare
+npm run explanations:create-openai-batch
+npm run explanations:submit-openai-batch
+npm run explanations:check-openai-batch
+npm run explanations:download-openai-batch
+npm run explanations:normalize-openai-output
+npm run explanations:apply
 npm run merge:generated
 ```
 
 Ці скрипти використовуються лише під час розробки. Runtime сайту не скрапить інтернет і читає тільки статичні JSON-файли з `public/data/`.
+
+`explanations:prepare` збирає питання зі слабкими або неструктурованими поясненнями в `data/explanations/explanation-improvement-input.json` і створює prompt для редакторського/LLM-проходу. `explanations:apply` застосовує заповнений `explanation-improvement-output.json`, змінюючи тільки пояснення та explanation-related tags.
+
+## OpenAI Batch Для Пояснень
+
+OpenAI використовується тільки offline у Node-скриптах для розробки. Frontend не викликає OpenAI API, а `OPENAI_API_KEY` не потрапляє в `public/` або production bundle.
+
+Налаштування:
+
+```bash
+export OPENAI_API_KEY="YOUR_OPENAI_API_KEY"
+export OPENAI_EXPLANATION_MODEL="gpt-5.4-mini"
+```
+
+`OPENAI_EXPLANATION_MODEL` опційний; якщо його не вказати, використовується `gpt-5.4-mini`.
+
+Повний workflow:
+
+```bash
+npm run explanations:prepare
+npm run explanations:create-openai-batch
+OPENAI_API_KEY=... npm run explanations:submit-openai-batch
+OPENAI_API_KEY=... npm run explanations:check-openai-batch
+OPENAI_API_KEY=... npm run explanations:download-openai-batch
+npm run explanations:normalize-openai-output
+npm run explanations:apply
+npm run validate:questions
+npm run build
+```
+
+Детальна інструкція лежить у `data/explanations/README.md`.
