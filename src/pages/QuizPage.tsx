@@ -10,9 +10,18 @@ import {
   getSourceFilterEmptyMessage,
   parseSourceFilter
 } from "../lib/sourceFilters";
-import { buildAttempt, createResults, shuffleQuestions } from "../quiz/scoring";
+import {
+  buildQuizUnits,
+  createGroupMap,
+  createQuestionMap,
+  selectQuizUnitsByQuestionCount,
+  shuffleQuizUnits,
+  type QuestionGroupContext
+} from "../quiz/buildQuizUnits";
+import { flattenQuizUnits } from "../quiz/flattenQuizUnits";
+import { buildAttempt, createResults } from "../quiz/scoring";
 import { getMistakeIds, saveAttempt, updateMistakesFromResults } from "../storage/progress";
-import type { Question, QuizMode, Subject } from "../types";
+import type { ExamSelectionType, Question, QuizMode, Subject } from "../types";
 
 function parseMode(value: string | null): QuizMode {
   if (value === "exam" || value === "mistakes" || value === "practice") {
@@ -27,12 +36,20 @@ function parsePositiveInt(value: string | null, fallback: number): number {
   return Number.isFinite(parsed) && parsed > 0 ? Math.floor(parsed) : fallback;
 }
 
+function parseExamSelectionType(value: string | null): ExamSelectionType {
+  return value === "exam_set" ? "exam_set" : "random";
+}
+
 export function QuizPage() {
   const { subjectId } = useParams();
   const [searchParams] = useSearchParams();
   const navigate = useNavigate();
   const [subject, setSubject] = useState<Subject | null>(null);
   const [questions, setQuestions] = useState<Question[]>([]);
+  const [groupContextByQuestionId, setGroupContextByQuestionId] = useState<Map<string, QuestionGroupContext>>(
+    new Map()
+  );
+  const [activeExamSetTitle, setActiveExamSetTitle] = useState<string | undefined>();
   const [currentIndex, setCurrentIndex] = useState(0);
   const [answers, setAnswers] = useState<Record<string, number | undefined>>({});
   const [revealed, setRevealed] = useState<Record<string, boolean>>({});
@@ -46,6 +63,10 @@ export function QuizPage() {
   const requestedCount = parsePositiveInt(searchParams.get("count"), 8);
   const topic = searchParams.get("topic") ?? "all";
   const sourceFilter = parseSourceFilter(searchParams.get("sourceFilter"));
+  const examSelectionType = mode === "exam" ? parseExamSelectionType(searchParams.get("examSelectionType")) : "random";
+  const examSetId = searchParams.get("examSetId") ?? undefined;
+  const sourceSite = searchParams.get("sourceSite") ?? undefined;
+  const sourceYear = searchParams.get("sourceYear") ?? undefined;
   const durationMinutes = parsePositiveInt(searchParams.get("duration"), 0);
 
   useEffect(() => {
@@ -63,20 +84,66 @@ export function QuizPage() {
           return;
         }
 
-        const mistakeIds = new Set(getMistakeIds(result.subject.id));
+        const questionsById = createQuestionMap(result.questions);
+        const groupsById = createGroupMap(result.groups);
+        let quizQuestions: Question[] = [];
+        let nextGroupContextByQuestionId = new Map<string, QuestionGroupContext>();
+        let nextExamSetTitle: string | undefined;
         const bySource = filterQuestionsBySource(result.questions, sourceFilter);
+        const byMetadata = bySource.filter((question) => {
+          if (sourceSite && question.sourceSite !== sourceSite) {
+            return false;
+          }
+
+          if (sourceYear && String(question.sourceYear ?? "") !== sourceYear) {
+            return false;
+          }
+
+          return true;
+        });
+
         setSourceFilterEmpty(bySource.length === 0);
-        const byTopic =
-          topic === "all" || mode === "mistakes"
-            ? bySource
-            : bySource.filter((question) => question.topic === topic);
-        const pool =
-          mode === "mistakes"
-            ? bySource.filter((question) => mistakeIds.has(question.id))
-            : byTopic;
+
+        if (mode === "exam" && examSelectionType === "exam_set") {
+          const examSet = result.examSets.find((item) => item.id === examSetId);
+
+          if (!examSet) {
+            setError("Варіант іспиту не знайдено або він більше не доступний.");
+            return;
+          }
+
+          const flattened = flattenQuizUnits(examSet.units, questionsById, groupsById);
+          quizQuestions = flattened.questions;
+          nextGroupContextByQuestionId = flattened.groupContextByQuestionId;
+          nextExamSetTitle = examSet.title;
+        } else {
+          const mistakeIds = new Set(getMistakeIds(result.subject.id));
+          const byTopic =
+            topic === "all" || mode === "mistakes"
+              ? byMetadata
+              : byMetadata.filter((question) => question.topic === topic);
+          const pool =
+            mode === "mistakes"
+              ? byMetadata.filter((question) => mistakeIds.has(question.id))
+              : byTopic;
+          const units = buildQuizUnits(pool, result.groups, {
+            groupMatchMode: mode === "mistakes" ? "any" : "all"
+          });
+          const selectedUnits = selectQuizUnitsByQuestionCount(
+            shuffleQuizUnits(units),
+            requestedCount,
+            groupsById
+          );
+          const flattened = flattenQuizUnits(selectedUnits, questionsById, groupsById);
+
+          quizQuestions = flattened.questions;
+          nextGroupContextByQuestionId = flattened.groupContextByQuestionId;
+        }
 
         setSubject(result.subject);
-        setQuestions(shuffleQuestions(pool).slice(0, Math.min(requestedCount, pool.length)));
+        setQuestions(quizQuestions);
+        setGroupContextByQuestionId(nextGroupContextByQuestionId);
+        setActiveExamSetTitle(nextExamSetTitle);
         setCurrentIndex(0);
         setAnswers({});
         setRevealed({});
@@ -87,7 +154,7 @@ export function QuizPage() {
         setError(caughtError instanceof Error ? caughtError.message : "Невідома помилка");
       })
       .finally(() => setIsLoading(false));
-  }, [durationMinutes, mode, requestedCount, sourceFilter, subjectId, topic]);
+  }, [durationMinutes, examSelectionType, examSetId, mode, requestedCount, sourceFilter, sourceSite, sourceYear, subjectId, topic]);
 
   function finishQuiz() {
     if (!subject || questions.length === 0 || finishedRef.current) {
@@ -96,7 +163,13 @@ export function QuizPage() {
 
     finishedRef.current = true;
     const results = createResults(questions, answers);
-    const attempt = buildAttempt(subject, mode, results, sourceFilter);
+    const attempt = buildAttempt(subject, mode, results, sourceFilter, {
+      examSelectionType,
+      examSetId,
+      examSetTitle: activeExamSetTitle,
+      sourceSite,
+      sourceYear
+    });
     saveAttempt(attempt);
     updateMistakesFromResults(subject.id, results);
     navigate(`/results/${attempt.id}`, { replace: true });
@@ -192,13 +265,16 @@ export function QuizPage() {
     <div className="space-y-5">
       <section className="study-card p-5">
         <div className="flex flex-col gap-4 sm:flex-row sm:items-center sm:justify-between">
-          <div>
-            <p className="text-sm font-black uppercase tracking-[0.2em] text-moss">
+        <div>
+          <p className="text-sm font-black uppercase tracking-[0.2em] text-moss">
               {subject.title} · {formatMode(mode)}
             </p>
             <h1 className="mt-1 font-display text-3xl font-black">
               Питання {currentIndex + 1} з {questions.length}
             </h1>
+            {activeExamSetTitle ? (
+              <p className="mt-1 text-sm font-semibold text-ink/60">{activeExamSetTitle}</p>
+            ) : null}
           </div>
           <div className="flex flex-wrap gap-2">
             <span className="pill bg-white text-ink/70">відповідей: {answeredCount}</span>
@@ -214,6 +290,7 @@ export function QuizPage() {
 
       <QuestionCard
         question={question}
+        groupContext={groupContextByQuestionId.get(question.id)}
         selectedAnswer={selectedAnswer}
         revealed={isRevealed}
         locked={mode !== "exam" && isRevealed}

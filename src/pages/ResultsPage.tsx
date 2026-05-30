@@ -50,6 +50,13 @@ export function ResultsPage() {
           {attempt.subjectTitle} · {formatMode(attempt.mode)} · {formatSourceFilter(attempt.sourceFilter)} ·{" "}
           {formatDateTime(attempt.dateTime)}
         </p>
+        <p className="mt-2 text-sm font-semibold text-ink/60">
+          {attempt.examSelectionType === "exam_set"
+            ? attempt.examSetTitle ?? "Конкретний варіант іспиту"
+            : "Випадковий тест"}
+          {attempt.sourceSite ? ` · ${attempt.sourceSite}` : ""}
+          {attempt.sourceYear ? ` · ${attempt.sourceYear}` : ""}
+        </p>
         <h1 className="mt-3 font-display text-5xl font-black">
           {attempt.score} / {attempt.totalQuestions}
         </h1>
@@ -123,6 +130,17 @@ export function ResultsPage() {
         <h2 className="font-display text-4xl font-black">Детальний розбір</h2>
         {attempt.results.map((result, index) => {
           const sourceBadge = getQuestionSourceBadge(result.question);
+          const previousGroupId = attempt.results[index - 1]?.question.groupId;
+          const groupResults = result.question.groupId
+            ? attempt.results.filter((item) => item.question.groupId === result.question.groupId)
+            : [];
+          const groupOrder =
+            result.question.groupId && groupResults.length > 0
+              ? groupResults.findIndex((item) => item.question.id === result.question.id) + 1
+              : null;
+          const shouldRenderPassage =
+            Boolean(result.question.passage) &&
+            (!result.question.groupId || previousGroupId !== result.question.groupId);
 
           return (
             <article key={result.question.id} className="study-card p-6">
@@ -142,7 +160,18 @@ export function ResultsPage() {
                 ) : null}
               </div>
 
-              {result.question.passage ? <PassageBlock passage={result.question.passage} className="mt-5" /> : null}
+              {shouldRenderPassage && result.question.passage ? (
+                <PassageBlock
+                  passage={result.question.passage}
+                  label={result.question.groupId ? "Спільна умова до завдань" : "Текст до завдання"}
+                  className="mt-5"
+                />
+              ) : null}
+              {result.question.groupId && groupOrder ? (
+                <p className="mt-4 rounded-2xl bg-moss/10 px-4 py-3 text-sm font-black text-moss">
+                  Завдання {groupOrder} із {groupResults.length} до цього тексту
+                </p>
+              ) : null}
               {result.question.imageUrl ? (
                 <QuestionImage imageUrl={result.question.imageUrl} alt={result.question.question} className="mt-5" />
               ) : null}

@@ -6,14 +6,18 @@ export const sourceTypes = [
   "generated",
   "manually_added"
 ] as const;
+export const subjectIds = ["tznk", "english", "management", "psychology-sociology"] as const;
 export const quizModes = ["practice", "exam", "mistakes"] as const;
 export const sourceFilters = ["all", "imported", "generated"] as const;
+export const examSelectionTypes = ["random", "exam_set"] as const;
 
+export type SubjectId = (typeof subjectIds)[number];
 export type QuestionType = (typeof questionTypes)[number];
 export type Difficulty = (typeof difficulties)[number];
 export type SourceType = (typeof sourceTypes)[number];
 export type QuizMode = (typeof quizModes)[number];
 export type SourceFilter = (typeof sourceFilters)[number];
+export type ExamSelectionType = (typeof examSelectionTypes)[number];
 
 export interface Subject {
   id: string;
@@ -30,13 +34,19 @@ export interface Subject {
 
 export interface Question {
   id: string;
-  subject: string;
+  subject: SubjectId;
   type: QuestionType;
   topic: string;
   subtopic?: string;
   difficulty: Difficulty;
   sourceType: SourceType;
   sourceUrl?: string | null;
+  sourceSite?: string | null;
+  sourceYear?: number | string | null;
+  sourceExamSetId?: string;
+  sourceQuestionOrder?: number;
+  groupId?: string;
+  groupOrder?: number;
   reviewed: boolean;
   question: string;
   passage?: string;
@@ -48,9 +58,44 @@ export interface Question {
   tags?: string[];
 }
 
+export type QuizUnit =
+  | { type: "question"; questionId: string }
+  | { type: "group"; groupId: string };
+
+export interface QuestionGroup {
+  id: string;
+  subject: SubjectId;
+  title: string | null;
+  passage: string;
+  questionIds: string[];
+  sourceType: SourceType;
+  sourceUrl: string | null;
+  sourceSite: string | null;
+  sourceYear: number | string | null;
+  tags: string[];
+}
+
+export interface ExamSet {
+  id: string;
+  subject: SubjectId;
+  title: string;
+  description: string | null;
+  sourceType: SourceType;
+  sourceSite: string;
+  sourceUrl: string | null;
+  year: number | string | null;
+  variant: string | null;
+  tags: string[];
+  units: QuizUnit[];
+}
+
 export interface QuizSetup {
   subjectId: string;
   mode: QuizMode;
+  examSelectionType?: ExamSelectionType;
+  examSetId?: string;
+  sourceSite?: string;
+  sourceYear?: number | string;
   sourceFilter: SourceFilter;
   questionCount: number;
   durationMinutes?: number;
@@ -76,6 +121,11 @@ export interface CompletedAttempt {
   subject: string;
   subjectTitle: string;
   mode: QuizMode;
+  examSelectionType?: ExamSelectionType;
+  examSetId?: string;
+  examSetTitle?: string;
+  sourceSite?: string;
+  sourceYear?: number | string;
   sourceFilter?: SourceFilter;
   score: number;
   totalQuestions: number;

@@ -1,4 +1,5 @@
 import type { Question } from "../types";
+import type { QuestionGroupContext } from "../quiz/buildQuizUnits";
 import { formatDifficulty, getQuestionSourceBadge } from "../lib/format";
 import { getOptionLetter } from "../lib/options";
 import { FormattedText } from "./FormattedText";
@@ -10,6 +11,7 @@ interface QuestionCardProps {
   selectedAnswer: number | null;
   revealed: boolean;
   locked?: boolean;
+  groupContext?: QuestionGroupContext;
   onSelect: (optionIndex: number) => void;
 }
 
@@ -18,6 +20,7 @@ export function QuestionCard({
   selectedAnswer,
   revealed,
   locked = false,
+  groupContext,
   onSelect
 }: QuestionCardProps) {
   const sourceBadge = getQuestionSourceBadge(question);
@@ -47,7 +50,16 @@ export function QuestionCard({
         </div>
       </div>
       <div className="space-y-6 p-5 sm:p-7">
-        {question.passage ? <PassageBlock passage={question.passage} /> : null}
+        {groupContext ? (
+          <div className="space-y-3">
+            <PassageBlock passage={groupContext.group.passage} label="Спільна умова до завдань" />
+            <p className="rounded-2xl bg-moss/10 px-4 py-3 text-sm font-black text-moss">
+              Завдання {groupContext.order} із {groupContext.total} до цього тексту
+            </p>
+          </div>
+        ) : question.passage ? (
+          <PassageBlock passage={question.passage} />
+        ) : null}
         {question.imageUrl ? <QuestionImage imageUrl={question.imageUrl} alt={question.question} /> : null}
 
         <div className="question-text">

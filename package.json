@@ -6,8 +6,11 @@
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
+    "test": "tsx tools/test-quiz-units.ts",
     "preview": "vite preview",
     "validate:questions": "tsx tools/validate-questions.ts",
+    "validate:exam-sets": "tsx tools/validate-exam-sets.ts",
+    "migrate:exam-sets": "tsx tools/migrate/build-exam-sets-and-groups.ts",
     "import:download": "tsx tools/import/download-sources.ts",
     "import:extract": "tsx tools/import/extract-and-process.ts",
     "import:report": "tsx tools/import/create-import-report.ts",

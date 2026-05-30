@@ -2,6 +2,7 @@ import type {
   CompletedAttempt,
   Question,
   QuestionResult,
+  ExamSelectionType,
   QuizMode,
   SourceFilter,
   Subject,
@@ -60,7 +61,14 @@ export function buildAttempt(
   subject: Subject,
   mode: QuizMode,
   results: QuestionResult[],
-  sourceFilter: SourceFilter = "all"
+  sourceFilter: SourceFilter = "all",
+  metadata: {
+    examSelectionType?: ExamSelectionType;
+    examSetId?: string;
+    examSetTitle?: string;
+    sourceSite?: string;
+    sourceYear?: number | string;
+  } = {}
 ): CompletedAttempt {
   const score = results.filter((result) => result.isCorrect).length;
   const totalQuestions = results.length;
@@ -74,6 +82,11 @@ export function buildAttempt(
     subject: subject.id,
     subjectTitle: subject.title,
     mode,
+    examSelectionType: metadata.examSelectionType,
+    examSetId: metadata.examSetId,
+    examSetTitle: metadata.examSetTitle,
+    sourceSite: metadata.sourceSite,
+    sourceYear: metadata.sourceYear,
     sourceFilter,
     score,
     totalQuestions,

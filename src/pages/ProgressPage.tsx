@@ -92,6 +92,11 @@ export function ProgressPage() {
               <span>
                 <strong>{attempt.subjectTitle}</strong>
                 <span className="ml-2 text-sm text-ink/60">{formatMode(attempt.mode)}</span>
+                <span className="ml-2 text-sm text-ink/50">
+                  {attempt.examSelectionType === "exam_set"
+                    ? attempt.examSetTitle ?? "Конкретний варіант"
+                    : "Випадковий тест"}
+                </span>
               </span>
               <span className="font-black">
                 {attempt.score}/{attempt.totalQuestions} · {formatPercentage(attempt.percentage)}

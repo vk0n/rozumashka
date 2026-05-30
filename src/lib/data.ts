@@ -1,5 +1,5 @@
-import { questionsSchema, subjectsSchema } from "./schemas";
-import type { Question, Subject } from "../types";
+import { examSetsSchema, questionGroupsSchema, questionsSchema, subjectsSchema } from "./schemas";
+import type { ExamSet, Question, QuestionGroup, Subject } from "../types";
 
 const assetUrl = (path: string) => `${import.meta.env.BASE_URL}${path.replace(/^\//, "")}`;
 
@@ -28,15 +28,35 @@ export async function loadQuestionsForSubject(subject: Subject): Promise<Questio
   return questionsSchema.parse(data) as Question[];
 }
 
+export async function loadQuestionGroups(): Promise<QuestionGroup[]> {
+  const data = await fetchJson("data/question-groups.json");
+  return questionGroupsSchema.parse(data) as QuestionGroup[];
+}
+
+export async function loadExamSets(): Promise<ExamSet[]> {
+  const data = await fetchJson("data/exam-sets.json");
+  return examSetsSchema.parse(data) as ExamSet[];
+}
+
 export async function loadSubjectWithQuestions(
   subjectId: string
-): Promise<{ subject: Subject; questions: Question[] } | null> {
+): Promise<{ subject: Subject; questions: Question[]; groups: QuestionGroup[]; examSets: ExamSet[] } | null> {
   const subject = await loadSubject(subjectId);
 
   if (!subject) {
     return null;
   }
 
-  const questions = await loadQuestionsForSubject(subject);
-  return { subject, questions };
+  const [questions, groups, examSets] = await Promise.all([
+    loadQuestionsForSubject(subject),
+    loadQuestionGroups(),
+    loadExamSets()
+  ]);
+
+  return {
+    subject,
+    questions,
+    groups: groups.filter((group) => group.subject === subject.id),
+    examSets: examSets.filter((examSet) => examSet.subject === subject.id)
+  };
 }
