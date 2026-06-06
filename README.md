@@ -154,6 +154,14 @@ npm run explanations:check-openai-batch
 npm run explanations:download-openai-batch
 npm run explanations:normalize-openai-output
 npm run explanations:apply
+npm run explanations:prepare-english-v3
+npm run explanations:create-openai-english-v3-batch
+npm run explanations:normalize-openai-english-v3-output
+npm run explanations:apply-english-v3
+npm run explanations:prepare-tznk-v3
+npm run explanations:create-openai-tznk-v3-batch
+npm run explanations:normalize-openai-tznk-v3-output
+npm run explanations:apply-tznk-v3
 npm run merge:generated
 ```
 
@@ -188,4 +196,38 @@ npm run validate:questions
 npm run build
 ```
 
+### ТЗНК Explanation Style V3
+
+ТЗНК workflow окремо визначає, чи має завдання корисне універсальне правило (`reusable_rules`), чи потребує стандартизованої секції `no_general_rule`. Невпевнені відповіді відокремлюються для ручного перегляду й не потрапляють до auto-apply.
+
+```bash
+npm run explanations:prepare-tznk-v3
+npm run explanations:create-openai-tznk-v3-batch
+OPENAI_API_KEY=... npm run explanations:submit-openai-tznk-v3-batch
+OPENAI_API_KEY=... npm run explanations:check-openai-tznk-v3-batch
+OPENAI_API_KEY=... npm run explanations:download-openai-tznk-v3-batch
+npm run explanations:normalize-openai-tznk-v3-output
+npm run explanations:apply-tznk-v3
+npm run validate:questions
+npm run build
+```
+
+Артефакти зберігаються в `data/explanations/tznk-style-v3-batch-1/`; попередні batches не перезаписуються.
+
 Детальна інструкція лежить у `data/explanations/README.md`.
+
+### English Explanation Style V3
+
+Новий incremental English-only batch додає практичний блок про правила, сигнали й типові пастки на іспиті. Він зберігається окремо в `data/explanations/english-style-v3-batch-1/` і не перезаписує style-v2 артефакти.
+
+```bash
+npm run explanations:prepare-english-v3
+npm run explanations:create-openai-english-v3-batch
+OPENAI_API_KEY=... npm run explanations:submit-openai-english-v3-batch
+OPENAI_API_KEY=... npm run explanations:check-openai-english-v3-batch
+OPENAI_API_KEY=... npm run explanations:download-openai-english-v3-batch
+npm run explanations:normalize-openai-english-v3-output
+npm run explanations:apply-english-v3
+npm run validate:questions
+npm run build
+```

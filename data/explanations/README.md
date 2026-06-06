@@ -163,3 +163,114 @@ npm run build
 - Do not apply explanations until `normalize-openai-output` has accepted them.
 - Review `openai-explanation-batch-report.md` before applying if there are many rejected or uncertain outputs.
 - If OpenAI returns `token_limit_exceeded` during batch validation, reduce `OPENAI_BATCH_CHUNK_SIZE` and recreate the chunk files.
+
+## Incremental English Style V3 Batch
+
+English style v3 is a separate English-only workflow. It adds the practical section:
+
+```text
+4. Які правила треба знати, щоб не допустити тут помилок на іспиті
+```
+
+It does not reuse or overwrite style-v2 batch files. All artifacts are stored under:
+
+```text
+data/explanations/english-style-v3-batch-1/
+```
+
+Prepare English candidates that do not yet have the `explanation_style_v3` tag:
+
+```bash
+npm run explanations:prepare-english-v3
+```
+
+Create the isolated Batch API JSONL:
+
+```bash
+npm run explanations:create-openai-english-v3-batch
+```
+
+Submit, check, and download:
+
+```bash
+OPENAI_API_KEY=... npm run explanations:submit-openai-english-v3-batch
+OPENAI_API_KEY=... npm run explanations:check-openai-english-v3-batch
+OPENAI_API_KEY=... npm run explanations:download-openai-english-v3-batch
+```
+
+Normalize and validate the returned explanations:
+
+```bash
+npm run explanations:normalize-openai-english-v3-output
+```
+
+Only the explicit apply command modifies `public/data/questions/english.json`:
+
+```bash
+npm run explanations:apply-english-v3
+npm run validate:questions
+npm run build
+```
+
+The apply script creates a backup under `data/backups/`, updates by question id, and allows changes only to `explanation`, `explanationByOption`, and explanation-related tags.
+
+The workflow uses `OPENAI_EXPLANATION_MODEL` when set and otherwise follows the project default, currently `gpt-5.4-mini`.
+
+## Incremental ТЗНК Style V3 Batch
+
+ТЗНК style v3 is a separate ТЗНК-only workflow. It adds:
+
+```text
+4. Які правила треба знати, щоб не допустити тут помилок на іспиті
+```
+
+All artifacts live under:
+
+```text
+data/explanations/tznk-style-v3-batch-1/
+```
+
+Prepare candidates and create the isolated Batch API input:
+
+```bash
+npm run explanations:prepare-tznk-v3
+npm run explanations:create-openai-tznk-v3-batch
+```
+
+Submit, check, and download:
+
+```bash
+OPENAI_API_KEY=... npm run explanations:submit-openai-tznk-v3-batch
+OPENAI_API_KEY=... npm run explanations:check-openai-tznk-v3-batch
+OPENAI_API_KEY=... npm run explanations:download-openai-tznk-v3-batch
+```
+
+Normalize and apply:
+
+```bash
+npm run explanations:normalize-openai-tznk-v3-output
+npm run explanations:apply-tznk-v3
+npm run validate:questions
+npm run build
+```
+
+The rules section has two valid modes:
+
+- `reusable_rules` gives a concrete, reusable algorithm or exam strategy.
+- `no_general_rule` is used when a generalized rule would be artificial or merely repeat the solution.
+
+For `no_general_rule`, section 4 must contain exactly:
+
+```text
+Для цього завдання немає окремого універсального правила. На іспиті потрібно послідовно застосувати всі умови задачі та перевірити, який варіант їм відповідає.
+```
+
+Valid outputs with `uncertain=true` are written only to:
+
+```text
+data/explanations/tznk-style-v3-batch-1/openai-explanation-batch-manual-review.json
+```
+
+They are excluded from the normalized auto-apply file. Review and resolve them manually before any separate application.
+
+The apply command creates a backup under `data/backups/tznk-explanations-style-v3-before-*`. It updates only `explanation`, `explanationByOption`, and explanation-related tags. Question text, passage, options, correct answer, source metadata, and `reviewed` remain unchanged.
